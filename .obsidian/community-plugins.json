@@ -2,9 +2,10 @@
   "obsidian-hider",
   "obsidian-kanban",
   "obsidian-style-settings",
-  "obsidian-html-plugin",
-  "lazy-plugins",
   "ink",
-  "surfing",
-  "obsidian-git"
+  "obsidian-git",
+  "lazy-plugins",
+  "fast-text-color",
+  "custom-classes",
+  "obsidian-icon-folder"
 ]

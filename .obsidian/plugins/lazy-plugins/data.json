@@ -24,10 +24,10 @@
         "startupType": "disabled"
       },
       "custom-classes": {
-        "startupType": "disabled"
+        "startupType": "instant"
       },
       "obsidian-custom-frames": {
-        "startupType": "long"
+        "startupType": "short"
       },
       "dataview": {
         "startupType": "disabled"
@@ -36,10 +36,10 @@
         "startupType": "disabled"
       },
       "easy-typing-obsidian": {
-        "startupType": "disabled"
+        "startupType": "short"
       },
       "obsidian-enhancing-export": {
-        "startupType": "disabled"
+        "startupType": "long"
       },
       "obsidian-excalidraw-plugin": {
         "startupType": "disabled"
@@ -51,7 +51,7 @@
         "startupType": "instant"
       },
       "obsidian-html-plugin": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-kanban": {
         "startupType": "instant"
@@ -96,7 +96,7 @@
         "startupType": "instant"
       },
       "surfing": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "templater-obsidian": {
         "startupType": "disabled"
@@ -117,7 +117,7 @@
         "startupType": "disabled"
       },
       "various-complements": {
-        "startupType": "long"
+        "startupType": "short"
       },
       "vscode-editor": {
         "startupType": "long"
@@ -126,7 +126,7 @@
         "startupType": "disabled"
       },
       "vault-size-history": {
-        "startupType": "long"
+        "startupType": "short"
       },
       "auto-folder-collapse": {
         "startupType": "long"
@@ -141,9 +141,12 @@
         "startupType": "long"
       },
       "fast-text-color": {
-        "startupType": "long"
+        "startupType": "instant"
       },
       "obsidian-git": {
+        "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
         "startupType": "instant"
       }
     }
