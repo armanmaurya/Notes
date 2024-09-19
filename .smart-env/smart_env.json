@@ -1,0 +1,27 @@
+{
+  "smart_blocks": {
+    "embed_model": {
+      "model_key": "None",
+      "None": {
+        "min_chars": 50
+      }
+    }
+  },
+  "smart_sources": {
+    "embed_model": {
+      "model_key": "TaylorAI/bge-micro-v2",
+      "TaylorAI/bge-micro-v2": {
+        "min_chars": 50
+      }
+    }
+  },
+  "is_obsidian_vault": true,
+  "smart_notices": {
+    "muted": {
+      "done initial scan": true,
+      "Notice muted": true,
+      "done embedding": true,
+      "unsupported file type": true
+    }
+  }
+}

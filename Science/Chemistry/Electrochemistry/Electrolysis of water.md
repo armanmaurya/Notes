@@ -1,0 +1,2 @@
+- Water is neutral molecule, [Electrolysis](Jee/Chemistry/Electrochemistry/Electrolysis.md) of pure water is very difficult.
+- However if small amount of acid-base is added, charge can be generated, then [Electrolysis](Jee/Chemistry/Electrochemistry/Electrolysis.md) of water is easy.

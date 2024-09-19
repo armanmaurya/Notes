@@ -1,0 +1,1 @@
+Natural Phenomenon in which [Solvent](Jee/Chemistry/Solution/Solvent.md) molecule move from low conc. Region to high conc. Region across Seri-Permeable membrane.

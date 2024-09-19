@@ -1,0 +1,1 @@
+A motion which repeats itself identically after a fixed interval of time is called periodic motion. e.g., orbital motion of the earth around the sun, motion of arms of a clock, motion of a simple pendulum etc.

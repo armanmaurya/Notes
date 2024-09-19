@@ -1,0 +1,19 @@
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.workspace-sidedock-vault-profile {
+    border-radius: 16px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
+}
+
+
+

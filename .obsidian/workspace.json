@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "160ab62c08976c7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "37537fb3447bf3be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd274404c86c013f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First Year/1st Sem/EVS/MULTIDISCIPLINARY NATURE OF ENVIRONMENTAL STUDIES.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0787940d305afbbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b0f51a8de36382d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39a1e926bcd90bf3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37ced00f08491807",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8065f225261b7797",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329
+  },
+  "right": {
+    "id": "13142d84d2d3b245",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a54a618c7f98b8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aef4c67603b39791",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "First Year/1st Sem/EVS/MULTIDISCIPLINARY NATURE OF ENVIRONMENTAL STUDIES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a233f8784bee8d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "First Year/1st Sem/EVS/MULTIDISCIPLINARY NATURE OF ENVIRONMENTAL STUDIES.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59f3c795b7690d1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "First Year/1st Sem/EVS/MULTIDISCIPLINARY NATURE OF ENVIRONMENTAL STUDIES.md"
+              }
+            }
+          },
+          {
+            "id": "8973ff742300acd2",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bdf322360e82fc8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "80bf6b65ca93ea26",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8ef00d452cc2b64",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "surfing:surfing-bookmark-manager": false,
+      "obsidian-custom-frames:Open ChatGPT": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-kanban:Create new board": false,
+      "vscode-editor:Create Code File": false,
+      "vault-size-history:Vault size history": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "39a1e926bcd90bf3",
+  "lastOpenFiles": [
+    "Science/Maths/Straight Line/Orthocenter (H).md",
+    "Science/Chemistry/Solution/Colligative Properties/Relative Lowering Of Vapour Pressure/Vapour Pressure/Vapour Pressure.md",
+    "Science/Chemistry/Solution/Colligative Properties/Relative Lowering Of Vapour Pressure/Boiling Point.md",
+    "Science/Chemistry/Solution/Colligative Properties/Elevation In Boiling Point.md",
+    "Science/Chemistry/Solution/Colligative Properties/Depression In Freezing Point.md",
+    "First Year/1st Sem/EVS/Natural Resources.md",
+    "First Year/1st Sem/EVS/EVS-NOTES_.pdf",
+    "First Year/1st Sem/EVS/MULTIDISCIPLINARY NATURE OF ENVIRONMENTAL STUDIES.md",
+    "Excalidraw/Drawing 2024-09-15 12.19.23.excalidraw.md",
+    "Python/OpenCV/Untitled.md",
+    "First Year/1st Sem/EVS",
+    "First Year/1st Sem",
+    "First Year",
+    "Ink/Writing/2024.9.15 - 12.20pm.writing",
+    "Ink/Writing",
+    "Ink/Drawing/2024.9.15 - 12.19pm.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "Ink/Writing/2024.9.15 - 11.07am.writing",
+    "Ink/Drawing.md",
+    "Science/Maths/3D Geometry/Direction Cosine Of Vector.md",
+    "Excalidraw/Drawing 2024-09-15 10.45.45.excalidraw.md",
+    "Python/OpenCV/OpenCV_ Sobel Derivatives_files/Sobel_Derivatives_Tutorial_Theory_Intensity_Function.jpg",
+    "Python/OpenCV/OpenCV_ Sobel Derivatives_files/Sobel_Derivatives_Tutorial_Theory_dIntensity_Function.jpg",
+    "Python/OpenCV/OpenCV_ Sobel Derivatives_files/Sobel_Derivatives_Tutorial_Theory_0.jpg",
+    "Python/OpenCV/OpenCV_ Sobel Derivatives_files/Sobel_Derivatives_Tutorial_Result.jpg",
+    "Python/OpenCV/OpenCV_ Sobel Derivatives_files/opencv-logo-small.png",
+    "Python/OpenCV/OpenCV_ Sobel Derivatives_files/close.svg",
+    "Science/Physics/Current/Combination of Resistors.md",
+    "Science/Physics/Current/Average Relaxation time.md",
+    "Science/Physics/Current/Current.md",
+    "Jee/Physics/Electrostatics/Charge.md",
+    "Install Debian Packages in Arch.md",
+    "Science/Physics/Current/Combinations of Cells.md",
+    "Science/Physics/Current/Cells.md",
+    "Science/Maths/Quadratic Equation/Polynomial in One Variable.md",
+    "Science/Maths/Matrices/Untitled Kanban.md",
+    "Science/Maths/Quadratic Equation/Quadratic Equation.md",
+    "Untitled Kanban.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Science/Maths/Matrices/Matrices.md",
+    "Science/Maths/Matrices/Co-Factor of Matrix.md",
+    "Science/Maths/Matrices/what.md",
+    "baraber.svg"
+  ]
+}

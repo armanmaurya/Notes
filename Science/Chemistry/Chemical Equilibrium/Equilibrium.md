@@ -1,0 +1,2 @@
+Equilibrium represents the state of a [system](../Thermodynamics/System%20And%20Surroundings.md)  in which the properties of system do not change with time such as pressure, temperature, velocity, acceleration, etc.
+Any system which attain equilibrium, two opposite processes are involved. Equilibrium is attained when the rate of these opposite processes become equal.

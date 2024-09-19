@@ -1,0 +1,1 @@
+[Solution](Jee/Chemistry/Solution/Solution.md) having lower magnitude of [Osmotic Pressure](Jee/Chemistry/Solution/Colligative%20Properties/Osmotic%20Pressure/Osmotic%20Pressure.md).

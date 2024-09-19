@@ -1,0 +1,10 @@
+Lets say we have an image we fed into a system called a detectors the predictions of that detectors would be the bounding boxes around the objects the classes or the categories to which they belong and the probability or score associated with the respective bounding boxes.
+For now let's see the detector as a system consisting of three components since images come in various sizes:- 
+- The first component's responsibility could be as single as resizing so that input to the next component is always of the same size. Actually as part of pre-processing there is bit more then just resizing but for now we would not go into more details about it.
+- The second component is what we call the model, a model approximates the physical process or the physical reality, we are the human and we could see the objects in the image and we intend to build a computer vision model that could do something similar.
+- Since it is a model an approximation it would not be as good as we at this task of detecting objects so most likely we will need a third component, where the results of the model will be post processed so as to refine the predictions it made we will talk about the post processing a bit more later so lets-'s focus on the model now.
+![[image/Detector-illustrated.png]]
+![[image/Model_illustrated.png]]
+In past various statistical techniques and alogrithms were designed to build object detection models but yes given the current state of art this model is going to be a neural network therefore to make it appear like a neural network i first tranform this square into a trapezoid, the reason we represent this block or this model or this neural network using a trapezoid is because it shows that it is converting a high dimensional input into a low dimensional output
+![[image/neural-network.png]]
+This network ****

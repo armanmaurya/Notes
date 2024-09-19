@@ -1,0 +1,1 @@
+Cathode is that [Electrode](Jee/Chemistry/Electrochemistry/Electrode.md) where [Reduction](Jee/Chemistry/Electrochemistry/Reduction.md) take place.

@@ -1,0 +1,1 @@
+If the relative change in the density of a fluid in a process is negligible, it is referred to as incompressible process. In such a flow (or process) the fluid velocity is much smaller then the local velocity of sound in it. The flow of gases and vapours at [Mach Number](Mach%20Number.md) less than 0.30 can be assumed to be incompressible without much sacrifice in accuracy.

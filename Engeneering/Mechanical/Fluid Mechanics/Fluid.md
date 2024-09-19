@@ -1,0 +1,5 @@
+**Definition:** It has ability to flow under shear force.
+- For a **Static fluid** Shear Force = 0, But Pressure/Viscosity/Surface Tension $\ne$ 0
+- For **Ideal Fluid** is Incomprehensible, Non-Viscous, No Surface Tension, Bulk Modules is Infinity.
+- For **Real Fluid** is Viscous, Compressible and Surface Tension exist, Finite Bulk Modulus.
+- Fluid deform Continuously with respect to time even if force is too Small

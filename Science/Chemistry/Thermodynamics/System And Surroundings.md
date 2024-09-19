@@ -1,0 +1,1 @@
+System is part of the universe which is arbitrarily set off from the rest of the universe by definite boundaries for the purpose of experimental or theoretical studies. The remainder of the universe is then, in fact the surroundings of the system.

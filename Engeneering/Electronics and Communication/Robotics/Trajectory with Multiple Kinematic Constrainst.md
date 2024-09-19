@@ -1,0 +1,2 @@
+This example shows how to use generalized inverse kinematics to plan a joint space trajectory for a robotic manipulator. It combines multiple constraints to generate a trajectory that guides the gripper to a cup resting on a table. These constraints ensure that the gripper approaches the cup in a straight line and the gripper remains at a safe distance from the table, without requiring the poses of the gripper to be determined in advance.
+

@@ -1,0 +1,1 @@
+The part of a solution that is present in the greatest amount is called a solvent. It's the liquid that the [solute](Jee/Chemistry/Solution/Solute.md) is dissolved in. A solvent is usually a liquid.

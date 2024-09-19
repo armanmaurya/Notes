@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Solution",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 1.32754677754678,
+  "lineSizeMultiplier": 1.04230769230769,
+  "collapse-forces": false,
+  "centerStrength": 0.254677754677755,
+  "repelStrength": 6.83991683991684,
+  "linkStrength": 0.420997920997921,
+  "linkDistance": 115,
+  "scale": 2.9743525439132785,
+  "close": true
+}

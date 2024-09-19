@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"46f204b4adedc91f","x":-1648,"y":-1858,"width":400,"height":400,"type":"file","file":"Jee/Maths/Straight Line/Proportionality Theorem.md"},
+		{"id":"6e8262336aa3693b","x":-8,"y":-174,"width":250,"height":60,"type":"text","text":"General%20Equation%20of%20Circle.md "},
+		{"id":"582506e7e56d943d","x":-520,"y":-440,"width":250,"height":60,"type":"text","text":"What "},
+		{"id":"15ef333c58111464","x":-477,"y":-510,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"c5949443d63b2365","fromNode":"15ef333c58111464","fromSide":"top","toNode":"46f204b4adedc91f","toSide":"bottom"}
+	]
+}

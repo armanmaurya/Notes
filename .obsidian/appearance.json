@@ -1,0 +1,19 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "translucency": false,
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "Minimal Theme cards",
+    "Minimal Cards",
+    "defaultimagesize",
+    "center img",
+    "image",
+    "style"
+  ],
+  "textFontFamily": "DejaVu Serif",
+  "interfaceFontFamily": "DejaVu Serif",
+  "baseFontSizeAction": false,
+  "nativeMenus": false
+}

@@ -1,0 +1,1 @@
+The USB to TTL device works as an interface between computer and microcontroller. If consists of **FTDI Chip**, the FTDI chip implements the usb protocol stack

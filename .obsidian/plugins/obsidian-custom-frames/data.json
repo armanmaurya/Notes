@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://chatgpt.com/",
+      "displayName": "ChatGPT",
+      "icon": "bot",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 0
+}

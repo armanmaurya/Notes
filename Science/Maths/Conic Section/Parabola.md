@@ -1,0 +1,2 @@
+A parabola is defined as the locus of a point P which moves in a plane such that it's distance from a fixed point S (Focus) in the plane equal to it's perpendicular distance from a fixed line L (Directrix) in the same plane.
+Parabola having a eccentricity = 1., i.e. Distance between focus and parabola is equal to Distance between directrix and parabola.

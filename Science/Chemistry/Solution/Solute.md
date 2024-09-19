@@ -1,0 +1,1 @@
+A solute is a substance that is dissolved in a [solvent](Jee/Chemistry/Solution/Solvent.md) . The amount of [solvent](Jee/Chemistry/Solution/Solvent.md)  in a fluid solution is greater than the amount of solute. Salt and water are two of the most common examples of solutes in our daily lives. Since salt dissolves in water, it is the solute.

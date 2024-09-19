@@ -1,0 +1,1 @@
+The state in which inter-molecular force is stronger and molecule are fixed at their position and vibrates at their own position.

@@ -1,0 +1,3 @@
+A subshell is the set of states defined by azimuthal quantum number, l, within a shell. The values l = 0, 1, 2, 3 correspond s, p, d and f subshells, respectively. The maximum number of electrons which can occupy a subshell is given by 2(2l + 1). This gives two electrons in an s subshell, six electrons in a p subshell, ten electrons in a d subshell and fourteen electrons in an f subshell.
+
+Within a shell (same n), all electrons that share the same **l** (the angular momentum quantum number, or orbital shape) are in the same **sub-shell.**

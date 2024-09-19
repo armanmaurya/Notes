@@ -1,0 +1,2 @@
+- Like [Charge](Jee/Physics/Electrostatics/Charge.md)  Repels
+- Unlike [Charge](Jee/Physics/Electrostatics/Charge.md)  attract

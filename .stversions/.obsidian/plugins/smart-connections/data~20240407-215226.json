@@ -1,0 +1,33 @@
+{
+  "chat_folder": "smart chat",
+  "smart_notes_embed_model": "text-embedding-ada-002",
+  "smart_blocks_embed_model": "text-embedding-ada-002",
+  "smart_connections_folder": ".smart-connections",
+  "smart_connections_folder_last": ".smart-connections",
+  "embed_input_min_chars": 50,
+  "multi_heading_blocks": true,
+  "api_key": "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",
+  "excluded_headings": "",
+  "file_exclusions": "",
+  "folder_exclusions": "",
+  "show_full_path": false,
+  "expanded_view": false,
+  "language": "en",
+  "log_render": false,
+  "log_render_files": false,
+  "recently_sent_retry_notice": false,
+  "smart_chat_model": "local-chat",
+  "version": "2.1.0",
+  "chat_open": true,
+  "view_open": true,
+  "header_exclusions": "",
+  "path_only": "",
+  "group_nearest_by_file": false,
+  "skip_sections": false,
+  "failed_files": [
+    "",
+    "Engeneering/Electronics/Microcontrollers/8051 Programming Guide.sync-conflict-20240112-104952-EWFWFIB.md"
+  ],
+  "best_new_plugin": false,
+  "api_key_openai": "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"
+}

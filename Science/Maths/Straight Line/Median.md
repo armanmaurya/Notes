@@ -1,0 +1,11 @@
+---
+tags:
+  - Maths
+---
+- Line joining a vertex of a triangle to the midpoint of opposite side.
+- Median divides a triangle into two triangles of Equal area.
+
+**Myths:-**
+- Median is **NOT** $\perp$ to opposite side.
+- Median **DOES NOT** bisects Angle at vertex.
+

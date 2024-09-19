@@ -1,0 +1,1 @@
+Oxidation potential measures the tendency of an element or cation to [oxidize](Jee/Chemistry/Electrochemistry/Oxidation.md).

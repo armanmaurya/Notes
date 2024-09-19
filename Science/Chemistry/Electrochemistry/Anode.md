@@ -1,0 +1,1 @@
+Anode is that [Electrode](Jee/Chemistry/Electrochemistry/Electrode.md) where [Oxidation](Jee/Chemistry/Electrochemistry/Oxidation.md) take place.

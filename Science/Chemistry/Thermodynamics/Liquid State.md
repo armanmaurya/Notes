@@ -1,0 +1,1 @@
+The state in which inter-molecular force is less as compared to solid, molecules are free to move.

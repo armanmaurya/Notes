@@ -1,0 +1,1475 @@
+{
+  "nodePositions": [
+    {
+      "id": "Arduino/Joystick.md",
+      "x": -1856.1353759765625,
+      "y": 780.7924194335938
+    },
+    {
+      "id": "Engeneering/Capacitors.md",
+      "x": -542.0852661132812,
+      "y": -697.0269775390625
+    },
+    {
+      "id": "Engeneering/Charge in Magnetic field.md",
+      "x": -647.4498291015625,
+      "y": -1721.532958984375
+    },
+    {
+      "id": "Engeneering/Computer Science/ML.md",
+      "x": 1682.6309814453125,
+      "y": -359.1649475097656
+    },
+    {
+      "id": "Engeneering/Deep Learning/Attention Mechanism.md",
+      "x": -359.7121887207031,
+      "y": 471.1341857910156
+    },
+    {
+      "id": "Engeneering/Deep Learning/Convolutional Neural Network.md",
+      "x": -1784.3023681640625,
+      "y": -1051.58251953125
+    },
+    {
+      "id": "Engeneering/Deep Learning/Image Classification Model.md",
+      "x": -1737.9715576171875,
+      "y": -1162.2755126953125
+    },
+    {
+      "id": "Engeneering/Deep Learning/Softmax Layer.md",
+      "x": 149.29550170898438,
+      "y": 1496.72314453125
+    },
+    {
+      "id": "Engeneering/Deep Learning/Transformers.md",
+      "x": -406.1573486328125,
+      "y": 581.7792358398438
+    },
+    {
+      "id": "Engeneering/Electricals/Motors/Direct Current Generators.md",
+      "x": 782.6542358398438,
+      "y": 2001.2442626953125
+    },
+    {
+      "id": "Engeneering/Electricals/Motors/Direct Current Motors.md",
+      "x": -1043.0738525390625,
+      "y": -1648.42529296875
+    },
+    {
+      "id": "Engeneering/Electricals/Motors/Universal Motor.md",
+      "x": -1033.6904296875,
+      "y": -1001.35791015625
+    },
+    {
+      "id": "Engeneering/Electronics/Oscillators/Colpitts Oscillator.md",
+      "x": -621.7618408203125,
+      "y": -485.44140625
+    },
+    {
+      "id": "Engeneering/Fluid Dynamics/Compressible Flow/Compressible Flow.md",
+      "x": 303.31536865234375,
+      "y": -706.8761596679688
+    },
+    {
+      "id": "Engeneering/Fluid Dynamics/Incompressible Flow.md",
+      "x": 525.42236328125,
+      "y": -638.2530517578125
+    },
+    {
+      "id": "Engeneering/Fluid Dynamics/Mach Number.md",
+      "x": 423.17138671875,
+      "y": -701.0579833984375
+    },
+    {
+      "id": "Engeneering/Fluid Mechanics/Centrifugal Compressors/Centrifugal Compressors.md",
+      "x": 379.53094482421875,
+      "y": -820.0604858398438
+    },
+    {
+      "id": "Engeneering/Fluid Mechanics/Compressors.md",
+      "x": 489.0984802246094,
+      "y": -868.9935302734375
+    },
+    {
+      "id": "Engeneering/Fluid Mechanics/Fluid.md",
+      "x": 739.2428588867188,
+      "y": -573.79345703125
+    },
+    {
+      "id": "Engeneering/Fluid Mechanics/Rotating Machines.md",
+      "x": 606.482177734375,
+      "y": -893.9047241210938
+    },
+    {
+      "id": "Engeneering/Fluid Mechanics/Thermodynamics.md",
+      "x": -340.1061096191406,
+      "y": -426.0010681152344
+    },
+    {
+      "id": "Engeneering/Force On Current Carrying Wire.md",
+      "x": 1901.736572265625,
+      "y": -274.489013671875
+    },
+    {
+      "id": "Engeneering/Fourier Series/Fourier Series.md",
+      "x": -1267.344482421875,
+      "y": 1450.1572265625
+    },
+    {
+      "id": "Engeneering/Fourier Series/Periodic function.md",
+      "x": -1203.1441650390625,
+      "y": 1551.537841796875
+    },
+    {
+      "id": "Engeneering/LC Oscillator.md",
+      "x": -544.2507934570312,
+      "y": -577.0472412109375
+    },
+    {
+      "id": "Engeneering/Magnetic Moment Of Current Carrying Loop.md",
+      "x": -835.9775390625,
+      "y": -1813.0982666015625
+    },
+    {
+      "id": "Engeneering/Manufacturing/CNC Machine.md",
+      "x": 632.3816528320312,
+      "y": -73.09329223632812
+    },
+    {
+      "id": "Engeneering/Manufacturing/Injection Molding.md",
+      "x": 399.73468017578125,
+      "y": 1908.084716796875
+    },
+    {
+      "id": "Engeneering/Manufacturing/USB to TTL.md",
+      "x": -31.500577926635742,
+      "y": 472.9994201660156
+    },
+    {
+      "id": "Engeneering/Mechanical/Spur Gears.md",
+      "x": 603.66357421875,
+      "y": 2091.07861328125
+    },
+    {
+      "id": "Engeneering/Microcontroller/Full Duplex.md",
+      "x": -2012.108154296875,
+      "y": 1245.1832275390625
+    },
+    {
+      "id": "Engeneering/Microcontroller/Half Duplex.md",
+      "x": -2116.442626953125,
+      "y": 1185.9014892578125
+    },
+    {
+      "id": "Engeneering/Microcontroller/Serial Communication.md",
+      "x": -2115.616943359375,
+      "y": 1305.8958740234375
+    },
+    {
+      "id": "Engeneering/Microcontroller/Simplex.md",
+      "x": -2011.2862548828125,
+      "y": 1365.1802978515625
+    },
+    {
+      "id": "Engeneering/Nucleophilicity.md",
+      "x": -769.8995971679688,
+      "y": 2106.374755859375
+    },
+    {
+      "id": "Engeneering/Preparation Method of Aldehyde , Ketone.md",
+      "x": 1172.4317626953125,
+      "y": -1312.6514892578125
+    },
+    {
+      "id": "Engeneering/Preparation of Alcohols.md",
+      "x": 391.5641174316406,
+      "y": 2138.750244140625
+    },
+    {
+      "id": "Engeneering/Robotics/Inverse Kinematics.md",
+      "x": -10.343337059020996,
+      "y": 73.2577133178711
+    },
+    {
+      "id": "Engeneering/Robotics/Trajectory with Multiple Kinematic Constrainst.md",
+      "x": 108.55286407470703,
+      "y": 89.4798583984375
+    },
+    {
+      "id": "Engeneering/Torque On Current Carrying Loop In Magnetic Field.md",
+      "x": -923.89697265625,
+      "y": -1701.9830322265625
+    },
+    {
+      "id": "Engeneering/auronotic/Propellers/Aerofoils.md",
+      "x": 431.0568542480469,
+      "y": -1041.83544921875
+    },
+    {
+      "id": "Engeneering/auronotic/Propellers/Blade Angle.md",
+      "x": 179.3644561767578,
+      "y": 1905.718017578125
+    },
+    {
+      "id": "Engeneering/auronotic/Propellers/Drag.md",
+      "x": -777.0267944335938,
+      "y": 651.1624145507812
+    },
+    {
+      "id": "Engeneering/auronotic/Propellers/Inviscid Flow.md",
+      "x": 650.533935546875,
+      "y": -656.7998657226562
+    },
+    {
+      "id": "Engeneering/auronotic/Propellers/Propellers.md",
+      "x": 366.1910095214844,
+      "y": -940.878662109375
+    },
+    {
+      "id": "Engeneering/auronotic/Propellers/Sandmeyer Reaction.md",
+      "x": 144.00271606445312,
+      "y": 1726.935302734375
+    },
+    {
+      "id": "Engeneering/auronotic/Propellers/Streamlines.md",
+      "x": 354.9161682128906,
+      "y": -1134.5828857421875
+    },
+    {
+      "id": "Engeneering/auronotic/Propellers/Viscosity.md",
+      "x": 765.597900390625,
+      "y": -690.8614501953125
+    },
+    {
+      "id": "Jee/Analysis/Physics.md",
+      "x": -246.4874267578125,
+      "y": 145.8379669189453
+    },
+    {
+      "id": "Jee/Chemistry/Atomic Spectrum.md",
+      "x": -1387.7293701171875,
+      "y": 867.7093505859375
+    },
+    {
+      "id": "Jee/Chemistry/Biomolecules/Carbohydrates.md",
+      "x": -207.58834838867188,
+      "y": -129.07411193847656
+    },
+    {
+      "id": "Jee/Chemistry/Bohr Model.md",
+      "x": -1461.477294921875,
+      "y": 773.0487060546875
+    },
+    {
+      "id": "Jee/Chemistry/Chemical Equilibrium/Equilibrium.md",
+      "x": 1279.4263916015625,
+      "y": 1083.6058349609375
+    },
+    {
+      "id": "Jee/Chemistry/Chemical Equilibrium/Irreversible reactions.md",
+      "x": 732.6493530273438,
+      "y": -239.26336669921875
+    },
+    {
+      "id": "Jee/Chemistry/Chemical Equilibrium/Physical Equilibrium.md",
+      "x": -795.2674560546875,
+      "y": 206.2432098388672
+    },
+    {
+      "id": "Jee/Chemistry/Chemical Equilibrium/Reversible reaction.md",
+      "x": 818.1961059570312,
+      "y": -323.41595458984375
+    },
+    {
+      "id": "Jee/Chemistry/Chemical Equilibrium/Solid-Liquid Equilibrium.md",
+      "x": -754.7775268554688,
+      "y": 319.20355224609375
+    },
+    {
+      "id": "Jee/Chemistry/Chemical Equilibrium/Types of Chemical Reaction.md",
+      "x": 702.5447998046875,
+      "y": -355.4250793457031
+    },
+    {
+      "id": "Jee/Chemistry/Chemical Kinetics.md",
+      "x": -162.6649169921875,
+      "y": -2019.4273681640625
+    },
+    {
+      "id": "Jee/Chemistry/Coordination Compounds/Co-ordination Compound.md",
+      "x": 1942.5888671875,
+      "y": 431.2041015625
+    },
+    {
+      "id": "Jee/Chemistry/Coordination Compounds/Crystal field theory.md",
+      "x": 2011.2716064453125,
+      "y": -674.0664672851562
+    },
+    {
+      "id": "Jee/Chemistry/Coordination Compounds/Isomerism in Complex Compound.md",
+      "x": 2012.56640625,
+      "y": 331.5138244628906
+    },
+    {
+      "id": "Jee/Chemistry/Coordination Compounds/Question/Linkage Isomerism Ques.md",
+      "x": 2101.335205078125,
+      "y": 250.7683563232422
+    },
+    {
+      "id": "Jee/Chemistry/Electrochemistry/Anode.md",
+      "x": 1144.424072265625,
+      "y": -1195.9661865234375
+    },
+    {
+      "id": "Jee/Chemistry/Electrochemistry/Cathode.md",
+      "x": 1106.7373046875,
+      "y": -1080.32568359375
+    },
+    {
+      "id": "Jee/Chemistry/Electrochemistry/Electrode.md",
+      "x": 1223.93798828125,
+      "y": -1106.0908203125
+    },
+    {
+      "id": "Jee/Chemistry/Electrochemistry/Electrolysis of water.md",
+      "x": 927.5745849609375,
+      "y": -1479.209716796875
+    },
+    {
+      "id": "Jee/Chemistry/Electrochemistry/Electrolysis.md",
+      "x": 971.9677124023438,
+      "y": -1367.7271728515625
+    },
+    {
+      "id": "Jee/Chemistry/Electrochemistry/Lorentz Force.md",
+      "x": -652.416748046875,
+      "y": -1601.6385498046875
+    },
+    {
+      "id": "Jee/Chemistry/Electrochemistry/Non-Spontaneous Reaction.md",
+      "x": 1043.680419921875,
+      "y": -1509.52685546875
+    },
+    {
+      "id": "Jee/Chemistry/Electrochemistry/Oxidation Potential.md",
+      "x": 1088.1522216796875,
+      "y": -1398.0732421875
+    },
+    {
+      "id": "Jee/Chemistry/Electrochemistry/Oxidation.md",
+      "x": 1056.31591796875,
+      "y": -1282.3782958984375
+    },
+    {
+      "id": "Jee/Chemistry/Electrochemistry/Reduction Potential.md",
+      "x": 936.6643676757812,
+      "y": -1084.262451171875
+    },
+    {
+      "id": "Jee/Chemistry/Electrochemistry/Reduction.md",
+      "x": 1023.6600952148438,
+      "y": -1166.912353515625
+    },
+    {
+      "id": "Jee/Chemistry/Electrochemistry/Spontaneous Reaction.md",
+      "x": 1072.8253173828125,
+      "y": -1625.9327392578125
+    },
+    {
+      "id": "Jee/Chemistry/GOC/Cleavage of Bond.md",
+      "x": 40.401004791259766,
+      "y": -2438.328125
+    },
+    {
+      "id": "Jee/Chemistry/GOC/Electronic Displacement Effect.md",
+      "x": 577.08935546875,
+      "y": -1844.3511962890625
+    },
+    {
+      "id": "Jee/Chemistry/GOC/Heterolytic Cleavage.md",
+      "x": 100.86139678955078,
+      "y": -2334.674072265625
+    },
+    {
+      "id": "Jee/Chemistry/GOC/Homolytic Cleavage.md",
+      "x": -19.137361526489258,
+      "y": -2334.141845703125
+    },
+    {
+      "id": "Jee/Chemistry/GOC/Hyper Conjugation Effect.md",
+      "x": 534.2692260742188,
+      "y": -1956.4488525390625
+    },
+    {
+      "id": "Jee/Chemistry/GOC/Inductive Effect.md",
+      "x": 458.5970458984375,
+      "y": -1863.3173828125
+    },
+    {
+      "id": "Jee/Chemistry/GOC/Resonance or Mesomeric Effect.md",
+      "x": 501.4194030761719,
+      "y": -1751.21923828125
+    },
+    {
+      "id": "Jee/Chemistry/Hydrogen Spectrum.md",
+      "x": -1509.61279296875,
+      "y": 883.6344604492188
+    },
+    {
+      "id": "Jee/Chemistry/Ionic Equilibrium/Acids.md",
+      "x": 3.4602668285369873,
+      "y": -1047.548583984375
+    },
+    {
+      "id": "Jee/Chemistry/Ionic Equilibrium/Electrolytes.md",
+      "x": 1133.026611328125,
+      "y": -736.4098510742188
+    },
+    {
+      "id": "Jee/Chemistry/Ionic Equilibrium/Ionic Equilibrium.md",
+      "x": 1071.712890625,
+      "y": -633.2581176757812
+    },
+    {
+      "id": "Jee/Chemistry/Ionic Equilibrium/Non-Electrolytes.md",
+      "x": 1191.7030029296875,
+      "y": -631.7350463867188
+    },
+    {
+      "id": "Jee/Chemistry/Matter Wave.md",
+      "x": -1580.6705322265625,
+      "y": 786.9366455078125
+    },
+    {
+      "id": "Jee/Chemistry/Mole Concept/Mole.md",
+      "x": 1017.2552490234375,
+      "y": 1300.1842041015625
+    },
+    {
+      "id": "Jee/Chemistry/Mole Concept/No. of Moles for Gases.md",
+      "x": 1121.7879638671875,
+      "y": 1359.1046142578125
+    },
+    {
+      "id": "Jee/Chemistry/Mole Concept/No. of Moles.md",
+      "x": 979.441162109375,
+      "y": 971.5458374023438
+    },
+    {
+      "id": "Jee/Chemistry/P Block/P Block.md",
+      "x": -223.8152313232422,
+      "y": 2112.736572265625
+    },
+    {
+      "id": "Jee/Chemistry/Quantum Number/Angular momentum of electron.md",
+      "x": -670.0935668945312,
+      "y": 1141.6676025390625
+    },
+    {
+      "id": "Jee/Chemistry/Quantum Number/Aufbau Rule.md",
+      "x": 1799.3065185546875,
+      "y": 60.087154388427734
+    },
+    {
+      "id": "Jee/Chemistry/Quantum Number/Energy of Subshell.md",
+      "x": 1850.9349365234375,
+      "y": 168.41049194335938
+    },
+    {
+      "id": "Jee/Chemistry/Quantum Number/Hund's Rule.md",
+      "x": 1863.8387451171875,
+      "y": -41.0835075378418
+    },
+    {
+      "id": "Jee/Chemistry/Quantum Number/Magnetic Moment of Atom.md",
+      "x": -326.2048645019531,
+      "y": -1435.1669921875
+    },
+    {
+      "id": "Jee/Chemistry/Quantum Number/Orbital Angular momentum of electron.md",
+      "x": -561.6974487304688,
+      "y": 1193.138427734375
+    },
+    {
+      "id": "Jee/Chemistry/Quantum Number/Pauli's Principle.md",
+      "x": 1743.956298828125,
+      "y": -46.38261795043945
+    },
+    {
+      "id": "Jee/Chemistry/Quantum Number/Subshells.md",
+      "x": 1919.1767578125,
+      "y": 65.65599822998047
+    },
+    {
+      "id": "Jee/Chemistry/Redox Reaction/Combination Reaction.md",
+      "x": 736.608642578125,
+      "y": -1353.4630126953125
+    },
+    {
+      "id": "Jee/Chemistry/Redox Reaction/Decomposition Reaction.md",
+      "x": 811.248291015625,
+      "y": -1449.7532958984375
+    },
+    {
+      "id": "Jee/Chemistry/Redox Reaction/Displacement Reaction.md",
+      "x": 692.2171630859375,
+      "y": -1464.9493408203125
+    },
+    {
+      "id": "Jee/Chemistry/Redox Reaction/Disproportionation Reaction.md",
+      "x": 939.2733154296875,
+      "y": -1252.220703125
+    },
+    {
+      "id": "Jee/Chemistry/Redox Reaction/Metal Displacement Reaction.md",
+      "x": 565.7691040039062,
+      "y": -1519.9508056640625
+    },
+    {
+      "id": "Jee/Chemistry/Redox Reaction/Non Metal Displacement Reaction.md",
+      "x": 657.1769409179688,
+      "y": -1597.6951904296875
+    },
+    {
+      "id": "Jee/Chemistry/Redox Reaction/Redox Reaction.md",
+      "x": 855.6404418945312,
+      "y": -1338.2708740234375
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Colligative Properties.md",
+      "x": 1354.968505859375,
+      "y": 444.3705139160156
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Colligative Properties/Depression In Freezing Point.md",
+      "x": 1474.904052734375,
+      "y": 448.0680847167969
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Colligative Properties/Elevation In Boiling Point.md",
+      "x": 1418.1365966796875,
+      "y": 342.3454895019531
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Colligative Properties/Osmotic Pressure/Osmotic Pressure.md",
+      "x": 1178.2662353515625,
+      "y": 334.5918273925781
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Colligative Properties/Osmotic Pressure/Osmotic Rise.md",
+      "x": 1298.19580078125,
+      "y": 338.6487731933594
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Colligative Properties/Osmotic Pressure/Solution Based on OP/Hypertonic Solution.md",
+      "x": 995.3297729492188,
+      "y": 429.5792541503906
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Colligative Properties/Osmotic Pressure/Solution Based on OP/Hypotonic Solution.md",
+      "x": 1058.471923828125,
+      "y": 327.54803466796875
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Colligative Properties/Osmotic Pressure/Solution Based on OP/Isotonic Solution.md",
+      "x": 1124.4583740234375,
+      "y": 227.33103942871094
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Colligative Properties/Relative Lowering Of Vapour Pressure/Boiling Point.md",
+      "x": 1097.0919189453125,
+      "y": 937.8745727539062
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Colligative Properties/Relative Lowering Of Vapour Pressure/Relative Lowering Of Vapour Pressure.md",
+      "x": 1291.4984130859375,
+      "y": 546.5651245117188
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Colligative Properties/Relative Lowering Of Vapour Pressure/Vapour Pressure/V.P Of Pure Solvent.md",
+      "x": 1334.101318359375,
+      "y": 704.7919921875
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Colligative Properties/Relative Lowering Of Vapour Pressure/Vapour Pressure/V.P of Solution/V.P of Liquid-Liquid Solution.md",
+      "x": 1108.08740234375,
+      "y": 644.3256225585938
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Colligative Properties/Relative Lowering Of Vapour Pressure/Vapour Pressure/Vapour Pressure.md",
+      "x": 1270.47216796875,
+      "y": 806.5324096679688
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Heterogeneous Mixture.md",
+      "x": 733.013916015625,
+      "y": 440.4393310546875
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Homogeneous Mixture.md",
+      "x": 863.7854614257812,
+      "y": 394.599853515625
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Mixture.md",
+      "x": 749.35107421875,
+      "y": 321.5585021972656
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Molality.md",
+      "x": 1164.514404296875,
+      "y": 750.2114868164062
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Molarity.md",
+      "x": 988.163330078125,
+      "y": 640.2603149414062
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Mole Fraction.md",
+      "x": 1051.6397705078125,
+      "y": 538.4401245117188
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Osmosis.md",
+      "x": 1235.04248046875,
+      "y": 440.6761474609375
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Relation Between Molarity and Molality.md",
+      "x": 1037.091552734375,
+      "y": 749.8283081054688
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Solute.md",
+      "x": 1171.56787109375,
+      "y": 542.5064697265625
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Solution.md",
+      "x": 1115.11669921875,
+      "y": 436.61712646484375
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Solvent.md",
+      "x": 1228.0184326171875,
+      "y": 648.3944091796875
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Van't Hoff factor.md",
+      "x": 1244.3857421875,
+      "y": 231.39370727539062
+    },
+    {
+      "id": "Jee/Chemistry/Structure of Atom/Energy of Electron.md",
+      "x": -612.6248779296875,
+      "y": 1036.3258056640625
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Bond Dissociation Energy.md",
+      "x": 1018.4974365234375,
+      "y": 1420.1751708984375
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Determination of Resonance Energy.md",
+      "x": 797.8098754882812,
+      "y": 1268.7164306640625
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Enthalpy of Atomization.md",
+      "x": 1023.6473999023438,
+      "y": 1180.3663330078125
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Enthalpy of Combustion.md",
+      "x": 901.01318359375,
+      "y": 1329.9281005859375
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Enthalpy of Formation.md",
+      "x": 904.416259765625,
+      "y": 1209.9990234375
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Enthalpy of Fusion.md",
+      "x": 796.4003295898438,
+      "y": 1388.70458984375
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Enthalpy of Reaction.md",
+      "x": 695.6401977539062,
+      "y": 1205.792236328125
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Enthalpy of Sublimation.md",
+      "x": 902.2398681640625,
+      "y": 1449.90478515625
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Enthalpy of Vaporisation.md",
+      "x": 939.1693115234375,
+      "y": 1095.1441650390625
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Enthalpy or Heat of Dilution.md",
+      "x": 801.2217407226562,
+      "y": 1148.7685546875
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Enthalpy or Heat of Neutralization.md",
+      "x": 699.046875,
+      "y": 1085.83984375
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Extensive Properties.md",
+      "x": 1213.833984375,
+      "y": 1282.1202392578125
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Hess's Law.md",
+      "x": 576.7069091796875,
+      "y": 1221.7398681640625
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Intensive Properties.md",
+      "x": 1382.9539794921875,
+      "y": 1022.934814453125
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Liquid State.md",
+      "x": 683.07958984375,
+      "y": 1428.1785888671875
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/Solid State.md",
+      "x": 773.925537109375,
+      "y": 1506.58056640625
+    },
+    {
+      "id": "Jee/Chemistry/Thermodynamics/System And Surroundings.md",
+      "x": 1327.62548828125,
+      "y": 1193.491455078125
+    },
+    {
+      "id": "Jee/Maths/3D Geometry/Direction Cosine Of Vector.md",
+      "x": -1381.474365234375,
+      "y": 1710.777099609375
+    },
+    {
+      "id": "Jee/Maths/3D Geometry/Direction Cosines of Line.md",
+      "x": -1510.161376953125,
+      "y": 1618.78759765625
+    },
+    {
+      "id": "Jee/Maths/3D Geometry/Direction Ratio.md",
+      "x": -1498.2962646484375,
+      "y": 1738.1962890625
+    },
+    {
+      "id": "Jee/Maths/3D Geometry/Distance Formula.md",
+      "x": -2081.20751953125,
+      "y": -304.5345458984375
+    },
+    {
+      "id": "Jee/Maths/3D Geometry/Equation of Line in Various Forms.md",
+      "x": -1899.6661376953125,
+      "y": 566.8313598632812
+    },
+    {
+      "id": "Jee/Maths/3D Geometry/Perpendicular Bisector.md",
+      "x": -1540.9266357421875,
+      "y": -171.82461547851562
+    },
+    {
+      "id": "Jee/Maths/3D Geometry/Perpendicular Distance of a Point from a Line.md",
+      "x": 1854.9407958984375,
+      "y": -618.066162109375
+    },
+    {
+      "id": "Jee/Maths/3D Geometry/Section Formula.md",
+      "x": -2014.7672119140625,
+      "y": -204.60862731933594
+    },
+    {
+      "id": "Jee/Maths/Angle Between Two lines.md",
+      "x": -1393.3397216796875,
+      "y": 1591.3681640625
+    },
+    {
+      "id": "Jee/Maths/Binomial Theorem/Binomial Expansion.md",
+      "x": 1498.2255859375,
+      "y": -805.9892578125
+    },
+    {
+      "id": "Jee/Maths/Conic Section/Diametric Form of Circle.md",
+      "x": -1229.9334716796875,
+      "y": 267.2369689941406
+    },
+    {
+      "id": "Jee/Maths/Conic Section/General Equation of Circle.md",
+      "x": -1170.45849609375,
+      "y": 163.01841735839844
+    },
+    {
+      "id": "Jee/Maths/Conic Section/Intercepts of Circle.md",
+      "x": -1230.970947265625,
+      "y": 59.39451599121094
+    },
+    {
+      "id": "Jee/Maths/Conic Section/Nature of Circle.md",
+      "x": -1290.452880859375,
+      "y": 163.6142120361328
+    },
+    {
+      "id": "Jee/Maths/Conic Section/Parabola.md",
+      "x": -945.174072265625,
+      "y": -343.1272888183594
+    },
+    {
+      "id": "Jee/Maths/Conic Section/Position of Point w.r.t a Circle.md",
+      "x": -1110.9732666015625,
+      "y": 58.801551818847656
+    },
+    {
+      "id": "Jee/Maths/Conic Section/Standard Equation of Circle.md",
+      "x": -1050.464599609375,
+      "y": 162.4290313720703
+    },
+    {
+      "id": "Jee/Maths/Indefinite Integration/Indefinite Integration.md",
+      "x": 1559.7166748046875,
+      "y": -1298.0994873046875
+    },
+    {
+      "id": "Jee/Maths/Indefinite Integration/Integration by Parts.md",
+      "x": 1693.8204345703125,
+      "y": -1506.4722900390625
+    },
+    {
+      "id": "Jee/Maths/Indefinite Integration/Integration by Substitution.md",
+      "x": 1674.4525146484375,
+      "y": -1624.8994140625
+    },
+    {
+      "id": "Jee/Maths/Indefinite Integration/Integration of Rational Functions.md",
+      "x": 1898.9381103515625,
+      "y": -1540.0281982421875
+    },
+    {
+      "id": "Jee/Maths/Indefinite Integration/Method Of Integration.md",
+      "x": 1786.693359375,
+      "y": -1582.4619140625
+    },
+    {
+      "id": "Jee/Maths/Indefinite Integration/Theorems of Integration.md",
+      "x": 1806.0657958984375,
+      "y": -1464.0369873046875
+    },
+    {
+      "id": "Jee/Maths/Limits/Exponential And Logarithmic Limits.md",
+      "x": -2067.4521484375,
+      "y": 135.1898651123047
+    },
+    {
+      "id": "Jee/Maths/Limits/Exponential Limits.md",
+      "x": -2108.85302734375,
+      "y": 22.564002990722656
+    },
+    {
+      "id": "Jee/Maths/Limits/Indeterminate Forms.md",
+      "x": -2341.845458984375,
+      "y": 37.28433609008789
+    },
+    {
+      "id": "Jee/Maths/Limits/L'Hospital Rule.md",
+      "x": -2311.883056640625,
+      "y": -78.91105651855469
+    },
+    {
+      "id": "Jee/Maths/Limits/Limit.md",
+      "x": -2223.59423828125,
+      "y": 57.694664001464844
+    },
+    {
+      "id": "Jee/Maths/Limits/Limits of Exponential Functions.md",
+      "x": -2182.18701171875,
+      "y": 170.32318115234375
+    },
+    {
+      "id": "Jee/Maths/Limits/Limits of the Form infinity by infinity.md",
+      "x": -2192.93994140625,
+      "y": -63.04425811767578
+    },
+    {
+      "id": "Jee/Maths/Limits/Questions Practice/Question Practice.md",
+      "x": -3.4813225269317627,
+      "y": 285.1424255371094
+    },
+    {
+      "id": "Jee/Maths/Limits/Trigonometric Limits.md",
+      "x": -2300.434814453125,
+      "y": 149.90838623046875
+    },
+    {
+      "id": "Jee/Maths/Limits/Untitled.md",
+      "x": 1591.282958984375,
+      "y": -1096.2740478515625
+    },
+    {
+      "id": "Jee/Maths/Matrices/Adjoint Of A Square Matrices.md",
+      "x": -1385.020751953125,
+      "y": -1390.6915283203125
+    },
+    {
+      "id": "Jee/Maths/Matrices/Co-Factor of Matrix.md",
+      "x": -1303.452392578125,
+      "y": -1302.678955078125
+    },
+    {
+      "id": "Jee/Maths/Matrices/Matrices.md",
+      "x": -1420.457763671875,
+      "y": -1276.0423583984375
+    },
+    {
+      "id": "Jee/Maths/Matrices/Transpose of Matrix.md",
+      "x": -1502.0260009765625,
+      "y": -1364.056396484375
+    },
+    {
+      "id": "Jee/Maths/Probability/Basics of Probability.md",
+      "x": 54.54823303222656,
+      "y": 705.4661865234375
+    },
+    {
+      "id": "Jee/Maths/Probability/Classical Probability.md",
+      "x": -37.05055618286133,
+      "y": 782.9849243164062
+    },
+    {
+      "id": "Jee/Maths/Quadratic Equation/Polynomial in One Variable.md",
+      "x": 1378.31298828125,
+      "y": -810.523681640625
+    },
+    {
+      "id": "Jee/Maths/Quadratic Equation/Quadratic Equation.md",
+      "x": 1434.33984375,
+      "y": -704.4077758789062
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Altitude.md",
+      "x": -1739.5732421875,
+      "y": -51.798851013183594
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Angle Bisector.md",
+      "x": -1485.0023193359375,
+      "y": -312.8872985839844
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Area of Triangle.md",
+      "x": -1698.9752197265625,
+      "y": -255.6582794189453
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Centres of a Triangle.md",
+      "x": -1816.6580810546875,
+      "y": -279.1075744628906
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Centroid (G).md",
+      "x": -1934.3441162109375,
+      "y": -302.55133056640625
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Circumcenter (C).md",
+      "x": -1660.4466552734375,
+      "y": -142.01466369628906
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Col-linearity of 3 Points.md",
+      "x": -1857.2562255859375,
+      "y": -75.2704849243164
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Equation of Line in Different Forms.md",
+      "x": -1790.289306640625,
+      "y": 517.4739379882812
+    },
+    {
+      "id": "Jee/Maths/Straight Line/External Angle Bisector Theorem.md",
+      "x": -1472.463623046875,
+      "y": -434.2944030761719
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Golden Points.md",
+      "x": -1895.8033447265625,
+      "y": -188.9130096435547
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Incenter (I).md",
+      "x": -1737.513427734375,
+      "y": -369.2986755371094
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Internal Angle Bisector Theorem.md",
+      "x": -1587.1375732421875,
+      "y": -398.9417724609375
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Locus.md",
+      "x": -1048.719482421875,
+      "y": -282.4823913574219
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Median.md",
+      "x": -1922.533447265625,
+      "y": -421.96600341796875
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Mid-Point Theorem.md",
+      "x": -279.8399353027344,
+      "y": -1168.161865234375
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Orthocenter (H).md",
+      "x": -1778.1207275390625,
+      "y": -165.46937561035156
+    },
+    {
+      "id": "Jee/Maths/Straight Line/Proportionality Theorem.md",
+      "x": -184.68202209472656,
+      "y": -1241.267822265625
+    },
+    {
+      "id": "Jee/Maths/Trigonometric Functions/Area of Sector.md",
+      "x": -666.9783935546875,
+      "y": -181.59434509277344
+    },
+    {
+      "id": "Jee/Maths/Trigonometric Functions/Galvanometer.md",
+      "x": 247.46458435058594,
+      "y": -169.74832153320312
+    },
+    {
+      "id": "Jee/Maths/Trigonometric Functions/Length of Arc.md",
+      "x": -615.2589111328125,
+      "y": -73.31309509277344
+    },
+    {
+      "id": "Jee/Maths/Trigonometric Functions/Radian Measure.md",
+      "x": -736.9879760742188,
+      "y": -84.13468170166016
+    },
+    {
+      "id": "Jee/Maths/Trigonometric Functions/Sign Convention to measure angles.md",
+      "x": -685.2710571289062,
+      "y": 24.146623611450195
+    },
+    {
+      "id": "Jee/Maths/Vectors/Collinear or Parallel Vector.md",
+      "x": -709.868408203125,
+      "y": 1635.0166015625
+    },
+    {
+      "id": "Jee/Maths/Vectors/Position Vector.md",
+      "x": -631.19873046875,
+      "y": 1725.629150390625
+    },
+    {
+      "id": "Jee/Maths/Vectors/Scalar Quantities.md",
+      "x": -1458.77734375,
+      "y": 568.2539672851562
+    },
+    {
+      "id": "Jee/Maths/Vectors/Unit Vector.md",
+      "x": -590.205810546875,
+      "y": 1612.8504638671875
+    },
+    {
+      "id": "Jee/Maths/Vectors/Vector Quantities.md",
+      "x": -613.2973022460938,
+      "y": 1396.137939453125
+    },
+    {
+      "id": "Jee/Maths/Vectors/Vector.md",
+      "x": -668.7384643554688,
+      "y": 1520.789794921875
+    },
+    {
+      "id": "Jee/Physics/Alternate Current/Alternating Current.md",
+      "x": -764.8607788085938,
+      "y": -755.6209716796875
+    },
+    {
+      "id": "Jee/Physics/Alternate Current/Circuit Elements in AC Circuits.md",
+      "x": -644.9070434570312,
+      "y": -758.89404296875
+    },
+    {
+      "id": "Jee/Physics/Alternate Current/Inductor.md",
+      "x": 91.57691192626953,
+      "y": -706.7086181640625
+    },
+    {
+      "id": "Jee/Physics/Alternate Current/RLC Circuit.md",
+      "x": -52.82014083862305,
+      "y": -1773.628173828125
+    },
+    {
+      "id": "Jee/Physics/Calorimetary/Heat Capacity.md",
+      "x": 1381.7547607421875,
+      "y": 1300.5859375
+    },
+    {
+      "id": "Jee/Physics/Calorimetary/Latent Heat of Vaporization.md",
+      "x": 1170.8448486328125,
+      "y": 1032.5341796875
+    },
+    {
+      "id": "Jee/Physics/Calorimetary/Latent Heat.md",
+      "x": 1055.2103271484375,
+      "y": 1064.5921630859375
+    },
+    {
+      "id": "Jee/Physics/Calorimetary/Latent heat of fusion.md",
+      "x": 1139.691650390625,
+      "y": 1149.8114013671875
+    },
+    {
+      "id": "Jee/Physics/Calorimetary/Molar Heat Capacity.md",
+      "x": 1468.9117431640625,
+      "y": 939.2033081054688
+    },
+    {
+      "id": "Jee/Physics/Calorimetary/Specific Heat Capacity.md",
+      "x": 1443.46484375,
+      "y": 1162.1734619140625
+    },
+    {
+      "id": "Jee/Physics/Calorimetary/Untitled.md",
+      "x": -1470.2755126953125,
+      "y": -942.1859130859375
+    },
+    {
+      "id": "Jee/Physics/Calorimetary/Water Equivalent of a Body.md",
+      "x": 1471.038330078125,
+      "y": 1380.760498046875
+    },
+    {
+      "id": "Jee/Physics/Circular Motion/Angular Variable/Angular Acceleration.md",
+      "x": -550.8148193359375,
+      "y": 1498.578369140625
+    },
+    {
+      "id": "Jee/Physics/Circular Motion/Angular Variable/Angular Displacement.md",
+      "x": -356.0177307128906,
+      "y": 1301.8238525390625
+    },
+    {
+      "id": "Jee/Physics/Circular Motion/Angular Variable/Angular Position.md",
+      "x": -374.7310791015625,
+      "y": 1183.2960205078125
+    },
+    {
+      "id": "Jee/Physics/Circular Motion/Angular Variable/Angular Variable.md",
+      "x": -472.6426086425781,
+      "y": 1273.5670166015625
+    },
+    {
+      "id": "Jee/Physics/Circular Motion/Angular Variable/Angular Velocity.md",
+      "x": -470.8878173828125,
+      "y": 1393.5540771484375
+    },
+    {
+      "id": "Jee/Physics/Circular Motion/Uniform Circular Motion.md",
+      "x": -349.2550048828125,
+      "y": 1421.6270751953125
+    },
+    {
+      "id": "Jee/Physics/Current Carrying Loop.md",
+      "x": 1675.511962890625,
+      "y": -570.081787109375
+    },
+    {
+      "id": "Jee/Physics/Current/Average Relaxation time.md",
+      "x": -501.466552734375,
+      "y": -1984.9637451171875
+    },
+    {
+      "id": "Jee/Physics/Current/Cells.md",
+      "x": -935.0955810546875,
+      "y": -2026.0208740234375
+    },
+    {
+      "id": "Jee/Physics/Current/Combination of Resistors.md",
+      "x": -798.461181640625,
+      "y": -2040.80810546875
+    },
+    {
+      "id": "Jee/Physics/Current/Combinations of Cells.md",
+      "x": -856.1957397460938,
+      "y": -1935.6099853515625
+    },
+    {
+      "id": "Jee/Physics/Current/Current.md",
+      "x": -736.2252197265625,
+      "y": -1938.2110595703125
+    },
+    {
+      "id": "Jee/Physics/Current/Drift Velocity.md",
+      "x": -620.538330078125,
+      "y": -1970.08984375
+    },
+    {
+      "id": "Jee/Physics/Current/Install Debian Packages in Arch.md",
+      "x": -18.69902801513672,
+      "y": -816.9202270507812
+    },
+    {
+      "id": "Jee/Physics/Current/RC Circuit.md",
+      "x": -716.1718139648438,
+      "y": -1819.9013671875
+    },
+    {
+      "id": "Jee/Physics/Current/Resistivity.md",
+      "x": 1498.447021484375,
+      "y": 1055.5108642578125
+    },
+    {
+      "id": "Jee/Physics/EMI/Ampere's Circuital Law.md",
+      "x": 2411.39111328125,
+      "y": -238.7459716796875
+    },
+    {
+      "id": "Jee/Physics/EMI/Application of Biot-Savart Law.md",
+      "x": 2297.049560546875,
+      "y": -202.3368377685547
+    },
+    {
+      "id": "Jee/Physics/EMI/Force between two parallel current carrying wire.md",
+      "x": 2322.68994140625,
+      "y": -319.5654296875
+    },
+    {
+      "id": "Jee/Physics/Electrostatics/Charge.md",
+      "x": -600.48583984375,
+      "y": -1851.778564453125
+    },
+    {
+      "id": "Jee/Physics/Electrostatics/Coulomb's Law.md",
+      "x": -500.123291015625,
+      "y": -1785.9998779296875
+    },
+    {
+      "id": "Jee/Physics/Electrostatics/Electric Field.md",
+      "x": -647.0733032226562,
+      "y": -638.9138793945312
+    },
+    {
+      "id": "Jee/Physics/Electrostatics/Electric Potential Energy.md",
+      "x": 193.8714141845703,
+      "y": -2024.7496337890625
+    },
+    {
+      "id": "Jee/Physics/Electrostatics/Quantized.md",
+      "x": -1382.201171875,
+      "y": -1589.95849609375
+    },
+    {
+      "id": "Jee/Physics/Magnetic Field.md",
+      "x": -794.9981079101562,
+      "y": -1694.1951904296875
+    },
+    {
+      "id": "Jee/Physics/Mechanics of Solid/Elasticity.md",
+      "x": -1079.2249755859375,
+      "y": 344.3167419433594
+    },
+    {
+      "id": "Jee/Physics/Mechanics of Solid/Mechanics of Solid.md",
+      "x": -1005.7725830078125,
+      "y": 439.2083435058594
+    },
+    {
+      "id": "Jee/Physics/Mechanics of Solid/Questions/Question on Rope with Mass.md",
+      "x": -1124.6785888671875,
+      "y": 455.3736267089844
+    },
+    {
+      "id": "Jee/Physics/Momentum of EM Waves.md",
+      "x": -10.562972068786621,
+      "y": 2062.131103515625
+    },
+    {
+      "id": "Jee/Physics/Photoelectric Effect.md",
+      "x": 2096.10498046875,
+      "y": 608.1649169921875
+    },
+    {
+      "id": "Jee/Physics/Rotation/Angular Momentum.md",
+      "x": -647.90673828125,
+      "y": 1281.2440185546875
+    },
+    {
+      "id": "Jee/Physics/Rotation/Moment of Inertia.md",
+      "x": -842.68798828125,
+      "y": 1283.217041015625
+    },
+    {
+      "id": "Jee/Physics/Rotation/Parallel Axis Theorem.md",
+      "x": -901.0559692382812,
+      "y": 1150.4818115234375
+    },
+    {
+      "id": "Jee/Physics/Rotation/Perpendicular Axis Theorem.md",
+      "x": -962.4163818359375,
+      "y": 1253.604248046875
+    },
+    {
+      "id": "Jee/Physics/Rotation/Radius of Gyration.md",
+      "x": -784.34130859375,
+      "y": 1178.3599853515625
+    },
+    {
+      "id": "Jee/Physics/Rotation/Rolling Motion.md",
+      "x": -431.28961181640625,
+      "y": 1509.2017822265625
+    },
+    {
+      "id": "Jee/Physics/Rotation/Torque.md",
+      "x": -731.3377075195312,
+      "y": 1417.7254638671875
+    },
+    {
+      "id": "Jee/Physics/SHM/Movies.md",
+      "x": -44.094913482666016,
+      "y": -325.78369140625
+    },
+    {
+      "id": "Jee/Physics/SHM/Oscillations.md",
+      "x": -907.4714965820312,
+      "y": 1561.1220703125
+    },
+    {
+      "id": "Jee/Physics/SHM/Oscillatory Motion.md",
+      "x": -1042.921142578125,
+      "y": 1543.0736083984375
+    },
+    {
+      "id": "Jee/Physics/SHM/Periodic Motion.md",
+      "x": -1118.3236083984375,
+      "y": 1636.4227294921875
+    },
+    {
+      "id": "Jee/Physics/SHM/Simple Harmonic Motion.md",
+      "x": -963.7081909179688,
+      "y": 1452.937255859375
+    },
+    {
+      "id": "Jee/Physics/SHM/Some Important Formula of SHM.md",
+      "x": -843.8809204101562,
+      "y": 1459.3609619140625
+    },
+    {
+      "id": "Jee/Physics/SHM/Types of SHM.md",
+      "x": -994.0481567382812,
+      "y": 1652.6689453125
+    },
+    {
+      "id": "Jee/Physics/Work Power Energy/Work.md",
+      "x": -1345.594482421875,
+      "y": 528.390380859375
+    },
+    {
+      "id": "Linux/Core Tools.md",
+      "x": -439.305419921875,
+      "y": -1265.02490234375
+    },
+    {
+      "id": "Linux/Core Tools/nmcli/nmcli.md",
+      "x": -531.921875,
+      "y": -1188.7235107421875
+    },
+    {
+      "id": "Linux/Core Tools/systemctl.md",
+      "x": -551.6920776367188,
+      "y": -1307.0833740234375
+    },
+    {
+      "id": "Linux/Tools.md",
+      "x": 992.7092895507812,
+      "y": -2015.46142578125
+    },
+    {
+      "id": "Object Detection/Linear Transformation.md",
+      "x": 16.25408363342285,
+      "y": -1388.87353515625
+    },
+    {
+      "id": "Python/PyQt6/Getting Started.md",
+      "x": -1219.7281494140625,
+      "y": -843.3763427734375
+    },
+    {
+      "id": "Engeneering/Communication/Networking Protocols/Binary-based Protocol.md",
+      "x": -236.1328125,
+      "y": -854.566162109375
+    },
+    {
+      "id": "Engeneering/Communication/Networking Protocols/Communication Systems.md",
+      "x": -135.46434020996094,
+      "y": -789.2553100585938
+    },
+    {
+      "id": "Engeneering/Communication/Networking Protocols/Text-based Protocols.md",
+      "x": -240.70468139648438,
+      "y": -731.6017456054688
+    },
+    {
+      "id": "Engeneering/Communication/Networking Protocols/Universal Plug and Play.md",
+      "x": 266.5821838378906,
+      "y": 228.51719665527344
+    },
+    {
+      "id": "Javascript/Express js/Separating Routes in Different Files.md",
+      "x": -219.32310485839844,
+      "y": 682.4418334960938
+    },
+    {
+      "id": "Javascript/Express js/How To/HTTPS Server on Localhost using Express.md",
+      "x": -667.6619262695312,
+      "y": -998.0731201171875
+    },
+    {
+      "id": "Python/Django/Create Custom User Model.md",
+      "x": 424.115478515625,
+      "y": -198.5102081298828
+    },
+    {
+      "id": "Engeneering/Mechanical/Rocker Bogie.md",
+      "x": 1215.7528076171875,
+      "y": -227.5326385498047
+    },
+    {
+      "id": "Engeneering/Electronics/Analog/Transistor Biasing.md",
+      "x": 89.02462768554688,
+      "y": 974.3124389648438
+    },
+    {
+      "id": "Engeneering/Electronics/RF/Basic Concepts In RF Design.md",
+      "x": 460.5013732910156,
+      "y": 74.04205322265625
+    },
+    {
+      "id": "Linux/Activate Virtual environment.md",
+      "x": -347.9686584472656,
+      "y": -252.02423095703125
+    },
+    {
+      "id": "Linux/Disable CPU cores Linux.md",
+      "x": -607.8976440429688,
+      "y": 500.4112548828125
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}

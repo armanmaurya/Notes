@@ -1,0 +1,1 @@
+The amount of [Energy](Jee/Chemistry/Thermodynamics/Energy.md) required to break [one mole](Jee/Chemistry/Mole%20Concept/Mole.md) of particular type of bond between the atoms in the gaseous state under one atmospheric pressure at the specified temperature is called bond dissociated [Energy](Jee/Chemistry/Thermodynamics/Energy.md).

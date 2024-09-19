@@ -1,0 +1,1 @@
+Those quantities which only have magnitude not direction and doesn't follow vector law are called scalar Quantities.

@@ -1,0 +1,10 @@
+.markdown-preview-view img[alt="sm"] {
+    width: 50%;
+  }
+  .markdown-preview-view img[alt="md"] {
+    width: 75%;
+  }
+  .markdown-preview-view img[alt="lg"] {
+    width: 100%;
+  }
+  

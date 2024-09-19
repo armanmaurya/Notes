@@ -1,0 +1,23 @@
+{
+  "livePreview": true,
+  "readableLineLength": true,
+  "defaultViewMode": "preview",
+  "vimMode": false,
+  "strictLineBreaks": false,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "mobilePullAction": "graph:open",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 10
+  },
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false,
+  "showLineNumber": false,
+  "rightToLeft": false
+}

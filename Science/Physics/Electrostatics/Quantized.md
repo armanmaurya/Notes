@@ -1,0 +1,1 @@
+Quantized means something is discrete or not continuous. It can also refer to the process of expressing or measuring something in discrete, separate units or quanta, rather than in a continuous manner

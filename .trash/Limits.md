@@ -1,0 +1,2 @@
+## Meaning of x $\to$ a
+Let $x$ be a variable and $a$ be constant. Since $x$ is a variable; we can change its value at out pleasure. It can be changed in such a way that its value comes nearer and nearer to $a$. The we say that $x$ approaches $a$ and it is denoted by $x\to a$.

@@ -1,0 +1,18 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "translucency": false,
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "Minimal Theme cards",
+    "Minimal Cards",
+    "defaultimagesize",
+    "center img",
+    "image",
+    "style"
+  ],
+  "textFontFamily": "Cambria",
+  "interfaceFontFamily": "Cambria",
+  "baseFontSizeAction": false
+}

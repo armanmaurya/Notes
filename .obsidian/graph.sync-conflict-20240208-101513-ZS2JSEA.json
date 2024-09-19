@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Solution",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#Electrostatics  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Vapour  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "[\"topic\":Colligative Properties",
+      "color": {
+        "a": 1,
+        "rgb": 15527548
+      }
+    },
+    {
+      "query": "file:Integration",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "[\"topic\":Redox Reaction",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "file:Vector",
+      "color": {
+        "a": 1,
+        "rgb": 14701269
+      }
+    },
+    {
+      "query": "tag:#Rotation  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431447
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 1.32754677754678,
+  "lineSizeMultiplier": 4.706,
+  "collapse-forces": false,
+  "centerStrength": 0.0208706390861377,
+  "repelStrength": 2.63044149428836,
+  "linkStrength": 0.530595862920655,
+  "linkDistance": 104,
+  "scale": 1.2163513143996147,
+  "close": true
+}

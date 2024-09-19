@@ -1,0 +1,1 @@
+In simple terms, pooling is like downsampling. It reduces the size of the feature maps (or images) by summarizing the information within a smaller region. Think of it as shrinking the image while keeping the most important parts of it.

@@ -1,0 +1,3 @@
+A binary based protocol utilizes all values of a byte, as opposed to a text-based protocol which only uses values corresponding to human-readable characters in ASCII encoding. Binary protocol are intended to be read by a machine rather than a human being. Binary protocols have the advantage of terseness, which translates into speed of transmission and interpretation.
+
+Binary have been used in the normative documents describing modern standards like EbXML, HTTP/2, HTTP/3 and EDOC. An interface in UML may also be considered in binary protocol.

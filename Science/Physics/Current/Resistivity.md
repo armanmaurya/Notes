@@ -1,0 +1,1 @@
+Resistivity is a material's property that describes how much it resists the flow of electric current through it.
