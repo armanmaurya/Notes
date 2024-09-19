@@ -12,10 +12,10 @@
         "startupType": "disabled"
       },
       "obsidian-reveal-active-file": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "calendar": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "obsidian-charts": {
         "startupType": "disabled"
@@ -27,7 +27,7 @@
         "startupType": "disabled"
       },
       "obsidian-custom-frames": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "dataview": {
         "startupType": "disabled"
@@ -87,10 +87,10 @@
         "startupType": "disabled"
       },
       "settings-search": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "smart-connections": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-style-settings": {
         "startupType": "instant"
@@ -105,43 +105,43 @@
         "startupType": "disabled"
       },
       "obsidian-text-format": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "obsidian-textgenerator-plugin": {
         "startupType": "disabled"
       },
       "text-snippets-obsidian": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "vantage-obsidian": {
         "startupType": "disabled"
       },
       "various-complements": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "vscode-editor": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "system3-relay": {
         "startupType": "disabled"
       },
       "vault-size-history": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "auto-folder-collapse": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "heading-toggler": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "ink": {
         "startupType": "instant"
       },
       "painter": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "fast-text-color": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "obsidian-git": {
         "startupType": "instant"

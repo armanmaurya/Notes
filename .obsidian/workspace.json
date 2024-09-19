@@ -127,14 +127,6 @@
             }
           },
           {
-            "id": "8bdf322360e82fc8",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "80bf6b65ca93ea26",
             "type": "leaf",
             "state": {
@@ -149,9 +141,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "32799f38f0593087",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -175,7 +175,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "39a1e926bcd90bf3",
+  "active": "8ba7a07c13379020",
   "lastOpenFiles": [
     "First Year/1st Sem/EVS/Natural Resources.md",
     "First Year/1st Sem/EVS/MULTIDISCIPLINARY NATURE OF ENVIRONMENTAL STUDIES.md",
