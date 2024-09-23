@@ -148,6 +148,18 @@
       },
       "obsidian-icon-folder": {
         "startupType": "instant"
+      },
+      "tabs": {
+        "startupType": "instant"
+      },
+      "obsidian-gallery": {
+        "startupType": "disabled"
+      },
+      "obsidian-image-toolkit": {
+        "startupType": "instant"
+      },
+      "obsidian-markdown-export-plugin": {
+        "startupType": "disabled"
       }
     }
   }

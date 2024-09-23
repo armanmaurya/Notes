@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e24211c442b5c6",
+        "id": "c8dc7c96e4c12192",
         "type": "tabs",
         "children": [
           {
-            "id": "d2e8131946a519b1",
+            "id": "0bc4d160939a7dfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Maths/Matrices/Matrices.md",
+                "file": "DSA/LinkedList/Problems/Reverse a Linked List.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Maths/Matrices/Matrices.md",
+                "file": "DSA/LinkedList/Problems/Reverse a Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Maths/Matrices/Matrices.md",
+                "file": "DSA/LinkedList/Problems/Reverse a Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Maths/Matrices/Matrices.md"
+                "file": "DSA/LinkedList/Problems/Reverse a Linked List.md"
               }
             }
           },
@@ -167,6 +167,7 @@
       "markdown-importer:Open format converter": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
       "obsidian-custom-frames:Open ChatGPT": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false,
@@ -175,8 +176,34 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "39a1e926bcd90bf3",
+  "active": "f8ef00d452cc2b64",
   "lastOpenFiles": [
+    "DSA/LinkedList/Problems/Reverse a Linked List.md",
+    "DSA/LinkedList/Problems/images/Reverse-Linked-List-Using-Iterative-Method-2.webp",
+    "DSA/LinkedList/Problems/images/Reverse-Linked-List-Using-Iterative-Method-1.webp",
+    "DSA/LinkedList/Problems/images/Reverse-Linked-List-Using-Iterative-Method-6.webp",
+    "DSA/LinkedList/Problems/images/Reverse-Linked-List-Using-Iterative-Method-5.webp",
+    "DSA/LinkedList/Problems/images/Reverse-Linked-List-Using-Iterative-Method-4.webp",
+    "DSA/LinkedList/Problems/images/Reverse-Linked-List-Using-Iterative-Method-3.webp",
+    "DSA/LinkedList/Problems/Find Middle of the Linked List.md",
+    "DSA/LinkedList/Problems/images/Find-Middle-of-the-Linked-List-3_1.webp",
+    "DSA/LinkedList/Problems/images/Find-Middle-of-the-Linked-List-2_1.webp",
+    "DSA/LinkedList/Problems/images/Find-Middle-of-the-Linked-List-1_1.webp",
+    "DSA/LinkedList/LinkedList.md",
+    "DSA/LinkedList/Problems/images/Middle-of-a-Linked-List4.webp",
+    "DSA/LinkedList/Problems/images",
+    "DSA/LinkedList/Doubly Linked List/Doubly Linked List.md",
+    "DSA/LinkedList/Problems",
+    "DSA/LinkedList/Doubly Linked List/images",
+    "DSA/LinkedList/Singly Linked List/Singly Linked List.md",
+    "DSA/LinkedList/Doubly Linked List",
+    "DSA/LinkedList/Singly Linked List/images",
+    "Science/Maths/Quadratic Equation/Polynomial in One Variable.md",
+    "DSA/LinkedList/Singly Linked List/Operations on Singly Linked List.md",
+    "DSA/LinkedList/Singly Linked List",
+    "DSA/LinkedList/image",
+    "DSA/LinkedList",
+    "DSA",
     "Science/Maths/Matrices/Matrices.md",
     "Science/Maths/Matrices/Matrices.md",
     "Python/matplotlib/Plot Image.md",
@@ -196,31 +223,7 @@
     "First Year/1st Sem/EVS/Natural Resources.md",
     "Science/Maths/Straight Line/Orthocenter (H).md",
     "Science/Chemistry/Solution/Colligative Properties/Relative Lowering Of Vapour Pressure/Vapour Pressure/Vapour Pressure.md",
-    "Science/Chemistry/Solution/Colligative Properties/Relative Lowering Of Vapour Pressure/Boiling Point.md",
-    "Science/Chemistry/Solution/Colligative Properties/Elevation In Boiling Point.md",
-    "Science/Chemistry/Solution/Colligative Properties/Depression In Freezing Point.md",
-    "First Year/1st Sem/EVS/EVS-NOTES_.pdf",
-    "Excalidraw/Drawing 2024-09-15 12.19.23.excalidraw.md",
-    "Python/OpenCV/Untitled.md",
-    "First Year/1st Sem/EVS",
-    "First Year/1st Sem",
-    "First Year",
-    "Ink/Writing/2024.9.15 - 12.20pm.writing",
-    "Ink/Writing",
-    "Ink/Drawing/2024.9.15 - 12.19pm.drawing",
-    "Ink/Drawing",
-    "Ink",
-    "Ink/Drawing.md",
-    "Science/Maths/3D Geometry/Direction Cosine Of Vector.md",
-    "Excalidraw/Drawing 2024-09-15 10.45.45.excalidraw.md",
-    "Python/OpenCV/OpenCV_ Sobel Derivatives_files/Sobel_Derivatives_Tutorial_Theory_Intensity_Function.jpg",
-    "Python/OpenCV/OpenCV_ Sobel Derivatives_files/Sobel_Derivatives_Tutorial_Theory_dIntensity_Function.jpg",
-    "Python/OpenCV/OpenCV_ Sobel Derivatives_files/Sobel_Derivatives_Tutorial_Theory_0.jpg",
-    "Python/OpenCV/OpenCV_ Sobel Derivatives_files/Sobel_Derivatives_Tutorial_Result.jpg",
-    "Python/OpenCV/OpenCV_ Sobel Derivatives_files/opencv-logo-small.png",
-    "Python/OpenCV/OpenCV_ Sobel Derivatives_files/close.svg",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "baraber.svg"
+    "Untitled 1.canvas"
   ]
 }

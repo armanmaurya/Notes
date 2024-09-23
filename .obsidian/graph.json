@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11007
       }
+    },
+    {
+      "query": "tag:#LinkedList  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 12.3000926211794,
   "linkStrength": 1,
   "linkDistance": 115,
-  "scale": 0.13258485054984478,
+  "scale": 0.11899708430694218,
   "close": true
 }

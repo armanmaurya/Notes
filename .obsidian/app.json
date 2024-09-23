@@ -1,10 +1,10 @@
 {
   "livePreview": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "defaultViewMode": "preview",
   "vimMode": false,
   "strictLineBreaks": false,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
