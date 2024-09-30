@@ -4,7 +4,7 @@ tags:
   - LinkedList
 ---
 # Singly Linked List
-A ***singly linked list*** is a fundamental data structure in computer science and programming, it consists of ***nodes*** where each node contains a ***data*** field and a ***reference*** to the next node in the node. The last node points to ***null***, indicating the end of the list. This linear structure supports efficient insertion and deletion operations, making it widely used in various applications. In this tutorial, we’ll explore the node structure, understand the operations on singly linked lists (traversal, searching, length determination, insertion, and deletion), and provide detailed explanations and code examples to implement these operations effectively.
+A **singly linked list** is a fundamental data structure in computer science and programming, it consists of ***nodes*** where each node contains a ***data*** field and a ***reference*** to the next node in the node. The last node points to ***null***, indicating the end of the list. This linear structure supports efficient insertion and deletion operations, making it widely used in various applications. In this tutorial, we’ll explore the node structure, understand the operations on singly linked lists (traversal, searching, length determination, insertion, and deletion), and provide detailed explanations and code examples to implement these operations effectively.
 ## What is Singly Linked List?
 A ***singly linked list*** is a fundamental data structure in computer science and programming. It is a collection of nodes where each node contains a ***data field*** and a ***reference*** (link) to the next node in the sequence. The last node in the list points to ***null***, indicating the end of the list. This linear data structure allows for efficient insertion and deletion operations, making it a popular choice for various applications.
 ## Understanding Node Structure
@@ -89,14 +89,14 @@ class Node {
 ````
 In this example, the Node class contains an integer data field (***data***) to store the information and a pointer to another Node (***next***) to establish the link to the next node in the list.
 ## Operations on Singly Linked List
-- ***Traversal***
-- ***Searching***
-- ***Length***
-- ***Insertion:***
+- **Traversal**
+- **Searching**
+- **Length**
+- **Insertion:**
     - Insert at the beginning
     - Insert at the end
     - Insert at a specific position
-- ***Deletion:***
+- **Deletion:**
     - Delete from the beginning
     - Delete from the end
     - Delete a specific node
@@ -1395,3 +1395,12 @@ function deleteAtPosition(head, position) {
 }
 ```
 ````
+
+---
+**Related Links**:-
+- **Concept:-**
+	- [LinkedList](../LinkedList.md)
+	- [Doubly Linked List](../Doubly%20Linked%20List/Doubly%20Linked%20List.md) 
+- Problems:-
+	- [Find Middle of the Singly Linked List](../Problems/Find%20Middle%20of%20the%20Singly%20Linked%20List.md)
+	- [Reverse a Linked Singly List](../Problems/Reverse%20a%20Singly%20Linked%20List.md)

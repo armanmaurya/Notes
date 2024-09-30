@@ -1,13 +1,13 @@
 [
-  "obsidian-hider",
-  "obsidian-kanban",
-  "obsidian-style-settings",
-  "ink",
-  "obsidian-git",
-  "lazy-plugins",
   "fast-text-color",
+  "obsidian-git",
+  "obsidian-style-settings",
+  "tabs",
+  "lazy-plugins",
   "custom-classes",
   "obsidian-icon-folder",
-  "tabs",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "ink",
+  "obsidian-kanban",
+  "smart-connections"
 ]

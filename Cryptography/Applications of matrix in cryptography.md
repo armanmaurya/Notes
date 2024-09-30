@@ -114,3 +114,7 @@ P & R & E & P & A & R & E & * & T & O & * & N & E & G & O & T & I & A & T & E
 \end{matrix}
 $$
 Message received: **PREPARE TO NEGOTIATE**
+
+---
+**Related Links:**
+- [Matrices](../Science/Maths/Matrices/Matrices.md)

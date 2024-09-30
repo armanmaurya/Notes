@@ -30,7 +30,7 @@
         "startupType": "short"
       },
       "dataview": {
-        "startupType": "disabled"
+        "startupType": "short"
       },
       "dbfolder": {
         "startupType": "disabled"
@@ -48,7 +48,7 @@
         "startupType": "disabled"
       },
       "obsidian-hider": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "obsidian-html-plugin": {
         "startupType": "short"
@@ -57,7 +57,7 @@
         "startupType": "instant"
       },
       "obsidian-latex-suite": {
-        "startupType": "disabled"
+        "startupType": "long"
       },
       "media-extended": {
         "startupType": "disabled"
@@ -90,7 +90,7 @@
         "startupType": "long"
       },
       "smart-connections": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "obsidian-style-settings": {
         "startupType": "instant"
@@ -153,13 +153,16 @@
         "startupType": "instant"
       },
       "obsidian-gallery": {
-        "startupType": "disabled"
+        "startupType": "long"
       },
       "obsidian-image-toolkit": {
         "startupType": "instant"
       },
       "obsidian-markdown-export-plugin": {
         "startupType": "disabled"
+      },
+      "obsidian-completr": {
+        "startupType": "long"
       }
     }
   }

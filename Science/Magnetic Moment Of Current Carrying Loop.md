@@ -1,4 +1,4 @@
-The magnetic moment ($\vec{m}$) of a current-carrying loop is a vector quantity that characterizes the strength and orientation of the [Magnetic Field](../Jee/Physics/Magnetic%20Field.md) produced by the loop. For a planar loop carrying [Current](../Jee/Physics/Current/Current.md) $I$, the magnetic moment is given by,
+The magnetic moment ($\vec{m}$) of a current-carrying loop is a vector quantity that characterizes the strength and orientation of the [Magnetic Field](Physics/Magnetic%20Field.md) produced by the loop. For a planar loop carrying [Current](Physics/Current/Current.md) $I$, the magnetic moment is given by,
 
 $$\vec{m} = I \cdot \vec{A}$$
 

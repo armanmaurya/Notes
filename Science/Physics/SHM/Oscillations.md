@@ -4,10 +4,11 @@ The point at which the restoring force on the particle is zero and potential ene
 ## Restoring Force
 ---
 The force acting on the particle which tends to bring the particle toward its mean position, is know as restoring force.
+
 This force is always directed towards the mean position.
+
 Restoring Force always acts in a direction opposite to that of displacement. Displacement is measured from the mean position.
 It is given by $F=-kx$ and has dimension $MLT^{-2}$
-
 ## Amplitude 
 The maximum displacement of particle from mean position is defines as amplitude 
 $$A = x_{max}- x_{mean}$$

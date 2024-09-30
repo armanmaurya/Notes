@@ -1,0 +1,1 @@
+Let A be any $m\times n$ matrix. It has square sub-matrices of different orders. The determinants of these square sub-matrices are called minors of A.

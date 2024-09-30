@@ -17,7 +17,8 @@
     "downscalePercent": 10
   },
   "showUnsupportedFiles": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "showLineNumber": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "showRibbon": true
 }

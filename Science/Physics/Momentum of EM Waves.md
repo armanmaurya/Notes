@@ -1,4 +1,3 @@
-# Momentum of EM Waves
 When EM Wave interacts with matter, momentum of one photon is given by :
 $$
 P = \frac{h}{\lambda} = \frac{E}{c}

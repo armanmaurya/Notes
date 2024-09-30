@@ -6,14 +6,15 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "Minimal Theme cards",
-    "Minimal Cards",
-    "defaultimagesize",
     "center img",
+    "defaultimagesize",
     "image",
+    "Minimal Cards",
     "style"
   ],
   "textFontFamily": "DejaVu Serif",
   "interfaceFontFamily": "DejaVu Serif",
   "baseFontSizeAction": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "showViewHeader": true
 }

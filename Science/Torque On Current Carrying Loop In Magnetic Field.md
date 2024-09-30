@@ -1,4 +1,4 @@
- The torque ($\vec{\tau}$) experienced by a current-carrying loop in a [Magnetic Field](../Jee/Physics/Magnetic%20Field.md) is the rotational force acting on the loop. The torque is given by the formula : 
+ The torque ($\vec{\tau}$) experienced by a current-carrying loop in a [Magnetic Field](Physics/Magnetic%20Field.md) is the rotational force acting on the loop. The torque is given by the formula : 
  $$
 \vec{\tau} = \vec{m} \times \vec{B}
 $$

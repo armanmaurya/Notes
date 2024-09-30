@@ -85,3 +85,8 @@ The point where the altitudes of a triangle intersect. An altitude is a line seg
 ```flowchart
 
 ```
+
+---
+**Related Links:-**
+- [Matrices](../Matrices/Matrices.md)
+- [Area of Triangle](Area%20of%20Triangle.md)

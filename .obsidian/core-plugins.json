@@ -1,7 +1,6 @@
 [
   "file-explorer",
   "global-search",
-  "switcher",
   "graph",
   "backlink",
   "canvas",
@@ -14,5 +13,6 @@
   "editor-status",
   "bookmarks",
   "markdown-importer",
+  "random-note",
   "outline"
 ]

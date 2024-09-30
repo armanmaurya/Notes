@@ -1,0 +1,4 @@
+Elements having very high ionisation energies are incapable of transferring electrons, and elements having very low electron affinity cannot take up electrons. The atoms of such elements tend to share their electrons with the atoms of other elements or with other atoms of the same element in a way that both the atoms obtain octet configuration in their respective valence shells, and thus achieve stability. Such association through sharing of electron pairs among different or same kinds is known as Covalent Bond.
+### Covalent bonding can be achieved in two ways:
+- Sharing of electrons between atoms of the same kind, for example, formation of $H_{2}$, $Cl_{2}$, $O_{2}$, etc.
+- Sharing of electrons between atoms of different kinds, for example, formation of $CH_{4}$, $H_{2}O$, $NH_{3}$, etc.

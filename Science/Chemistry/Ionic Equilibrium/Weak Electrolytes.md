@@ -1,0 +1,5 @@
+- Electrolytes which do not dissociate or ionized completely in water
+- Degree of dissociation is very low.
+- These electrolytes have low electrical conductivity.
+- Weak Acids, Weak Base are Examples of Weak Electrolytes
+- For example, $CH_{3}COOH$, $NH_{4}OH$, etc.

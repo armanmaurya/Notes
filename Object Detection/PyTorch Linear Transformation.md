@@ -1,4 +1,4 @@
-# Linear Transformation
+# PyTorch Linear Transformation
 
 We could apply linear transformation to the incoming data using the 
 **torch.nn.Linear()** module in PyTorch. This module is designed to create a

@@ -1,4 +1,7 @@
-# Semantic Segmentation
+---
+tags:
+  - ComputerVision
+---
 Image segmentation is one of the fundamentals tasks in computer vision alongside with object recognition and detection. In semantic segmentation, the goal is to **classify each pixel of the image in a specific category**. The difference from image classification is that we do not classify the whole image in one class but each individual pixel. So, we have a set of predefined categories and we want to assign a label in each pixel of the image. And we do this assignment based on the context of the different objects in the image.
 ![[images/semseg.jpg]]
 We can see a real-world example in the above image. Each pixel of the image has been assigned to a specific label and represented by a different color. Red for people, blue for cars, green for trees etc.
@@ -28,7 +31,7 @@ Fully Convolutional networks consist of only convolutional and pooling layers, w
 
 As you may imagine it produced quite good results, but it was extremely computationally expensive. The thing was that they couldn’t use any downsampling or pooling layers as it will mess up the location of the instances. And to maintain the image resolution, they need to add many layers to learn both low-level and high-level features. Thus, it ended being quite inefficient.
 
-To solve this problem, they proposed an encoder-decoder architecture. The encoder is a typical convolutional network such as [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) or ResNet[https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035] and the decoder consists of deconvolutional (although I don’t like the term) and up-sampling layers. **The goal of downsampling steps is to capture semantic/contextual information while the goal of upsampling is to recover spatial information**.
+To solve this problem, they proposed an encoder-decoder architecture. The encoder is a typical convolutional network such as [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) or [ResNet](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035 ) and the decoder consists of deconvolutional (although I don’t like the term) and up-sampling layers. **The goal of downsampling steps is to capture semantic/contextual information while the goal of upsampling is to recover spatial information**.
 
 ![[images/fcn2.jpg]]
 

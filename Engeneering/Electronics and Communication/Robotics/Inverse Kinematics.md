@@ -27,3 +27,7 @@ You can use Robotics System Toolbox and Simscrape Multibody for IK using numeric
 - Generating equivalent C/C++ code and embedding it in other application
 
 See [Robotics System Toolbox](https://in.mathworks.com/products/robotics.html) and [Simscrape Multibody](https://in.mathworks.com/products/simscape-multibody.html) for more information
+
+---
+**Related List:**
+- [Matrices](../../../Science/Maths/Matrices/Matrices.md)

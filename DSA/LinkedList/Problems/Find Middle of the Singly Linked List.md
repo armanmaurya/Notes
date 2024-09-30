@@ -1,5 +1,10 @@
-# Find Middle of the Linked List
-Given a singly linked list, the task is to find the middle of the linked list. If the number of nodes are even, then there would be two middle nodes, so return the second middle node.
+---
+tags:
+  - "#DSA"
+  - LinkedList
+---
+# Find Middle of the Singly Linked List
+Given a singly linked list, the task is to find the middle of the singly linked list. If the number of nodes are even, then there would be two middle nodes, so return the second middle node.
 **Example:**
 
 > [!info] Info
@@ -754,3 +759,8 @@ Middle Value of Linked List is: 40
 ```
 **Time Complexity:** O(n), where n is the number of nodes in the linked list.
 **Auxiliary Space:** O(1)
+
+---
+**Related Links:-**
+- [Reverse a Singly Linked List](Reverse%20a%20Singly%20Linked%20List.md)
+- [Singly Linked List](../Singly%20Linked%20List/Singly%20Linked%20List.md)

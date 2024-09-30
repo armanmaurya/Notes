@@ -1,0 +1,5 @@
+- Electrolytes which dissociate or ionized completely in water
+- Degree of dissociation is very high
+- These electrolytes have high electrical conductivity 
+- Strong Acid, Strong Base and Salts Examples of Strong Electrolytes
+- For example, NaCl, HCl, NaOH, etc.

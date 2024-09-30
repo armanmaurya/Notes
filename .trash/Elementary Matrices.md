@@ -1,0 +1,1 @@
+The matrix obtained from a [Identity Matrix](Identity%20Matrix.md) $I$ by subjecting it to one of the Elementary Operations is called an elementary

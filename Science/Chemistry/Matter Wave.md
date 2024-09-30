@@ -33,7 +33,4 @@ For electron:
 $$
 \lambda = \sqrt{ \frac{150}{V} } \ Å
 $$
----
-Related topics:-
-- [Bohr Model](Jee/Chemistry/Bohr%20Model.md)
-- [Hydrogen Spectrum](Jee/Chemistry/Hydrogen%20Spectrum.md) 
+--- 

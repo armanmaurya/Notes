@@ -15,6 +15,8 @@
       }
     }
   },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "smart-chats",
   "is_obsidian_vault": true,
   "smart_notices": {
     "muted": {
@@ -23,5 +25,6 @@
       "done embedding": true,
       "unsupported file type": true
     }
-  }
+  },
+  "legacy_transformers": true
 }

@@ -1,4 +1,4 @@
-The tendency to give $e^-$ pair to an electron deficient carbon atom by forming covalent bond is defined as nucleophilicity. 
+The tendency to give $e^-$ pair to an electron deficient carbon atom by forming [Covalent Bond](Covalent%20Bond.md) is defined as nucleophilicity. 
 $$
 Nu^- + CH_{3}-X\to Nu-CH_{3} + X^-
 $$
