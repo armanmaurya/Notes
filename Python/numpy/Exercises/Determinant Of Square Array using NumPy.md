@@ -1,4 +1,8 @@
-# Compute the determinant of a given square array
+---
+tags:
+  - numpy
+  - python
+---
 Write a NumPy program to compute the determinant is a value that can be computed from the elements of square matrix. The determinant of a matrix "A" is denoted det(A), det A, or $|A|$. Geometrically, it can be viewed as the scaling factor of the linear transformation.
 **Solution:-**
 ```python

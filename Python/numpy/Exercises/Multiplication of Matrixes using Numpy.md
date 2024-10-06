@@ -1,4 +1,8 @@
-# Compute the multiplication of two given matrixes
+---
+tags:
+  - numpy
+  - python
+---
 Write a NumPy program to compute the multiplication of two given matrixes.
 
 **Sample Matrix:**

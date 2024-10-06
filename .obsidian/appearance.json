@@ -10,7 +10,8 @@
     "defaultimagesize",
     "image",
     "Minimal Cards",
-    "style"
+    "style",
+    "Invert Img"
   ],
   "textFontFamily": "DejaVu Serif",
   "interfaceFontFamily": "DejaVu Serif",

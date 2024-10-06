@@ -1,5 +1,4 @@
-# Kronecker Product
-The **Kronecker product** (also known as the tensor product) is an operation on two matrices of any size resulting in a block matrix. If you have two matrices $( A )$ and $( B )$, the Kronecker product, denoted as $\left( A \otimes B \right)$, creates a larger matrix by multiplying each element of $( A )$ by the entire matrix $( B )$.
+The **Kronecker product** (also known as the tensor product is an operation on two matrices of any size resulting in a block matrix. If you have two matrices $( A )$ and $( B )$, the Kronecker product, denoted as $\left( A \otimes B \right)$, creates a larger matrix by multiplying each element of $( A )$ by the entire matrix $( B )$.
 
 ### Definition:
 Let $( A )$ be an $( m \times n )$ matrix, and $( B )$ be a $( p \times q )$ matrix. The Kronecker product $( A \otimes B )$ results in an $( (m \cdot p) \times (n \cdot q) )$ matrix, given as:

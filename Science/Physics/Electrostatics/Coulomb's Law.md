@@ -17,4 +17,4 @@ $\Large\epsilon$ = permittivity of free space
 
 ---
 Related Links:-
-- [Charge](Charge.md) 
+- [Electric Charge](Electric%20Charge.md) 

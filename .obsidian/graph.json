@@ -29,10 +29,17 @@
       }
     },
     {
-      "query": "tag:#LinkedList  ",
+      "query": "tag:#DSA  ",
       "color": {
         "a": 1,
         "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#numpy  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 12.3000926211794,
   "linkStrength": 1,
   "linkDistance": 115,
-  "scale": 1.2614044560591238,
+  "scale": 0.14623434258663512,
   "close": true
 }

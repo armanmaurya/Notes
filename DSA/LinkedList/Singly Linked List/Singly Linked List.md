@@ -10,7 +10,7 @@ A ***singly linked list*** is a fundamental data structure in computer science
 ## Understanding Node Structure
 In a singly linked list, each node consists of two parts: data and a pointer to the next node. The data part stores the actual information, while the pointer (or reference) part stores the address of the next node in the sequence. This structure allows nodes to be dynamically linked together, forming a chain-like sequence.
 
-![[images/Singly-Linked-List.webp| center]]
+![Singly-Linked-List|center](images/Singly-Linked-List.webp)
 In this representation, each box represents a node, with an arrow indicating the link to the next node. The last node points to NULL, indicating the end of the list.
 
 ````tabs

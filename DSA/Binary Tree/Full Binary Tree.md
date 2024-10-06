@@ -1,3 +1,7 @@
+---
+tags:
+  - "#DSA"
+---
 A full binary tree is a [Binary Tree](Binary%20Tree.md) with either zero or two child nodes for each node and does not have any nodes that have only one child node.
 ![Full-binary-tree|center](images/Full-binary-tree.png)
 ## Theorem:

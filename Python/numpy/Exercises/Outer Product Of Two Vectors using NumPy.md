@@ -1,4 +1,8 @@
-# Compute the outer product of two given vectors
+---
+tags:
+  - numpy
+  - python
+---
 Write a NumPy program to compute the outer product of two given vectors.
 **NumPy: Outer product of two vectors**
 

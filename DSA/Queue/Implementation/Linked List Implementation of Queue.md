@@ -1,7 +1,7 @@
-In this article, the Linked List implementation of the [Queue Data Structure](../Queue%20Data%20Structure.md) is discussed and implemented. Print '-1' if the queue is empty.
+In this article, the [LinkedList](../../LinkedList/LinkedList.md) implementation of the [Queue Data Structure](../Queue%20Data%20Structure.md) is discussed and implemented. Print '-1' if the queue is empty.
 **Approach:** To solve the problem follow the below idea:
 
-> [!note] Title
+> [!note] Note
 > We maintain two pointers, **front** and **rear**. The front points to the first item of the queue and rear points to the last item.
 >- **enQueue():** This operation adds a new node after the rear and moves the rear to the next node.
 >- **deQueue():** This operations removes the front node and moves the front to the next node.

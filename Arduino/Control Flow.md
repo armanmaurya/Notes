@@ -1,0 +1,1 @@
+Webcam-> python evaluate-> send signal to arduino

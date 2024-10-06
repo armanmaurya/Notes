@@ -1,7 +1,7 @@
 Colpitts Oscillator is the exact opposite of the Hartley Oscillator. Just like the Hartley Oscillator, the tuned tank circuit consists of an LC resonance sub-circuits connected between the collector and the base of a single stage transistor amplified producing a sinusoidal output waveform. 
 
 The basic configuration of **Colpitts Oscillator** resembles that of the Hartley Oscillator but the difference this time is that the centre tapping of the tank sub-circuit is now make at the junction of a "Capacitive voltage divider" network instead of a tapped autotransformer type inductor as in Hartley oscillator.
-![center](images/oscillator-osc42.gif)
+
 
 The Colpitts oscillator uses a capacitive voltage divider network as its feedback source. The two capacitors, $C_{2}$ and $C_{2}$ are placed across a single common inductor, L as shown. Then $C_{1}$, $C_{2}$ and L form the tuned tank circuit with the condition for oscillations being: $X_{C1}$ + $X_{C2}$ = $X_{L}$, the same as for the Hartley oscillator circuit.
 
@@ -12,7 +12,6 @@ As with the Hartley oscillator, the Colpitts oscillator uses a single stage bipo
  **Basic Cricut:-**
 
 ---
-![center](images/oscillator-osc13.gif)
 The emitter terminal of the transistor is effectively connected to the junction of the two capacitors, C1 and C2 which are connected in series and act as a simple voltage divider. When the power supply is firstly applied, capacitors C1 and C2 charge up and then discharge through the coil L. The oscillations across the capacitors are applied to the base-emitter junction and appear in the amplified at the collector output.
 
 Resistors, R1 and R2 provide the usual stabilizing DC bias for the transistor in the normal manner while the additional capacitors act as a DC-blocking bypass capacitors. A radio-frequency choke (RFC) is used in the collector circuit to provide a high reactance (ideally open circuit) at the frequency of oscillation, ( ƒr ) and a low resistance at DC to help start the oscillations.
@@ -66,4 +65,4 @@ The centre tapping of the tank sub-circuit is made at the junction of a “capac
 In the next tutorial about Oscillators, we will look at RC Oscillators which uses resistors and capacitors as its tank circuit to produce a sinusoidal waveform.
 
 ---
-- [LC Oscillator](../../../Jee/LC%20Oscillator.md) 
+- [LC Oscillator](../../../Science/LC%20Oscillator.md)

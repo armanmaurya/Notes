@@ -5,6 +5,6 @@ For now let's see the detector as a system consisting of three components since 
 - Since it is a model an approximation it would not be as good as we at this task of detecting objects so most likely we will need a third component, where the results of the model will be post processed so as to refine the predictions it made we will talk about the post processing a bit more later so lets-'s focus on the model now.
 ![[image/Detector-illustrated.png]]
 ![[image/Model_illustrated.png]]
-In past various statistical techniques and alogrithms were designed to build object detection models but yes given the current state of art this model is going to be a neural network therefore to make it appear like a neural network i first tranform this square into a trapezoid, the reason we represent this block or this model or this neural network using a trapezoid is because it shows that it is converting a high dimensional input into a low dimensional output
+In past various statistical techniques and alogrithms were designed to build object detection models but yes given the current state of art this model is going to be a [Neural Network](../../Neural%20Network.md) therefore to make it appear like a neural network i first tranform this square into a trapezoid, the reason we represent this block or this model or this neural network using a trapezoid is because it shows that it is converting a high dimensional input into a low dimensional output
 ![[image/neural-network.png]]
 This network ****

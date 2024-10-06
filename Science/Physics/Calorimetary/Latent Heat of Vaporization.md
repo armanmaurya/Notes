@@ -1,2 +1,2 @@
-[Latent Heat](Jee/Physics/Calorimetary/Latent%20Heat.md) of vaporization is the quantity of heat required to change its 1 kg mass from liquid to vapour state at its boiling point. 
-[Latent Heat](Jee/Physics/Calorimetary/Latent%20Heat.md) of vaporization for water : 536 kcal/kg = 536 cal/g
+[Latent Heat](Latent%20Heat.md) of vaporization is the quantity of heat required to change its 1 kg mass from liquid to vapour state at its boiling point. 
+[Latent Heat](Latent%20Heat.md)of vaporization for water : 536 kcal/kg = 536 cal/g

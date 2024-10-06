@@ -1,20 +1,19 @@
-# Current
-- Rate of flow of [electric charges](Jee/Physics/Electrostatics/Charge.md) 
+- Rate of flow of [Electric Charge](../Electrostatics/Electric%20Charge.md)
 - It is a scalar quantity.
 - Unit is Ampere
 ## Average Electric Current
-Value of average [Current](Current.md) is Total [Charge](Jee/Physics/Electrostatics/Charge.md) charge flown divided by Total time.
+Value of average [Electric Current](Electric%20Current.md) is Total [Electric Charge](../Electrostatics/Electric%20Charge.md) charge flown divided by Total time.
 $$
 \text{Average Electric Current} = \frac{\Delta Q}{\Delta T}
 $$
 ## Instantaneous Electric Current
-Instantaneous [Current](Current.md) can be obtained by 
+Instantaneous [Electric Current](Electric%20Current.md) can be obtained by 
 $$
 dI= \frac{dq}{dt}
 $$
 ---
 #### Current Due to [Drift Velocity](Jee/Physics/Current/Drift%20Velocity.md):-
-Current is developed due to [Drift Velocity](Jee/Physics/Current/Drift%20Velocity.md), and value of current is :
+Current is developed due to [Drift Velocity](Drift%20Velocity.md), and value of current is :
 $$
 I = neAV_{d}
 $$

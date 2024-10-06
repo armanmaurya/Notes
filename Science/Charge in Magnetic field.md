@@ -1,5 +1,5 @@
 # Force:-
-The force experienced by a charged particle moving in a [Magnetic Field](../Jee/Physics/Magnetic%20Field.md) can be determined using the [Lorentz Force](Jee/Chemistry/Electrochemistry/Lorentz%20Force.md) equation. The formula is given by:
+The force experienced by a charged particle moving in a [Magnetic Field](Physics/Magnetic%20Field.md) can be determined using the [Lorentz Force](Chemistry/Electrochemistry/Lorentz%20Force.md) equation. The formula is given by:
 $$
 \vec{F} = q(\vec{v} \times \vec{B})
 $$
@@ -22,7 +22,7 @@ When charge is moving in with velocity $v$ then two cases are formed :
 2. Velocity is Perpendicular to Magnetic Field
 
 #### 1. Velocity is Parallel to Magnetic Field:-
-If velocity of [Charge](../Jee/Physics/Electrostatics/Charge.md) particle is parallel (along or opposite) to the [Magnetic Field](../Jee/Physics/Magnetic%20Field.md) then as you can observe above formula of force value of $\sin \theta$ is zero, So value of force exerts on the charged particle is zero.
+If velocity of [Electric Charge](Physics/Electrostatics/Electric%20Charge.md) particle is parallel (along or opposite) to the [Magnetic Field](Physics/Magnetic%20Field.md) then as you can observe above formula of force value of $\sin \theta$ is zero, So value of force exerts on the charged particle is zero.
 $$
 F= 0
 $$
