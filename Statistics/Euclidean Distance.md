@@ -4,18 +4,14 @@ Euclidean distance is like **measuring the straightest and shortest path betwee
 ## Formula
 ##### In 2D
 Consider two points (x1, y1) and (x2, y2) in a 2-dimensional space; the Euclidean Distance between them is given by using the formula:
-$$
-d = \sqrt{ [(x_{2}-x_{1})^2+ (y_{2}- y_{1})^2] }
-$$
+$$d = \sqrt{ [(x_{2}-x_{1})^2+ (y_{2}- y_{1})^2] }$$
 **Where:**
 - $d$ is Euclidean Distance
 - $(x_{1},y_{1})$ is Coordinate of the first point
 - $(x_{2},y_{2})$ is Coordinate of the second point 
 ##### In 3D
 If the two points (x1, y1, z1) and (x2, y2, z2) are in a 3-dimensional space, the Euclidean Distance between them is given by using the formula:
-$$
-d = \sqrt{ [(x_{2}-x_{1})^2 +(y_{2}- y_{1})^2+(z_{2}-z_{1})^2] }
-$$
+$$d = \sqrt{ [(x_{2}-x_{1})^2 +(y_{2}- y_{1})^2+(z_{2}-z_{1})^2] }$$
 **Where:**
 - $d$ is Euclidean Distance
 - $(x_{1},y_{1},z_{1})$ is Coordinate of the first point
