@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.01306533813477,
-    "collapsed": true
+    "width": 232.01306533813477
   },
   "right": {
     "id": "13142d84d2d3b245",
@@ -197,8 +196,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -278,8 +277,7 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "vault-size-history:Vault size history": false,
-      "obsidian-gallery:Gallery": false,
-      "vscode-editor:Create Code File": false
+      "obsidian-gallery:Gallery": false
     }
   },
   "active": "086ed6036ce0772d",
