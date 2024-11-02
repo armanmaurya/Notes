@@ -1,6 +1,8 @@
 ---
 aliases:
   - Unit Matrix
+tags:
+  - Maths
 ---
 A [Scalar Matrix](Scalar%20Matrix.md) in which each diagonal element is unity ($i.e., \ 1$) is called a **unit matrix or identity matrix**.
 Thus, a unit matrix is a square matrix in which all non-diagonal elements are zero and all diagonal elements are equal to $1$.

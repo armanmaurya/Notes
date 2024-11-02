@@ -1,4 +1,4 @@
-### 1. Integrand is a Function of Another Function 
+### Integrand is a Function of Another Function 
 If the integral is of the form,
 $$
 \int f[\phi(x)]\phi(x) \, dx
@@ -15,10 +15,10 @@ In this method the function is broken into two factors so that one factor can be
 In case of objective question in which direct indefinite integration is asked, function being very complicated to integrate, then try differentiating the options.
 
 ---
-### 2. Integrand is the Product of Function and its Derivative
+### Integrand is the Product of Function and its Derivative
 If the integral is of the form $I = \int f(x)f(x) \, dx$, we put $f(x) = t$ and convert it into a standard integral.
 
-### 3. Integrand is a Function of the Form f (ax+b)
+### Integrand is a Function of the Form f (ax+b)
 Here we put ax+b = t and convert it into a standard integral. Now if, 
 $$
 \int f(x) \, dx = \phi (x) 
@@ -27,7 +27,7 @@ Then,
 $$
 \int f(ax+b) \, dx = \frac{1}{a}\phi(ax+b) 
 $$
-### 4. Integral of the Form
+### Integral of the Form
 $$
 \int\cfrac{dx}{a\sin x + b\cos x}
 $$

@@ -1,4 +1,8 @@
-Let A be any $m\times n$ matrix. It has square sub-matrices of different orders. The determinants of these square sub-matrices are called minors of A.
+---
+tags:
+  - Maths
+---
+Let A be any $m\times n$ [Matrix](Matrices.md). It has square sub-matrices of different orders. The determinants of these square sub-matrices are called minors of A.
 
 A matrix **A** is said to be of rank $r$ if 
 1. It has at least one non-zero minor of order $r$.

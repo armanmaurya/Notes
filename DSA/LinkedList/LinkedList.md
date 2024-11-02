@@ -23,7 +23,9 @@ Here’s the comparison of Linked List vs Arrays
 - ***Insertion/Deletion:*** Inefficient
 - ***Access:*** Random
 ## Types of Linked List
-1. [[Singly Linked List/Singly Linked List|Singly Linked List]]
+1. [Singly Linked List](Singly%20Linked%20List/Singly%20Linked%20List.md)
+2. [Doubly Linked List](Doubly%20Linked%20List/Doubly%20Linked%20List.md)
+3. [Circular Linked List](Circular%20Linked%20List/Circular%20Linked%20List.md)
 
 
 

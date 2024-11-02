@@ -1,0 +1,2050 @@
+{
+  "nodePositions": [
+    {
+      "id": "Arduino/Arduino.md",
+      "x": -1891.120361328125,
+      "y": 1893.99072265625
+    },
+    {
+      "id": "Arduino/Control Flow.md",
+      "x": -1462.8446044921875,
+      "y": 1651.8876953125
+    },
+    {
+      "id": "Arduino/Joystick.md",
+      "x": -1271.96728515625,
+      "y": 1439.992919921875
+    },
+    {
+      "id": "Arduino/Pulse Width Modulation.md",
+      "x": -1744.2333984375,
+      "y": 1924.30908203125
+    },
+    {
+      "id": "Arora Project.md",
+      "x": -3106.810791015625,
+      "y": -568.6304321289062
+    },
+    {
+      "id": "Components/Components.md",
+      "x": -2066.37060546875,
+      "y": 2488.434814453125
+    },
+    {
+      "id": "Components/HC-05.md",
+      "x": -1865.27880859375,
+      "y": 1744.278564453125
+    },
+    {
+      "id": "Components/HC-SR04.md",
+      "x": -1918.51171875,
+      "y": 2044.5645751953125
+    },
+    {
+      "id": "Components/L298N.md",
+      "x": -2041.13427734375,
+      "y": 1881.0279541015625
+    },
+    {
+      "id": "Cryptography/Applications of matrix in cryptography.md",
+      "x": -621.8673095703125,
+      "y": 144.6278839111328
+    },
+    {
+      "id": "Cryptography/Cryptography.md",
+      "x": -970.0892944335938,
+      "y": 1899.091064453125
+    },
+    {
+      "id": "DSA/Binary Tree/Binary Tree.md",
+      "x": -1962.3927001953125,
+      "y": 297.1914978027344
+    },
+    {
+      "id": "DSA/Binary Tree/Degenerate Binary Tree.md",
+      "x": -1822.5244140625,
+      "y": 258.4098205566406
+    },
+    {
+      "id": "DSA/Binary Tree/Full Binary Tree.md",
+      "x": -2066.563232421875,
+      "y": 195.4286346435547
+    },
+    {
+      "id": "DSA/LinkedList/Circular Linked List/Circular Linked List.md",
+      "x": -466.39202880859375,
+      "y": 2922.56298828125
+    },
+    {
+      "id": "DSA/LinkedList/Doubly Linked List/Doubly Linked List.md",
+      "x": -602.61669921875,
+      "y": 2971.2109375
+    },
+    {
+      "id": "DSA/LinkedList/LinkedList.md",
+      "x": -579.0511474609375,
+      "y": 3124.00732421875
+    },
+    {
+      "id": "DSA/LinkedList/Problems/Find Middle of the Singly Linked List.md",
+      "x": -204.08303833007812,
+      "y": 3144.85595703125
+    },
+    {
+      "id": "DSA/LinkedList/Problems/Reverse a Singly Linked List.md",
+      "x": -203.54623413085938,
+      "y": 2995.422607421875
+    },
+    {
+      "id": "DSA/LinkedList/Problems/Rotate a Linked List.md",
+      "x": -470.3623046875,
+      "y": 2762.9453125
+    },
+    {
+      "id": "DSA/LinkedList/Problems/Untitled.md",
+      "x": -2036.4449462890625,
+      "y": 1392.5830078125
+    },
+    {
+      "id": "DSA/LinkedList/Singly Linked List/Singly Linked List.md",
+      "x": -379.1820068359375,
+      "y": 3086.3037109375
+    },
+    {
+      "id": "DSA/Queue/Implementation/Linked List Implementation of Queue.md",
+      "x": -819.0370483398438,
+      "y": 3069.386474609375
+    },
+    {
+      "id": "DSA/Queue/Queue Data Structure.md",
+      "x": -971.2047119140625,
+      "y": 2990.5146484375
+    },
+    {
+      "id": "DSA/Recursion/Recursion.md",
+      "x": 940.9224243164062,
+      "y": 219.51275634765625
+    },
+    {
+      "id": "DSA/Recursion/Tail Recursion.md",
+      "x": 1084.562255859375,
+      "y": 177.79722595214844
+    },
+    {
+      "id": "Engeneering/Aerospace/Propellers/Aerofoils.md",
+      "x": -2276.564208984375,
+      "y": -239.26788330078125
+    },
+    {
+      "id": "Engeneering/Aerospace/Propellers/Blade Angle.md",
+      "x": -2041.6019287109375,
+      "y": -266.2923889160156
+    },
+    {
+      "id": "Engeneering/Aerospace/Propellers/Drag.md",
+      "x": -980.1126708984375,
+      "y": 2621.362060546875
+    },
+    {
+      "id": "Engeneering/Aerospace/Propellers/Inviscid Flow.md",
+      "x": -1863.6219482421875,
+      "y": -1067.618408203125
+    },
+    {
+      "id": "Engeneering/Aerospace/Propellers/Propellers.md",
+      "x": -2160.314208984375,
+      "y": -358.05133056640625
+    },
+    {
+      "id": "Engeneering/Aerospace/Propellers/Sandmeyer Reaction.md",
+      "x": -796.93896484375,
+      "y": 2425.825927734375
+    },
+    {
+      "id": "Engeneering/Aerospace/Propellers/Streamlines.md",
+      "x": -2391.457763671875,
+      "y": -145.53302001953125
+    },
+    {
+      "id": "Engeneering/Aerospace/Propellers/Viscosity.md",
+      "x": -1733.0723876953125,
+      "y": -1157.5919189453125
+    },
+    {
+      "id": "Engeneering/Communication/Networking Protocols/Binary-based Protocol.md",
+      "x": -1675.4984130859375,
+      "y": 634.9989013671875
+    },
+    {
+      "id": "Engeneering/Communication/Networking Protocols/Communication Systems.md",
+      "x": -1530.7958984375,
+      "y": 640.1085205078125
+    },
+    {
+      "id": "Engeneering/Communication/Networking Protocols/Text-based Protocols.md",
+      "x": -1474.092529296875,
+      "y": 504.4466857910156
+    },
+    {
+      "id": "Engeneering/Communication/Networking Protocols/Universal Plug and Play.md",
+      "x": 1722.5037841796875,
+      "y": 424.1469421386719
+    },
+    {
+      "id": "Engeneering/Computer Science/Deep Learning/Attention Mechanism.md",
+      "x": -2332.9658203125,
+      "y": 1430.2998046875
+    },
+    {
+      "id": "Engeneering/Computer Science/Deep Learning/Image Classification Model.md",
+      "x": -439.7471618652344,
+      "y": -1234.193359375
+    },
+    {
+      "id": "Engeneering/Computer Science/Deep Learning/Softmax Layer.md",
+      "x": -322.744384765625,
+      "y": -860.3701782226562
+    },
+    {
+      "id": "Engeneering/Computer Science/Deep Learning/Transformers.md",
+      "x": -2475.019775390625,
+      "y": 1433.5032958984375
+    },
+    {
+      "id": "Engeneering/Computer Science/ML.md",
+      "x": 2042.1064453125,
+      "y": -1423.79833984375
+    },
+    {
+      "id": "Engeneering/Electricals/Motors/Direct Current Generators.md",
+      "x": 2657.98388671875,
+      "y": -1872.8819580078125
+    },
+    {
+      "id": "Engeneering/Electricals/Motors/Direct Current Motors.md",
+      "x": -704.1984252929688,
+      "y": 2120.537353515625
+    },
+    {
+      "id": "Engeneering/Electricals/Motors/Universal Motor.md",
+      "x": 457.57568359375,
+      "y": -1057.927734375
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Analog/Transistor Biasing.md",
+      "x": 2230.826416015625,
+      "y": 1014.2352905273438
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Bipolar Junction Transister.md",
+      "x": 3237.83642578125,
+      "y": 175.7724609375
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Common Base Configuration of BJT.md",
+      "x": 3162.279052734375,
+      "y": 54.3260383605957
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Engineering Mathematics/Leibnitz's Theorem.md",
+      "x": -1296.2630615234375,
+      "y": 1183.538330078125
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Engineering Mathematics/Successive Differentiation.md",
+      "x": 1449.83154296875,
+      "y": 1725.3338623046875
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Fourier Series/Fourier Series.md",
+      "x": -2656.99365234375,
+      "y": -988.8472290039062
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Fourier Series/Periodic function.md",
+      "x": -2735.072509765625,
+      "y": -866.875732421875
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Microcontroller/Full Duplex.md",
+      "x": 561.859375,
+      "y": 302.080810546875
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Microcontroller/Half Duplex.md",
+      "x": 455.9088134765625,
+      "y": 508.5802001953125
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Microcontroller/Serial Communication.md",
+      "x": 428.4922790527344,
+      "y": 364.12493896484375
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Microcontroller/Simplex.md",
+      "x": 282.2857666015625,
+      "y": 348.59375
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Oscillators/Colpitts Oscillator.md",
+      "x": 705.9987182617188,
+      "y": -1285.34375
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/RF/Basic Concepts In RF Design.md",
+      "x": -2333.18212890625,
+      "y": -1193.9180908203125
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Robotics/Inverse Kinematics.md",
+      "x": -449.1168212890625,
+      "y": 130.39285278320312
+    },
+    {
+      "id": "Engeneering/Electronics and Communication/Robotics/Trajectory with Multiple Kinematic Constrainst.md",
+      "x": -287.0883483886719,
+      "y": 212.37831115722656
+    },
+    {
+      "id": "Engeneering/Mechanical/Fluid Dynamics/Compressible Flow/Compressible Flow.md",
+      "x": -1930.0848388671875,
+      "y": -741.5986938476562
+    },
+    {
+      "id": "Engeneering/Mechanical/Fluid Dynamics/Incompressible Flow.md",
+      "x": -2030.2884521484375,
+      "y": -955.10205078125
+    },
+    {
+      "id": "Engeneering/Mechanical/Fluid Dynamics/Mach Number.md",
+      "x": -2076.97802734375,
+      "y": -791.8062133789062
+    },
+    {
+      "id": "Engeneering/Mechanical/Fluid Mechanics/Centrifugal Compressors/Centrifugal Compressors.md",
+      "x": -2143.750244140625,
+      "y": -577.2074584960938
+    },
+    {
+      "id": "Engeneering/Mechanical/Fluid Mechanics/Compressors.md",
+      "x": -2322.1279296875,
+      "y": -619.479248046875
+    },
+    {
+      "id": "Engeneering/Mechanical/Fluid Mechanics/Fluid.md",
+      "x": -1593.3890380859375,
+      "y": -1118.65673828125
+    },
+    {
+      "id": "Engeneering/Mechanical/Fluid Mechanics/Rotating Machines.md",
+      "x": -2470.085693359375,
+      "y": -648.2241821289062
+    },
+    {
+      "id": "Engeneering/Mechanical/Fluid Mechanics/Thermodynamics.md",
+      "x": -1777.537353515625,
+      "y": 2337.52587890625
+    },
+    {
+      "id": "Engeneering/Mechanical/Gear Trains.md",
+      "x": 2717.615234375,
+      "y": -1584.6783447265625
+    },
+    {
+      "id": "Engeneering/Mechanical/Gears.md",
+      "x": 2575.42041015625,
+      "y": -1571.661865234375
+    },
+    {
+      "id": "Engeneering/Mechanical/Gears/Gear Trains.md",
+      "x": -3072.755126953125,
+      "y": -836.9203491210938
+    },
+    {
+      "id": "Engeneering/Mechanical/Manufacturing/CNC Machine.md",
+      "x": 3080.545654296875,
+      "y": 811.1444702148438
+    },
+    {
+      "id": "Engeneering/Mechanical/Manufacturing/Injection Molding.md",
+      "x": 1280.04345703125,
+      "y": 2624.317626953125
+    },
+    {
+      "id": "Engeneering/Mechanical/Manufacturing/USB to TTL.md",
+      "x": 1030.35498046875,
+      "y": 2830.357421875
+    },
+    {
+      "id": "Engeneering/Mechanical/Rocker Bogie.md",
+      "x": 1469.887939453125,
+      "y": 2865.74169921875
+    },
+    {
+      "id": "Engeneering/Mechanical/Spur Gears.md",
+      "x": -3108.44482421875,
+      "y": -972.9296264648438
+    },
+    {
+      "id": "Excalidraw/Drawing 2024-06-17 12.44.23.excalidraw.md",
+      "x": 2689.34912109375,
+      "y": 1605.2845458984375
+    },
+    {
+      "id": "Excalidraw/Drawing 2024-09-15 10.45.45.excalidraw.md",
+      "x": 1420.4830322265625,
+      "y": 196.9113006591797
+    },
+    {
+      "id": "Excalidraw/Drawing 2024-09-15 12.19.23.excalidraw.md",
+      "x": 1734.0947265625,
+      "y": -1320.4962158203125
+    },
+    {
+      "id": "First Year/1st Sem/EVS/MULTIDISCIPLINARY NATURE OF ENVIRONMENTAL STUDIES.md",
+      "x": 3207.261962890625,
+      "y": -244.60171508789062
+    },
+    {
+      "id": "First Year/1st Sem/EVS/Natural Resources.md",
+      "x": 3181.876953125,
+      "y": 551.962158203125
+    },
+    {
+      "id": "Hackathon/Eye Controlled Wheel Chair/Approach.md",
+      "x": -1611.517822265625,
+      "y": 1210.6124267578125
+    },
+    {
+      "id": "Hackathon/Eye Controlled Wheel Chair/Eye Controlled Wheel Chair.md",
+      "x": 1507.5487060546875,
+      "y": -465.5581359863281
+    },
+    {
+      "id": "Hackathon/Eye Controlled Wheel Chair/Untitled 1.md",
+      "x": 2972.33251953125,
+      "y": 279.6695556640625
+    },
+    {
+      "id": "Hackathon/Eye Controlled Wheel Chair/Untitled.md",
+      "x": 1762.3236083984375,
+      "y": 837.9202270507812
+    },
+    {
+      "id": "Install Debian Packages in Arch.md",
+      "x": 1468.2073974609375,
+      "y": 2088.509033203125
+    },
+    {
+      "id": "Javascript/Express js/Express Js Separate Routes.md",
+      "x": 2326.04248046875,
+      "y": -2222.242431640625
+    },
+    {
+      "id": "Javascript/Express js/How To/HTTPS Server on Localhost using Express.md",
+      "x": -1140.8773193359375,
+      "y": 916.4210815429688
+    },
+    {
+      "id": "Jee/Chemistry/Solution/Solution.md",
+      "x": -601.77783203125,
+      "y": -2882.329833984375
+    },
+    {
+      "id": "Linux/Activate Virtual environment.md",
+      "x": -1508.7188720703125,
+      "y": 2859.534912109375
+    },
+    {
+      "id": "Linux/Core Tools.md",
+      "x": -1707.67333984375,
+      "y": -2398.63818359375
+    },
+    {
+      "id": "Linux/Core Tools/nmcli/nmcli.md",
+      "x": -1610.017333984375,
+      "y": -2292.921142578125
+    },
+    {
+      "id": "Linux/Core Tools/systemctl.md",
+      "x": -1835.47314453125,
+      "y": -2326.680908203125
+    },
+    {
+      "id": "Linux/Disable CPU cores Linux.md",
+      "x": -3207.3837890625,
+      "y": -352.3431701660156
+    },
+    {
+      "id": "Machine Learning/Machine Learning.md",
+      "x": 19.593204498291016,
+      "y": -1618.3408203125
+    },
+    {
+      "id": "Machine Learning/Regression in Machine Learning.md",
+      "x": -380.61322021484375,
+      "y": -1954.4940185546875
+    },
+    {
+      "id": "Machine Learning/Regression.md",
+      "x": -387.2847900390625,
+      "y": -2108.606689453125
+    },
+    {
+      "id": "Machine Learning/Supervised Machine Learning.md",
+      "x": -219.36465454101562,
+      "y": -1769.37109375
+    },
+    {
+      "id": "Machine Learning/Support Vector Machine.md",
+      "x": -423.3423767089844,
+      "y": -1777.5635986328125
+    },
+    {
+      "id": "Neural Network/CNN/Average Pooling.md",
+      "x": -946.8857421875,
+      "y": -1198.7308349609375
+    },
+    {
+      "id": "Neural Network/CNN/Contextual Outliers.md",
+      "x": -726.532958984375,
+      "y": -1843.8394775390625
+    },
+    {
+      "id": "Neural Network/CNN/Convolutional Neural Network.md",
+      "x": -448.64007568359375,
+      "y": -1069.6314697265625
+    },
+    {
+      "id": "Neural Network/CNN/Global Pooling.md",
+      "x": -1129.275390625,
+      "y": -1160.5753173828125
+    },
+    {
+      "id": "Neural Network/CNN/Gradient Descent.md",
+      "x": 198.09693908691406,
+      "y": -1985.4324951171875
+    },
+    {
+      "id": "Neural Network/CNN/Image Classification/Image Classification Model.md",
+      "x": -566.9513549804688,
+      "y": -1184.0721435546875
+    },
+    {
+      "id": "Neural Network/CNN/Max Pooling.md",
+      "x": -945.0947265625,
+      "y": -1013.044189453125
+    },
+    {
+      "id": "Neural Network/CNN/Mean Squared Error.md",
+      "x": 385.30853271484375,
+      "y": -1852.6737060546875
+    },
+    {
+      "id": "Neural Network/CNN/Object Detection/Activation Functions.md",
+      "x": -145.02764892578125,
+      "y": -1078.9127197265625
+    },
+    {
+      "id": "Neural Network/CNN/Object Detection/Fully Connected Layer.md",
+      "x": -295.4263610839844,
+      "y": -977.2122192382812
+    },
+    {
+      "id": "Neural Network/CNN/Object Detection/Linear Transformation.md",
+      "x": -187.4193878173828,
+      "y": -712.8516845703125
+    },
+    {
+      "id": "Neural Network/CNN/Object Detection/Object Detection.md",
+      "x": 64.02173614501953,
+      "y": -779.0816040039062
+    },
+    {
+      "id": "Neural Network/CNN/Object Detection/ReLU Activation Function.md",
+      "x": -199.8114471435547,
+      "y": -1190.297607421875
+    },
+    {
+      "id": "Neural Network/CNN/Object Detection/Sigmoid Activation Function.md",
+      "x": -1.9823763370513916,
+      "y": -1043.9078369140625
+    },
+    {
+      "id": "Neural Network/CNN/Object Detection/YOLO Object Detection.md",
+      "x": 1834.8614501953125,
+      "y": -650.2955322265625
+    },
+    {
+      "id": "Neural Network/CNN/Outlier.md",
+      "x": -582.3109130859375,
+      "y": -1885.372314453125
+    },
+    {
+      "id": "Neural Network/CNN/Pooling Layer.md",
+      "x": -765.8359375,
+      "y": -1067.4537353515625
+    },
+    {
+      "id": "Neural Network/CNN/Receptive field.md",
+      "x": 30.69084358215332,
+      "y": -2985.898193359375
+    },
+    {
+      "id": "Neural Network/CNN/Regression Losses.md",
+      "x": 542.3905639648438,
+      "y": -1839.024169921875
+    },
+    {
+      "id": "Neural Network/CNN/Semantic Segmentation.md",
+      "x": -562.3790283203125,
+      "y": -961.1068725585938
+    },
+    {
+      "id": "Neural Network/CNN/Stochastic Gradient Descent.md",
+      "x": 73.03507995605469,
+      "y": -1819.75048828125
+    },
+    {
+      "id": "Neural Network/CNN/Types of Pooling Layers.md",
+      "x": -1065.8260498046875,
+      "y": -1027.035400390625
+    },
+    {
+      "id": "Neural Network/CNN/Untitled.md",
+      "x": 2384.3583984375,
+      "y": 1732.2225341796875
+    },
+    {
+      "id": "Neural Network/Forward Propagation.md",
+      "x": 1470.8319091796875,
+      "y": -1250.2227783203125
+    },
+    {
+      "id": "Neural Network/Neural Network.md",
+      "x": -85.10623931884766,
+      "y": -843.6806030273438
+    },
+    {
+      "id": "Neural Network/Pre-Processing/Absolute Maximum Scaling.md",
+      "x": 3182.355224609375,
+      "y": -547.4498901367188
+    },
+    {
+      "id": "Neural Network/Pre-Processing/Feature Scaling.md",
+      "x": 47.541168212890625,
+      "y": -1477.8349609375
+    },
+    {
+      "id": "Object Detection/PyTorch Linear Transformation.md",
+      "x": -2121.475341796875,
+      "y": -2483.8818359375
+    },
+    {
+      "id": "Python/Django/Create Custom User Model.md",
+      "x": -2723.942626953125,
+      "y": -204.46246337890625
+    },
+    {
+      "id": "Python/Django/Fix CORS Error in Django.md",
+      "x": 752.8840942382812,
+      "y": 749.1881103515625
+    },
+    {
+      "id": "Python/Django/Rest framework/Creating a Login and Registration API.md",
+      "x": 2043.37353515625,
+      "y": -1110.829345703125
+    },
+    {
+      "id": "Python/Django/Rest framework/Installation.md",
+      "x": 1905.0552978515625,
+      "y": -1057.2958984375
+    },
+    {
+      "id": "Python/Django/Setup Project.md",
+      "x": 1962.769775390625,
+      "y": -921.3251953125
+    },
+    {
+      "id": "Python/Django/Untitled 1.md",
+      "x": -2951.509765625,
+      "y": -1241.850830078125
+    },
+    {
+      "id": "Python/Django/Untitled.md",
+      "x": -1557.5787353515625,
+      "y": -2746.31298828125
+    },
+    {
+      "id": "Python/PyQt6/Getting Started.md",
+      "x": -908.3574829101562,
+      "y": -2410.218017578125
+    },
+    {
+      "id": "Python/PyTorch/Image to Tensor.md",
+      "x": -1162.8642578125,
+      "y": 1712.997802734375
+    },
+    {
+      "id": "Python/PyTorch/Visualize Conv2D Layer/Visualize Conv2D Layer.md",
+      "x": -1608.9161376953125,
+      "y": 2532.981201171875
+    },
+    {
+      "id": "Python/matplotlib/Plot Image.md",
+      "x": 2892.289306640625,
+      "y": 1440.166015625
+    },
+    {
+      "id": "Python/numpy/Exercises/Determinant Of Square Array using NumPy.md",
+      "x": -683.0952758789062,
+      "y": -168.39170837402344
+    },
+    {
+      "id": "Python/numpy/Exercises/Multiplication of Matrixes using Numpy.md",
+      "x": -544.9464721679688,
+      "y": 15.556707382202148
+    },
+    {
+      "id": "Python/numpy/Exercises/Outer Product Of Two Vectors using NumPy.md",
+      "x": -820.9854125976562,
+      "y": -103.1922836303711
+    },
+    {
+      "id": "Science/Analysis/Physics.md",
+      "x": -382.8197326660156,
+      "y": -2431.162841796875
+    },
+    {
+      "id": "Science/Capacitors.md",
+      "x": 903.0200805664062,
+      "y": -1051.4874267578125
+    },
+    {
+      "id": "Science/Charge in Magnetic field.md",
+      "x": 383.1763916015625,
+      "y": 2488.55712890625
+    },
+    {
+      "id": "Science/Chemistry/Atomic Spectrum.md",
+      "x": -2431.5205078125,
+      "y": -1916.07470703125
+    },
+    {
+      "id": "Science/Chemistry/Atomic Structure/Energy of Electron.md",
+      "x": 839.5330810546875,
+      "y": -3110.201171875
+    },
+    {
+      "id": "Science/Chemistry/Biomolecules/Carbohydrates.md",
+      "x": -1817.6090087890625,
+      "y": 2695.460205078125
+    },
+    {
+      "id": "Science/Chemistry/Bohr Model.md",
+      "x": -2568.350830078125,
+      "y": -1872.9935302734375
+    },
+    {
+      "id": "Science/Chemistry/Chemical Equilibrium/Equilibrium.md",
+      "x": -1307.1973876953125,
+      "y": 2575.565185546875
+    },
+    {
+      "id": "Science/Chemistry/Chemical Equilibrium/Irreversible reactions.md",
+      "x": 2040.4774169921875,
+      "y": -2358.378662109375
+    },
+    {
+      "id": "Science/Chemistry/Chemical Equilibrium/Physical Equilibrium.md",
+      "x": 2279.228271484375,
+      "y": 1351.4638671875
+    },
+    {
+      "id": "Science/Chemistry/Chemical Equilibrium/Reversible reaction.md",
+      "x": 2032.60302734375,
+      "y": -2520.8544921875
+    },
+    {
+      "id": "Science/Chemistry/Chemical Equilibrium/Solid-Liquid Equilibrium.md",
+      "x": 2394.250244140625,
+      "y": 1430.0343017578125
+    },
+    {
+      "id": "Science/Chemistry/Chemical Equilibrium/Types of Chemical Reaction.md",
+      "x": 1901.78955078125,
+      "y": -2433.29150390625
+    },
+    {
+      "id": "Science/Chemistry/Chemical Kinetics.md",
+      "x": 671.6102905273438,
+      "y": 1276.669921875
+    },
+    {
+      "id": "Science/Chemistry/Coordination Compounds/Co-ordination Compound.md",
+      "x": 503.6922302246094,
+      "y": 3178.2138671875
+    },
+    {
+      "id": "Science/Chemistry/Coordination Compounds/Crystal field theory.md",
+      "x": 582.992431640625,
+      "y": 3057.05859375
+    },
+    {
+      "id": "Science/Chemistry/Coordination Compounds/Isomerism in Complex Compound.md",
+      "x": 335.93353271484375,
+      "y": 3168.197509765625
+    },
+    {
+      "id": "Science/Chemistry/Coordination Compounds/Question/Linkage Isomerism Ques.md",
+      "x": 200.63540649414062,
+      "y": 3118.44287109375
+    },
+    {
+      "id": "Science/Chemistry/Coordination Compounds/Untitled.md",
+      "x": -1715.1065673828125,
+      "y": 1445.022216796875
+    },
+    {
+      "id": "Science/Chemistry/Electrochemistry/Anode.md",
+      "x": 42.65681838989258,
+      "y": -3248.8349609375
+    },
+    {
+      "id": "Science/Chemistry/Electrochemistry/Cathode.md",
+      "x": 2245.2900390625,
+      "y": -1792.477294921875
+    },
+    {
+      "id": "Science/Chemistry/Electrochemistry/Electrode.md",
+      "x": 585.8478393554688,
+      "y": 1970.271240234375
+    },
+    {
+      "id": "Science/Chemistry/Electrochemistry/Electrolysis of water.md",
+      "x": 2653.64306640625,
+      "y": -386.88372802734375
+    },
+    {
+      "id": "Science/Chemistry/Electrochemistry/Electrolysis.md",
+      "x": -512.0377197265625,
+      "y": 2279.55322265625
+    },
+    {
+      "id": "Science/Chemistry/Electrochemistry/Lorentz Force.md",
+      "x": 298.5400390625,
+      "y": 2624.466796875
+    },
+    {
+      "id": "Science/Chemistry/Electrochemistry/Non-Spontaneous Reaction.md",
+      "x": -1408.1378173828125,
+      "y": -1474.735595703125
+    },
+    {
+      "id": "Science/Chemistry/Electrochemistry/Oxidation Potential.md",
+      "x": 217.5227813720703,
+      "y": 1617.324462890625
+    },
+    {
+      "id": "Science/Chemistry/Electrochemistry/Oxidation.md",
+      "x": 315.0472106933594,
+      "y": 1505.6639404296875
+    },
+    {
+      "id": "Science/Chemistry/Electrochemistry/Reduction Potential.md",
+      "x": 263.32672119140625,
+      "y": 1302.8310546875
+    },
+    {
+      "id": "Science/Chemistry/Electrochemistry/Reduction.md",
+      "x": 173.07505798339844,
+      "y": 1417.9578857421875
+    },
+    {
+      "id": "Science/Chemistry/Electrochemistry/Spontaneous Reaction.md",
+      "x": -1539.9404296875,
+      "y": -1524.69775390625
+    },
+    {
+      "id": "Science/Chemistry/GOC/Bond Cleavage.md",
+      "x": 1075.3116455078125,
+      "y": 1109.261962890625
+    },
+    {
+      "id": "Science/Chemistry/GOC/Electronic Displacement Effect.md",
+      "x": 1383.347900390625,
+      "y": 754.082763671875
+    },
+    {
+      "id": "Science/Chemistry/GOC/GOC.md",
+      "x": 1195.2001953125,
+      "y": 860.7548217773438
+    },
+    {
+      "id": "Science/Chemistry/GOC/Heterolytic Cleavage.md",
+      "x": 941.9854125976562,
+      "y": 1210.23583984375
+    },
+    {
+      "id": "Science/Chemistry/GOC/Homolytic Cleavage.md",
+      "x": 1078.10009765625,
+      "y": 1289.9010009765625
+    },
+    {
+      "id": "Science/Chemistry/GOC/Hyper Conjugation Effect.md",
+      "x": 1312.169189453125,
+      "y": 622.4509887695312
+    },
+    {
+      "id": "Science/Chemistry/GOC/Inductive Effect.md",
+      "x": 1189.00732421875,
+      "y": 695.7665405273438
+    },
+    {
+      "id": "Science/Chemistry/GOC/Resonance or Mesomeric Effect.md",
+      "x": 1371.558349609375,
+      "y": 911.3265991210938
+    },
+    {
+      "id": "Science/Chemistry/Hydrogen Spectrum.md",
+      "x": -2672.216064453125,
+      "y": -1743.096435546875
+    },
+    {
+      "id": "Science/Chemistry/Ionic Equilibrium/Acids.md",
+      "x": 1750.867919921875,
+      "y": 1857.9078369140625
+    },
+    {
+      "id": "Science/Chemistry/Ionic Equilibrium/Electrolytes.md",
+      "x": 866.2633666992188,
+      "y": -232.02561950683594
+    },
+    {
+      "id": "Science/Chemistry/Ionic Equilibrium/Ionic Equilibrium.md",
+      "x": 717.306640625,
+      "y": -518.54541015625
+    },
+    {
+      "id": "Science/Chemistry/Ionic Equilibrium/Non-Electrolytes.md",
+      "x": 908.0639038085938,
+      "y": -87.92771911621094
+    },
+    {
+      "id": "Science/Chemistry/Ionic Equilibrium/Strong Electrolytes.md",
+      "x": 956.6406860351562,
+      "y": -365.65667724609375
+    },
+    {
+      "id": "Science/Chemistry/Ionic Equilibrium/Weak Electrolytes.md",
+      "x": 745.3884887695312,
+      "y": -365.6643371582031
+    },
+    {
+      "id": "Science/Chemistry/Matter Wave.md",
+      "x": -2754.53515625,
+      "y": -1592.8994140625
+    },
+    {
+      "id": "Science/Chemistry/Mole Concept/Mole.md",
+      "x": -2740.47412109375,
+      "y": 440.0141906738281
+    },
+    {
+      "id": "Science/Chemistry/Mole Concept/No. of Moles for Gases.md",
+      "x": -1481.385009765625,
+      "y": 946.1171264648438
+    },
+    {
+      "id": "Science/Chemistry/P Block/P Block.md",
+      "x": -998.8837890625,
+      "y": 2185.245849609375
+    },
+    {
+      "id": "Science/Chemistry/Periodic Table/Atomic Radius.md",
+      "x": 2601.9296875,
+      "y": 1121.98828125
+    },
+    {
+      "id": "Science/Chemistry/Periodic Table/actinide contraction.md",
+      "x": 2706.906005859375,
+      "y": 998.6483154296875
+    },
+    {
+      "id": "Science/Chemistry/Periodic Table/lanthanide constraction..md",
+      "x": 2759.2216796875,
+      "y": 1145.1507568359375
+    },
+    {
+      "id": "Science/Chemistry/Quantum Number/Angular momentum of electron.md",
+      "x": 916.408935546875,
+      "y": -2961.776611328125
+    },
+    {
+      "id": "Science/Chemistry/Quantum Number/Aufbau Rule.md",
+      "x": -1894.3818359375,
+      "y": 896.6737060546875
+    },
+    {
+      "id": "Science/Chemistry/Quantum Number/Energy of Subshell.md",
+      "x": -2637.312255859375,
+      "y": 1784.13671875
+    },
+    {
+      "id": "Science/Chemistry/Quantum Number/Hund's Rule.md",
+      "x": -2018.3284912109375,
+      "y": 1003.369140625
+    },
+    {
+      "id": "Science/Chemistry/Quantum Number/Magnetic Moment of Atom.md",
+      "x": 890.9713745117188,
+      "y": 3093.133056640625
+    },
+    {
+      "id": "Science/Chemistry/Quantum Number/Orbital Angular momentum of electron.md",
+      "x": 1041.3333740234375,
+      "y": -2861.109375
+    },
+    {
+      "id": "Science/Chemistry/Quantum Number/Pauli's Principle.md",
+      "x": -1871.5147705078125,
+      "y": 1057.112060546875
+    },
+    {
+      "id": "Science/Chemistry/Quantum Number/Subshells.md",
+      "x": -2710.23583984375,
+      "y": 1663.19287109375
+    },
+    {
+      "id": "Science/Chemistry/Redox Reaction/Combination Reaction.md",
+      "x": -2089.4130859375,
+      "y": -1561.8223876953125
+    },
+    {
+      "id": "Science/Chemistry/Redox Reaction/Decomposition Reaction.md",
+      "x": -2011.9971923828125,
+      "y": -1424.84375
+    },
+    {
+      "id": "Science/Chemistry/Redox Reaction/Displacement Reaction.md",
+      "x": 1621.784912109375,
+      "y": 102.10155487060547
+    },
+    {
+      "id": "Science/Chemistry/Redox Reaction/Disproportionation Reaction.md",
+      "x": 2049.09765625,
+      "y": 444.4366760253906
+    },
+    {
+      "id": "Science/Chemistry/Redox Reaction/Metal Displacement Reaction.md",
+      "x": 2687.033935546875,
+      "y": 4.138691425323486
+    },
+    {
+      "id": "Science/Chemistry/Redox Reaction/Non Metal Displacement Reaction.md",
+      "x": 2812.734130859375,
+      "y": -63.70145797729492
+    },
+    {
+      "id": "Science/Chemistry/Redox Reaction/Redox Reaction.md",
+      "x": -1923.704345703125,
+      "y": -1565.1068115234375
+    },
+    {
+      "id": "Science/Chemistry/Solution/Azeotropic mixtures.md",
+      "x": 2876.39404296875,
+      "y": -896.291259765625
+    },
+    {
+      "id": "Science/Chemistry/Solution/Colligative Properties.md",
+      "x": -484.1489562988281,
+      "y": -3068.94140625
+    },
+    {
+      "id": "Science/Chemistry/Solution/Colligative Properties/Depression In Freezing Point.md",
+      "x": -1278.98779296875,
+      "y": -2612.278564453125
+    },
+    {
+      "id": "Science/Chemistry/Solution/Colligative Properties/Elevation In Boiling Point.md",
+      "x": -1175.1722412109375,
+      "y": -2717.259765625
+    },
+    {
+      "id": "Science/Chemistry/Solution/Colligative Properties/Osmotic Pressure/Osmotic Pressure.md",
+      "x": -294.8596496582031,
+      "y": -3002.960693359375
+    },
+    {
+      "id": "Science/Chemistry/Solution/Colligative Properties/Osmotic Pressure/Osmotic Rise.md",
+      "x": -1833.1373291015625,
+      "y": -2695.64013671875
+    },
+    {
+      "id": "Science/Chemistry/Solution/Colligative Properties/Osmotic Pressure/Solution Based on OP/Hypertonic Solution.md",
+      "x": -393.4670715332031,
+      "y": -2823.565185546875
+    },
+    {
+      "id": "Science/Chemistry/Solution/Colligative Properties/Osmotic Pressure/Solution Based on OP/Hypotonic Solution.md",
+      "x": -620.4125366210938,
+      "y": -2726.15234375
+    },
+    {
+      "id": "Science/Chemistry/Solution/Colligative Properties/Osmotic Pressure/Solution Based on OP/Isotonic Solution.md",
+      "x": -439.8399658203125,
+      "y": -2948.472412109375
+    },
+    {
+      "id": "Science/Chemistry/Solution/Colligative Properties/Relative Lowering Of Vapour Pressure/Boiling Point.md",
+      "x": -1010.9378051757812,
+      "y": -2781.744873046875
+    },
+    {
+      "id": "Science/Chemistry/Solution/Colligative Properties/Relative Lowering Of Vapour Pressure/Vapour Pressure/Vapour Pressure.md",
+      "x": -816.63916015625,
+      "y": -2821.662353515625
+    },
+    {
+      "id": "Science/Chemistry/Solution/Heterogeneous Mixture.md",
+      "x": 3057.2275390625,
+      "y": -1175.088134765625
+    },
+    {
+      "id": "Science/Chemistry/Solution/Homogeneous Mixture.md",
+      "x": 2905.655517578125,
+      "y": -1139.8743896484375
+    },
+    {
+      "id": "Science/Chemistry/Solution/Mixture.md",
+      "x": 3036.2177734375,
+      "y": -987.1998291015625
+    },
+    {
+      "id": "Science/Chemistry/Solution/Molality.md",
+      "x": -1748.0667724609375,
+      "y": -1936.094482421875
+    },
+    {
+      "id": "Science/Chemistry/Solution/Molarity.md",
+      "x": 2614.8359375,
+      "y": -1163.571533203125
+    },
+    {
+      "id": "Science/Chemistry/Solution/Mole Fraction.md",
+      "x": -709.2924194335938,
+      "y": -2997.0791015625
+    },
+    {
+      "id": "Science/Chemistry/Solution/Osmosis.md",
+      "x": 2523.48974609375,
+      "y": -712.47607421875
+    },
+    {
+      "id": "Science/Chemistry/Solution/Relation Between Molarity and Molality.md",
+      "x": 2463.0341796875,
+      "y": -2010.5067138671875
+    },
+    {
+      "id": "Science/Chemistry/Solution/Solute.md",
+      "x": 2524.57373046875,
+      "y": -1045.026123046875
+    },
+    {
+      "id": "Science/Chemistry/Solution/Solution.md",
+      "x": 2711.31640625,
+      "y": -1004.8011474609375
+    },
+    {
+      "id": "Science/Chemistry/Solution/Solvent.md",
+      "x": 2617.62255859375,
+      "y": -833.346923828125
+    },
+    {
+      "id": "Science/Chemistry/Solution/Van't Hoff factor.md",
+      "x": 1029.2943115234375,
+      "y": -226.6746826171875
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Bond Dissociation Energy.md",
+      "x": -2700.43017578125,
+      "y": 279.9159851074219
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Determination of Resonance Energy.md",
+      "x": -2910.56103515625,
+      "y": 611.1713256835938
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Enthalpy of Atomization.md",
+      "x": -2904.994873046875,
+      "y": 749.5009765625
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Enthalpy of Combustion.md",
+      "x": -2392.498046875,
+      "y": 819.0828857421875
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Enthalpy of Dilution.md",
+      "x": -2547.0859375,
+      "y": 669.6239013671875
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Enthalpy of Formation.md",
+      "x": -2754.216796875,
+      "y": 671.3682861328125
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Enthalpy of Fusion.md",
+      "x": -2531.07275390625,
+      "y": 966.2454833984375
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Enthalpy of Neutralization.md",
+      "x": -2474.781005859375,
+      "y": 492.6717224121094
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Enthalpy of Reaction.md",
+      "x": -2392.0673828125,
+      "y": 626.5885620117188
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Enthalpy of Sublimation.md",
+      "x": -2764.70166015625,
+      "y": 937.6305541992188
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Enthalpy of Vaporisation.md",
+      "x": -2629.710205078125,
+      "y": 867.6780395507812
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Extensive Properties.md",
+      "x": -2915.682373046875,
+      "y": 297.5545349121094
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Hess's Law.md",
+      "x": -2241.090576171875,
+      "y": 573.4329833984375
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Intensive Properties.md",
+      "x": -3156.697509765625,
+      "y": -59.76020050048828
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Liquid State.md",
+      "x": 1461.959716796875,
+      "y": -205.4071807861328
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/Solid State.md",
+      "x": -58.302879333496094,
+      "y": 2636.791259765625
+    },
+    {
+      "id": "Science/Chemistry/Thermodynamics/System And Surroundings.md",
+      "x": -1294.6904296875,
+      "y": 2435.071044921875
+    },
+    {
+      "id": "Science/Covalent Bond.md",
+      "x": -2443.35498046875,
+      "y": 2127.79052734375
+    },
+    {
+      "id": "Science/Force On Current Carrying Wire.md",
+      "x": 344.2665710449219,
+      "y": 2039.340087890625
+    },
+    {
+      "id": "Science/LC Oscillator.md",
+      "x": 761.5786743164062,
+      "y": -1147.910400390625
+    },
+    {
+      "id": "Science/Magnetic Moment Of Current Carrying Loop.md",
+      "x": 355.3452453613281,
+      "y": 2158.8173828125
+    },
+    {
+      "id": "Science/Maths/3D Geometry/Direction Cosine Of Vector.md",
+      "x": 2696.496826171875,
+      "y": 642.9088134765625
+    },
+    {
+      "id": "Science/Maths/3D Geometry/Direction Cosines of Line.md",
+      "x": 2618.76611328125,
+      "y": 503.46734619140625
+    },
+    {
+      "id": "Science/Maths/3D Geometry/Direction Ratio.md",
+      "x": 2531.525634765625,
+      "y": 631.1331176757812
+    },
+    {
+      "id": "Science/Maths/3D Geometry/Distance Formula.md",
+      "x": -176.58816528320312,
+      "y": 1072.6636962890625
+    },
+    {
+      "id": "Science/Maths/3D Geometry/Equation of Line in Various Forms.md",
+      "x": -2999.9560546875,
+      "y": 1265.9193115234375
+    },
+    {
+      "id": "Science/Maths/3D Geometry/Perpendicular Bisector.md",
+      "x": -404.6498107910156,
+      "y": 1391.864501953125
+    },
+    {
+      "id": "Science/Maths/3D Geometry/Perpendicular Distance of a Point from a Line.md",
+      "x": -1176.224365234375,
+      "y": 644.0095825195312
+    },
+    {
+      "id": "Science/Maths/3D Geometry/Section Formula.md",
+      "x": -325.27545166015625,
+      "y": 1022.6351318359375
+    },
+    {
+      "id": "Science/Maths/Angle Between Two lines.md",
+      "x": 2719.94873046875,
+      "y": 401.1583251953125
+    },
+    {
+      "id": "Science/Maths/Binomial Theorem/Binomial Expansion.md",
+      "x": 1477.573486328125,
+      "y": -760.4744262695312
+    },
+    {
+      "id": "Science/Maths/Conic Section/Diametric Form of Circle.md",
+      "x": 1743.3131103515625,
+      "y": 1189.1298828125
+    },
+    {
+      "id": "Science/Maths/Conic Section/General Equation of Circle.md",
+      "x": 1745.468017578125,
+      "y": 1344.1875
+    },
+    {
+      "id": "Science/Maths/Conic Section/Intercepts of Circle.md",
+      "x": 1590.569091796875,
+      "y": 1306.865966796875
+    },
+    {
+      "id": "Science/Maths/Conic Section/Nature of Circle.md",
+      "x": 1892.666748046875,
+      "y": 1282.96728515625
+    },
+    {
+      "id": "Science/Maths/Conic Section/Parabola.md",
+      "x": 2326.619873046875,
+      "y": 2321.819580078125
+    },
+    {
+      "id": "Science/Maths/Conic Section/Position of Point w.r.t a Circle.md",
+      "x": 1651.0382080078125,
+      "y": 1469.5531005859375
+    },
+    {
+      "id": "Science/Maths/Conic Section/Standard Equation of Circle.md",
+      "x": 1846.25146484375,
+      "y": 1463.9237060546875
+    },
+    {
+      "id": "Science/Maths/Indefinite Integration/Indefinite Integration.md",
+      "x": 361.7088623046875,
+      "y": -503.3713073730469
+    },
+    {
+      "id": "Science/Maths/Indefinite Integration/Integration by Parts.md",
+      "x": 64.50667572021484,
+      "y": -214.19332885742188
+    },
+    {
+      "id": "Science/Maths/Indefinite Integration/Integration by Substitution.md",
+      "x": 188.0870819091797,
+      "y": -37.282554626464844
+    },
+    {
+      "id": "Science/Maths/Indefinite Integration/Integration of Rational Functions.md",
+      "x": 353.3409729003906,
+      "y": -137.41270446777344
+    },
+    {
+      "id": "Science/Maths/Indefinite Integration/Method Of Integration.md",
+      "x": 210.90719604492188,
+      "y": -192.9696502685547
+    },
+    {
+      "id": "Science/Maths/Indefinite Integration/Theorems of Integration.md",
+      "x": 297.2690124511719,
+      "y": -361.22662353515625
+    },
+    {
+      "id": "Science/Maths/Limits/Cauchy's Mean Value Theorem.md",
+      "x": 1051.8284912109375,
+      "y": -1489.753662109375
+    },
+    {
+      "id": "Science/Maths/Limits/Exponential And Logarithmic Limits.md",
+      "x": 2198.63916015625,
+      "y": -27.221464157104492
+    },
+    {
+      "id": "Science/Maths/Limits/Exponential Limits.md",
+      "x": 2053.92529296875,
+      "y": 42.0660400390625
+    },
+    {
+      "id": "Science/Maths/Limits/Indeterminate Forms.md",
+      "x": 2091.89208984375,
+      "y": -381.2456359863281
+    },
+    {
+      "id": "Science/Maths/Limits/L'Hospital Rule.md",
+      "x": 2224.727783203125,
+      "y": -406.1311950683594
+    },
+    {
+      "id": "Science/Maths/Limits/Lagrange's Mean-Value Theorem.md",
+      "x": 1218.82421875,
+      "y": -1473.4757080078125
+    },
+    {
+      "id": "Science/Maths/Limits/Limit.md",
+      "x": 2123.28369140625,
+      "y": -199.80003356933594
+    },
+    {
+      "id": "Science/Maths/Limits/Limits of Exponential Functions.md",
+      "x": 1968.508544921875,
+      "y": -93.31687927246094
+    },
+    {
+      "id": "Science/Maths/Limits/Limits of the Form infinity by infinity.md",
+      "x": 2303.104736328125,
+      "y": -288.31646728515625
+    },
+    {
+      "id": "Science/Maths/Limits/Questions Practice/Question Practice.md",
+      "x": 2364.23095703125,
+      "y": 289.5354309082031
+    },
+    {
+      "id": "Science/Maths/Limits/Rolle's Theorem.md",
+      "x": 1128.698974609375,
+      "y": -1345.4556884765625
+    },
+    {
+      "id": "Science/Maths/Limits/Trigonometric Limits.md",
+      "x": 1967.3516845703125,
+      "y": -253.86285400390625
+    },
+    {
+      "id": "Science/Maths/Matrices/Determinants/Untitled.md",
+      "x": -276.85894775390625,
+      "y": 2413.67041015625
+    },
+    {
+      "id": "Science/Maths/Matrices/Diagonal Matrix.md",
+      "x": -1315.3277587890625,
+      "y": -69.208984375
+    },
+    {
+      "id": "Science/Maths/Matrices/Identity Matrix.md",
+      "x": -1118.4144287109375,
+      "y": -121.30010223388672
+    },
+    {
+      "id": "Science/Maths/Matrices/Kronecker Product.md",
+      "x": -848.125,
+      "y": 98.98274993896484
+    },
+    {
+      "id": "Science/Maths/Matrices/Lower Triangular Matrix.md",
+      "x": -1584.692626953125,
+      "y": -335.7804260253906
+    },
+    {
+      "id": "Science/Maths/Matrices/Matrices.md",
+      "x": -710.6543579101562,
+      "y": -1.0340733528137207
+    },
+    {
+      "id": "Science/Maths/Matrices/Matrix Multiplication.md",
+      "x": -444.2218017578125,
+      "y": -351.1307373046875
+    },
+    {
+      "id": "Science/Maths/Matrices/Methods Of Finding Rank.md",
+      "x": -994.8818359375,
+      "y": -425.09228515625
+    },
+    {
+      "id": "Science/Maths/Matrices/Multiplication Of A Matrix By a Scalar.md",
+      "x": -565.733642578125,
+      "y": -102.82113647460938
+    },
+    {
+      "id": "Science/Maths/Matrices/Non-Singular Matrix.md",
+      "x": -1270.12255859375,
+      "y": -463.7347717285156
+    },
+    {
+      "id": "Science/Maths/Matrices/Outer Product.md",
+      "x": -746.61376953125,
+      "y": 166.62716674804688
+    },
+    {
+      "id": "Science/Maths/Matrices/Rank Of A Matrix.md",
+      "x": -991.184326171875,
+      "y": -262.147705078125
+    },
+    {
+      "id": "Science/Maths/Matrices/Scalar Matrix.md",
+      "x": -1059.680419921875,
+      "y": 42.812870025634766
+    },
+    {
+      "id": "Science/Maths/Matrices/Singular Matrix.md",
+      "x": -1424.9713134765625,
+      "y": -530.7871704101562
+    },
+    {
+      "id": "Science/Maths/Matrices/Square Matrix.md",
+      "x": -1429.3414306640625,
+      "y": -301.0687255859375
+    },
+    {
+      "id": "Science/Maths/Matrices/Upper Triangular Matrix.md",
+      "x": -1535.802490234375,
+      "y": -177.15057373046875
+    },
+    {
+      "id": "Science/Maths/Probability/Basics of Probability.md",
+      "x": 1867.43701171875,
+      "y": -1997.4637451171875
+    },
+    {
+      "id": "Science/Maths/Probability/Classical Probability.md",
+      "x": 2007.749267578125,
+      "y": -1978.7818603515625
+    },
+    {
+      "id": "Science/Maths/Quadratic Equation/Polynomial in One Variable.md",
+      "x": 1569.1171875,
+      "y": -876.1030883789062
+    },
+    {
+      "id": "Science/Maths/Quadratic Equation/Quadratic Equation.md",
+      "x": 1452.994140625,
+      "y": -964.2978515625
+    },
+    {
+      "id": "Science/Maths/Straight Line/Altitude.md",
+      "x": -881.4054565429688,
+      "y": 1245.0238037109375
+    },
+    {
+      "id": "Science/Maths/Straight Line/Angle Bisector.md",
+      "x": -326.2048034667969,
+      "y": 1622.49462890625
+    },
+    {
+      "id": "Science/Maths/Straight Line/Area of Triangle.md",
+      "x": -710.5892944335938,
+      "y": 704.4324340820312
+    },
+    {
+      "id": "Science/Maths/Straight Line/Centres of a Triangle.md",
+      "x": -717.357421875,
+      "y": 1029.0458984375
+    },
+    {
+      "id": "Science/Maths/Straight Line/Circumcenter (C).md",
+      "x": -554.5726318359375,
+      "y": 1251.5802001953125
+    },
+    {
+      "id": "Science/Maths/Straight Line/Col-linearity of 3 Points.md",
+      "x": -574.7083129882812,
+      "y": 838.1099243164062
+    },
+    {
+      "id": "Science/Maths/Straight Line/Equation of Line in Different Forms.md",
+      "x": -2898.896728515625,
+      "y": 1369.07470703125
+    },
+    {
+      "id": "Science/Maths/Straight Line/External Angle Bisector Theorem.md",
+      "x": -369.76568603515625,
+      "y": 1791.457763671875
+    },
+    {
+      "id": "Science/Maths/Straight Line/Golden Points.md",
+      "x": -520.0098876953125,
+      "y": 1050.81982421875
+    },
+    {
+      "id": "Science/Maths/Straight Line/Internal Angle Bisector Theorem.md",
+      "x": -518.5161743164062,
+      "y": 1689.40576171875
+    },
+    {
+      "id": "Science/Maths/Straight Line/Locus.md",
+      "x": 2200.27294921875,
+      "y": 2395.10400390625
+    },
+    {
+      "id": "Science/Maths/Straight Line/Median.md",
+      "x": -760.47509765625,
+      "y": 1577.43505859375
+    },
+    {
+      "id": "Science/Maths/Straight Line/Mid-Point Theorem.md",
+      "x": 1754.108642578125,
+      "y": 2444.419921875
+    },
+    {
+      "id": "Science/Maths/Straight Line/Orthocenter (H).md",
+      "x": -727.3549194335938,
+      "y": 1211.2572021484375
+    },
+    {
+      "id": "Science/Maths/Straight Line/Proportionality Theorem.md",
+      "x": 1871.9427490234375,
+      "y": 2526.8505859375
+    },
+    {
+      "id": "Science/Maths/Straight Line/Straight line.md",
+      "x": -651.8504638671875,
+      "y": 1462.0828857421875
+    },
+    {
+      "id": "Science/Maths/Straight Line/Triangles.md",
+      "x": -712.4158935546875,
+      "y": 368.8211975097656
+    },
+    {
+      "id": "Science/Maths/Trigonometric Functions/Area of Sector.md",
+      "x": -1022.2704467773438,
+      "y": -1966.5660400390625
+    },
+    {
+      "id": "Science/Maths/Trigonometric Functions/Galvanometer.md",
+      "x": 3067.49853515625,
+      "y": 1112.808349609375
+    },
+    {
+      "id": "Science/Maths/Trigonometric Functions/Length of Arc.md",
+      "x": -987.836181640625,
+      "y": -2121.066650390625
+    },
+    {
+      "id": "Science/Maths/Trigonometric Functions/Radian Measure.md",
+      "x": -1153.9454345703125,
+      "y": -2076.360595703125
+    },
+    {
+      "id": "Science/Maths/Trigonometric Functions/Sign Convention to measure angles.md",
+      "x": -1294.98046875,
+      "y": -2107.687744140625
+    },
+    {
+      "id": "Science/Maths/Vectors/Collinear or Parallel Vector.md",
+      "x": 127.88439178466797,
+      "y": -2428.788330078125
+    },
+    {
+      "id": "Science/Maths/Vectors/Position Vector.md",
+      "x": 185.4340057373047,
+      "y": -2555.494873046875
+    },
+    {
+      "id": "Science/Maths/Vectors/Scalar Quantities.md",
+      "x": 1690.466552734375,
+      "y": -1610.299560546875
+    },
+    {
+      "id": "Science/Maths/Vectors/Unit Vector.md",
+      "x": 278.9111633300781,
+      "y": -2302.18701171875
+    },
+    {
+      "id": "Science/Maths/Vectors/Vector Quantities.md",
+      "x": 684.9384155273438,
+      "y": -2541.47900390625
+    },
+    {
+      "id": "Science/Maths/Vectors/Vector.md",
+      "x": 406.0549621582031,
+      "y": -2381.247314453125
+    },
+    {
+      "id": "Science/Nucleophilicity.md",
+      "x": -2342.780029296875,
+      "y": 2230.0537109375
+    },
+    {
+      "id": "Science/Physics/Alternate Current/Alternating Current.md",
+      "x": 964.7356567382812,
+      "y": -813.8890380859375
+    },
+    {
+      "id": "Science/Physics/Alternate Current/Circuit Elements in AC Circuits.md",
+      "x": 1032.998291015625,
+      "y": -940.7974243164062
+    },
+    {
+      "id": "Science/Physics/Alternate Current/Inductor.md",
+      "x": 460.95880126953125,
+      "y": 2241.5185546875
+    },
+    {
+      "id": "Science/Physics/Alternate Current/RLC Circuit.md",
+      "x": 1965.580078125,
+      "y": 706.9586791992188
+    },
+    {
+      "id": "Science/Physics/Calorimetary/Heat Capacity.md",
+      "x": -3076.034912109375,
+      "y": 196.70611572265625
+    },
+    {
+      "id": "Science/Physics/Calorimetary/Latent Heat of Vaporization.md",
+      "x": -2285.280029296875,
+      "y": -2199.447021484375
+    },
+    {
+      "id": "Science/Physics/Calorimetary/Latent Heat.md",
+      "x": -2164.316650390625,
+      "y": -2127.1376953125
+    },
+    {
+      "id": "Science/Physics/Calorimetary/Latent heat of fusion.md",
+      "x": 2245.104248046875,
+      "y": 761.9603881835938
+    },
+    {
+      "id": "Science/Physics/Calorimetary/Molar Heat Capacity.md",
+      "x": -1236.256591796875,
+      "y": 2913.098388671875
+    },
+    {
+      "id": "Science/Physics/Calorimetary/Specific Heat Capacity.md",
+      "x": -3200.352294921875,
+      "y": 80.68608093261719
+    },
+    {
+      "id": "Science/Physics/Calorimetary/Untitled.md",
+      "x": 1390.0888671875,
+      "y": 2355.016357421875
+    },
+    {
+      "id": "Science/Physics/Calorimetary/Water Equivalent of a Body.md",
+      "x": -2024.54150390625,
+      "y": -1860.4368896484375
+    },
+    {
+      "id": "Science/Physics/Circular Motion/Angular Variable/Angular Acceleration.md",
+      "x": 775.279052734375,
+      "y": -2674.53759765625
+    },
+    {
+      "id": "Science/Physics/Circular Motion/Angular Variable/Angular Displacement.md",
+      "x": 839.1578979492188,
+      "y": -2251.6171875
+    },
+    {
+      "id": "Science/Physics/Circular Motion/Angular Variable/Angular Position.md",
+      "x": 698.9310913085938,
+      "y": -2270.21044921875
+    },
+    {
+      "id": "Science/Physics/Circular Motion/Angular Variable/Angular Variable.md",
+      "x": 787.2409057617188,
+      "y": -2466.2158203125
+    },
+    {
+      "id": "Science/Physics/Circular Motion/Angular Variable/Angular Velocity.md",
+      "x": 630.7940673828125,
+      "y": -2740.725341796875
+    },
+    {
+      "id": "Science/Physics/Circular Motion/Uniform Circular Motion.md",
+      "x": 550.9329833984375,
+      "y": -2897.129150390625
+    },
+    {
+      "id": "Science/Physics/Current Carrying Loop.md",
+      "x": 1757.308349609375,
+      "y": 2153.81787109375
+    },
+    {
+      "id": "Science/Physics/Current/Average Relaxation time.md",
+      "x": -13.461301803588867,
+      "y": 543.671142578125
+    },
+    {
+      "id": "Science/Physics/Current/Cells.md",
+      "x": 1195.494873046875,
+      "y": 1846.4031982421875
+    },
+    {
+      "id": "Science/Physics/Current/Combination of Resistors.md",
+      "x": 979.0309448242188,
+      "y": 2056.286865234375
+    },
+    {
+      "id": "Science/Physics/Current/Combinations of Cells.md",
+      "x": 1136.619873046875,
+      "y": 1989.552978515625
+    },
+    {
+      "id": "Science/Physics/Current/Drift Velocity.md",
+      "x": 734.416015625,
+      "y": 1939.2374267578125
+    },
+    {
+      "id": "Science/Physics/Current/Electric Current.md",
+      "x": 632.4583740234375,
+      "y": 2120.305419921875
+    },
+    {
+      "id": "Science/Physics/Current/RC Circuit.md",
+      "x": 778.9948120117188,
+      "y": 2167.443359375
+    },
+    {
+      "id": "Science/Physics/Current/Resistivity.md",
+      "x": -2847.98486328125,
+      "y": -462.5836486816406
+    },
+    {
+      "id": "Science/Physics/EMI/Ampere's Circuital Law.md",
+      "x": 2091.29150390625,
+      "y": 2027.9312744140625
+    },
+    {
+      "id": "Science/Physics/EMI/Application of Biot-Savart Law.md",
+      "x": 2045.10498046875,
+      "y": 1889.5987548828125
+    },
+    {
+      "id": "Science/Physics/EMI/Force between two parallel current carrying wire.md",
+      "x": 2240.929443359375,
+      "y": 2029.18994140625
+    },
+    {
+      "id": "Science/Physics/Electrostatics/Coulomb's Law.md",
+      "x": 673.2339477539062,
+      "y": 2604.257568359375
+    },
+    {
+      "id": "Science/Physics/Electrostatics/Electric Charge.md",
+      "x": 633.915771484375,
+      "y": 2442.25
+    },
+    {
+      "id": "Science/Physics/Electrostatics/Electric Field.md",
+      "x": 791.7149658203125,
+      "y": 1778.640869140625
+    },
+    {
+      "id": "Science/Physics/Electrostatics/Electric Potential Energy.md",
+      "x": 793.3694458007812,
+      "y": 2482.20654296875
+    },
+    {
+      "id": "Science/Physics/Electrostatics/Quantized.md",
+      "x": 1069.4658203125,
+      "y": 442.5779113769531
+    },
+    {
+      "id": "Science/Physics/Magnetic Field.md",
+      "x": 238.31907653808594,
+      "y": 2283.375244140625
+    },
+    {
+      "id": "Science/Physics/Mechanics of Solid/Elasticity.md",
+      "x": 348.1900329589844,
+      "y": 820.0597534179688
+    },
+    {
+      "id": "Science/Physics/Mechanics of Solid/Mechanics of Solid.md",
+      "x": 466.1474304199219,
+      "y": 908.24169921875
+    },
+    {
+      "id": "Science/Physics/Mechanics of Solid/Questions/Question on Rope with Mass.md",
+      "x": 240.87777709960938,
+      "y": 916.9676513671875
+    },
+    {
+      "id": "Science/Physics/Momentum of EM Waves.md",
+      "x": -2702.06787109375,
+      "y": -1432.7762451171875
+    },
+    {
+      "id": "Science/Physics/Photoelectric Effect.md",
+      "x": -2565.572265625,
+      "y": -1379.841064453125
+    },
+    {
+      "id": "Science/Physics/Rotation/Angular Momentum.md",
+      "x": 957.5036010742188,
+      "y": -2700.268798828125
+    },
+    {
+      "id": "Science/Physics/Rotation/Moment of Inertia.md",
+      "x": 1301.1976318359375,
+      "y": -2638.018310546875
+    },
+    {
+      "id": "Science/Physics/Rotation/Parallel Axis Theorem.md",
+      "x": 1494.239501953125,
+      "y": -2583.40234375
+    },
+    {
+      "id": "Science/Physics/Rotation/Perpendicular Axis Theorem.md",
+      "x": 1498.399169921875,
+      "y": -2726.911376953125
+    },
+    {
+      "id": "Science/Physics/Rotation/Radius of Gyration.md",
+      "x": 1337.781494140625,
+      "y": -2790.60302734375
+    },
+    {
+      "id": "Science/Physics/Rotation/Rolling Motion.md",
+      "x": 462.9884033203125,
+      "y": -2790.024169921875
+    },
+    {
+      "id": "Science/Physics/Rotation/Torque.md",
+      "x": 953.7644653320312,
+      "y": -2476.03466796875
+    },
+    {
+      "id": "Science/Physics/SHM/Movies.md",
+      "x": -1312.5960693359375,
+      "y": -3007.476318359375
+    },
+    {
+      "id": "Science/Physics/SHM/Oscillations.md",
+      "x": 1233.8382568359375,
+      "y": -2184.8720703125
+    },
+    {
+      "id": "Science/Physics/SHM/Oscillatory Motion.md",
+      "x": 1364.572021484375,
+      "y": -1979.71875
+    },
+    {
+      "id": "Science/Physics/SHM/Periodic Motion.md",
+      "x": 1266.69970703125,
+      "y": -1832.9215087890625
+    },
+    {
+      "id": "Science/Physics/SHM/Simple Harmonic Motion.md",
+      "x": 1437.6324462890625,
+      "y": -2123.240234375
+    },
+    {
+      "id": "Science/Physics/SHM/Some Important Formula of SHM.md",
+      "x": 1398.1876220703125,
+      "y": -2260.625244140625
+    },
+    {
+      "id": "Science/Physics/SHM/Types of SHM.md",
+      "x": 1163.06201171875,
+      "y": -1993.119384765625
+    },
+    {
+      "id": "Science/Physics/Work Power Energy/Work.md",
+      "x": 1828.0924072265625,
+      "y": -1649.400634765625
+    },
+    {
+      "id": "Science/Preparation Method of Aldehyde , Ketone.md",
+      "x": -1396.7752685546875,
+      "y": 2024.8692626953125
+    },
+    {
+      "id": "Science/Preparation of Alcohols.md",
+      "x": -1306.9991455078125,
+      "y": 2130.659423828125
+    },
+    {
+      "id": "Science/Torque On Current Carrying Loop In Magnetic Field.md",
+      "x": 145.07579040527344,
+      "y": 2117.3974609375
+    },
+    {
+      "id": "TO-DO.md",
+      "x": -2343.17578125,
+      "y": 1801.5374755859375
+    },
+    {
+      "id": "smart-chats/UNTITLED CHAT 2024-04-23 11 24 21.md",
+      "x": 1651.1781005859375,
+      "y": 2710.207275390625
+    },
+    {
+      "id": "smart-chats/UNTITLED CHAT 2024-04-23 12 30 29.md",
+      "x": -1486.6163330078125,
+      "y": -1825.1734619140625
+    },
+    {
+      "id": "smart-chats/UNTITLED CHAT 2024-04-23 13 37 53.md",
+      "x": 2306.073486328125,
+      "y": -1459.5628662109375
+    },
+    {
+      "id": "smart-chats/UNTITLED CHAT 2024-04-24 06 42 01.md",
+      "x": -242.343017578125,
+      "y": 2103.153564453125
+    },
+    {
+      "id": "smart-chats/UNTITLED CHAT 2024-04-24 06 51 54.md",
+      "x": 2931.26611328125,
+      "y": -397.1980285644531
+    },
+    {
+      "id": "smart-chats/UNTITLED CHAT 2024-04-24 06 52 20.md",
+      "x": 1216.0828857421875,
+      "y": 3014.450927734375
+    },
+    {
+      "id": "smart-chats/UNTITLED CHAT 2024-04-24 07 48 34.md",
+      "x": -20.95256996154785,
+      "y": 822.7371215820312
+    },
+    {
+      "id": "smart-chats/UNTITLED CHAT 2024-04-24 13 34 34.md",
+      "x": 2653.555908203125,
+      "y": 1868.0047607421875
+    },
+    {
+      "id": "smart-chats/UNTITLED CHAT 2024-04-24 16 39 22.md",
+      "x": -1130.102783203125,
+      "y": -1633.8765869140625
+    },
+    {
+      "id": "Neural Network/Cross Entropy Loss.md",
+      "x": 227.75296020507812,
+      "y": -1575.177490234375
+    },
+    {
+      "id": "Neural Network/Binary Cross Entropy Loss.md",
+      "x": 411.3154296875,
+      "y": -1653.3961181640625
+    }
+  ],
+  "automaticallyRestoreNodePositions": false
+}

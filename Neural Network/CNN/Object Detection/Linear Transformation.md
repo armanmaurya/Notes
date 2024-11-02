@@ -1,4 +1,4 @@
-Linear Transformations form the core of fully connected (dense) layers in neural networks. The essence of a linear transformation is mapping an input vector to an output vector using a weight matrix. This operation is described by the equation:
+Linear Transformations form the core of [Fully Connected (dense) Layer](Fully%20Connected%20Layer.md) in [Neural Network](../../Neural%20Network.md). The essence of a linear transformation is mapping an input vector to an output vector using a weight matrix. This operation is described by the equation:
 $$
 y=W⋅x+b
 $$
@@ -14,7 +14,7 @@ A transformation $T$ is linear if it satisfies two key properties:
 2. Some prop
 
 ## Matrix representation of a Linear Transformation:
-In [Neural Network](../../Neural%20Network.md), linear Transformations are implemented through matrix multiplication. Suppose we have:
+In [Neural Network](../../Neural%20Network.md), linear Transformations are implemented through [Matrix Multiplication](../../../Science/Maths/Matrices/Matrix%20Multiplication.md). Suppose we have:
 - An **input vector $x$** with size $n$.
 - A **weight matrix $W$** dimensions $m\times n$ (i.e., $m$ rows and $n$ columns), where $m$ is the size of the output vector.
 - A **bias vector $b$** with size $m$.

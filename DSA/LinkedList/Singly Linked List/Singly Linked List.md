@@ -3,7 +3,6 @@ tags:
   - DSA
   - LinkedList
 ---
-# Singly Linked List
 A **singly linked list** is a fundamental data structure in computer science and programming, it consists of ***nodes*** where each node contains a ***data*** field and a ***reference*** to the next node in the node. The last node points to ***null***, indicating the end of the list. This linear structure supports efficient insertion and deletion operations, making it widely used in various applications. In this tutorial, we’ll explore the node structure, understand the operations on singly linked lists (traversal, searching, length determination, insertion, and deletion), and provide detailed explanations and code examples to implement these operations effectively.
 ## What is Singly Linked List?
 A ***singly linked list*** is a fundamental data structure in computer science and programming. It is a collection of nodes where each node contains a ***data field*** and a ***reference*** (link) to the next node in the sequence. The last node in the list points to ***null***, indicating the end of the list. This linear data structure allows for efficient insertion and deletion operations, making it a popular choice for various applications.

@@ -44,7 +44,7 @@ To the rescue: Skips Connections.
 Based on the whole encoder-decoder and skip connection concept, the idea of Fully Convolutional Network expanded to U-net**. U-net introduces symmetry in the FCN by increasing the size of the decoder to match the encoder and replaces the sum operation in skip connections with a concatenation**.
 
 Due to the symmetry, we can transfer a lot more information from the downsampling layers to the upsampling ones (as there are more features maps now ), improving that way the resolution of the final output.
-![[images/unet.jpg]]
+![unet|center](../images/unet.jpg)
 U-nets have originally developed for biomedical image segmentation, but they also used in a wide of different applications with many variations such as the addition of fully connected layers or residual blocks.
 
 To fully grasp the U-net idea, let’s write some code to realize how dead-simple it is. We are going to use python and keras framework to simplify thing even more.

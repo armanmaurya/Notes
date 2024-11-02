@@ -1,6 +1,4 @@
-### **Inductor: Detailed Overview**
-
-An **inductor** is a passive electrical component that stores energy in a magnetic field when [Electric Current](../Current/Electric%20Current.md) flows through it. It plays a key role in various electronic circuits, especially in applications related to power supplies, signal processing, and electromagnetic interference (EMI) filtering. Inductors are used in combination with capacitors and resistors to create filters, tuned circuits, transformers, and in energy storage for power conversion.
+An **inductor** is a passive electrical component that stores energy in a [Magnetic Field](../Magnetic%20Field.md) when [Electric Current](../Current/Electric%20Current.md) flows through it. It plays a key role in various electronic circuits, especially in applications related to power supplies, signal processing, and electromagnetic interference (EMI) filtering. Inductors are used in combination with capacitors and resistors to create filters, tuned circuits, transformers, and in energy storage for power conversion.
 
 ---
 

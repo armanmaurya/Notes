@@ -75,7 +75,7 @@
         "startupType": "disabled"
       },
       "darlal-switcher-plus": {
-        "startupType": "disabled"
+        "startupType": "short"
       },
       "obsidian-quickshare": {
         "startupType": "disabled"
@@ -163,6 +163,9 @@
       },
       "obsidian-completr": {
         "startupType": "long"
+      },
+      "persistent-graph": {
+        "startupType": "instant"
       }
     }
   }

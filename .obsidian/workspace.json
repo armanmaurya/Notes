@@ -4,115 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "ddce1518556a7fc1",
+        "id": "05c0ee6fc11ea2bf",
         "type": "tabs",
         "children": [
           {
-            "id": "ad9ff556d1cfce6f",
+            "id": "bc0a2c8a8fc1226a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/LinkedList/Singly Linked List/Singly Linked List.md",
+                "file": "Science/Maths/Matrices/Rank Of A Matrix.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rank Of A Matrix"
             }
           },
           {
-            "id": "ce1cc029fa571193",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Physics/Current/Electric Current.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56e89dba49407b07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Physics/Current Carrying Loop.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff45381414971afd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Maths/Matrices/Non-Singular Matrix.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa46a16644cdef41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Maths/Matrices/Matrix Multiplication.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53798435e05a8454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Components/HC-05.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "005e0c6a9a996996",
+            "id": "086ed6036ce0772d",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "a8b5ee1e880da5e5",
+            "id": "9739546edc619cbc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Physics/BAS101 _unit1_tutorial.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "BAS101 _unit1_tutorial"
+            }
+          },
+          {
+            "id": "e692fbe562d097d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engeneering/Electronics and Communication/Robotics/Trajectory with Multiple Kinematic Constrainst.md",
+                "file": "Statistics/K Mean Clustering.md",
                 "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1e9a94365c873c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engeneering/Aerospace/Propellers/Aerofoils.md",
-                "mode": "preview",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "K Mean Clustering"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +78,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -147,7 +95,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -155,14 +105,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 227
+    "width": 232.01306533813477,
+    "collapsed": true
   },
   "right": {
     "id": "13142d84d2d3b245",
@@ -171,7 +124,7 @@
       {
         "id": "2a54a618c7f98b8d",
         "type": "tabs",
-        "dimension": 56.74019607843136,
+        "dimension": 40.40268456375839,
         "children": [
           {
             "id": "aef4c67603b39791",
@@ -179,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Components/HC-05.md",
+                "file": "DSA/Binary Tree/Threaded Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +140,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Threaded Binary Tree"
             }
           },
           {
@@ -196,10 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Components/HC-05.md",
+                "file": "DSA/Binary Tree/Threaded Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Threaded Binary Tree"
             }
           },
           {
@@ -208,8 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Components/HC-05.md"
-              }
+                "file": "DSA/Binary Tree/Threaded Binary Tree.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Threaded Binary Tree"
             }
           },
           {
@@ -217,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "custom-frames-chatgpt",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -225,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -233,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
-              "state": {}
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections Files"
             }
           },
           {
@@ -241,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -250,7 +217,7 @@
       {
         "id": "7d90aea00fe5a964",
         "type": "tabs",
-        "dimension": 43.25980392156864,
+        "dimension": 59.597315436241615,
         "children": [
           {
             "id": "9ef5e4c3cf8bd343",
@@ -258,7 +225,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Components/HC-05.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,14 +250,16 @@
                   "scale": 0.6958187919862355,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 390
+    "width": 352
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,63 +272,64 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "dbfolder:Create a new database table": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false,
       "obsidian-custom-frames:Open ChatGPT": false,
-      "surfing:surfing-bookmark-manager": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "vault-size-history:Vault size history": false,
-      "obsidian-gallery:Gallery": false
+      "obsidian-gallery:Gallery": false,
+      "vscode-editor:Create Code File": false
     }
   },
-  "active": "53798435e05a8454",
+  "active": "086ed6036ce0772d",
   "lastOpenFiles": [
-    "Components/Components.md",
-    "Components/HC-05.md",
-    "Components/HC-SR04.md",
-    "Components/L298N.md",
-    "Components/Untitled.md",
-    "Engeneering/Electronics and Communication/Analog/Transistor Biasing.md",
-    "somen.md",
-    "Neural Network/CNN/Max Pooling.md",
     "Neural Network/CNN/Object Detection/Linear Transformation.md",
-    "Object Detection/PyTorch Linear Transformation.md",
-    "Engeneering/Electronics and Communication/Robotics/Trajectory with Multiple Kinematic Constrainst.md",
-    "Engeneering/Electronics and Communication/Robotics/Inverse Kinematics.md",
-    "Engeneering/Mechanical/Rocker Bogie.md",
-    "Science/Chemistry/Solution/Solution.md",
-    "Engeneering/Mechanical/Spur Gears.md",
-    "Engeneering/Mechanical/Gears/Gear Trains.md",
-    "Engeneering/Mechanical/Fluid Mechanics/Thermodynamics.md",
-    "Engeneering/Electronics and Communication/Untitled 1.md",
-    "Science/Charge in Magnetic field.md",
-    "Neural Network/CNN/Object Detection/Activation Functions.md",
-    "DSA/Recursion/Recursion.md",
-    "Science/Chemistry/Electrochemistry/Electrode.md",
     "Neural Network/CNN/Object Detection/Sigmoid Activation Function.md",
-    "Engeneering/Computer Science/Deep Learning/Softmax Layer.md",
-    "Science/Maths/Matrices/Matrix Multiplication.md",
-    "Science/Maths/Matrices/Non-Singular Matrix.md",
+    "Neural Network/Neural Network.md",
+    "Science/Maths/Matrices/Methods Of Finding Rank.md",
+    "DSA/Queue/Queue Data Structure.md",
+    "DSA/Queue/Implementation/Linked List Implementation of Queue.md",
+    "DSA/LinkedList/Singly Linked List/Singly Linked List.md",
+    "DSA/LinkedList/LinkedList.md",
+    "Robotics/A Star Search Algorithm.md",
+    "Arora Project.md",
+    "Science/Maths/Matrices/Rank Of A Matrix.md",
+    "Robotics",
+    "DSA/Binary Tree/Threaded Binary Tree.md",
+    "Statistics/Euclidean Distance.md",
+    "Engineering Physics/BAS101 _unit1_tutorial.pdf",
+    "Engineering Physics/Assignment 1.md",
+    "Engineering Physics",
+    "DSA/Binary Tree/Untitled 2.md",
+    "DSA/Binary Tree/Untitled 1.md",
+    "DSA/Binary Tree/Untitled.md",
+    "DSA/Binary Tree/images/inorder.gif",
+    "DSA/Binary Tree/images/Preorder-Traversal-of-Binary-Tree-1024.webp",
+    "Statistics/K Mean Clustering.md",
+    "Statistics/Programs.md",
+    "Statistics/Spend History.md",
+    "Statistics/images/loyyd_kmean.gif",
+    "Statistics/images",
+    "Machine Learning/Supervised Machine Learning.md",
+    "Machine Learning/Regression in Machine Learning.md",
+    "Engeneering/Mechanical/Gears.md",
+    "Neural Network/CNN/Object Detection/ReLU Activation Function.md",
+    "Machine Learning/Regression.md",
+    "Neural Network/Cross Entropy Loss.md",
+    "Statistics/Introduction to Modern Statistics (2e).pdf",
+    "Statistics",
+    "Neural Network/images/cnn-output.jpg",
+    "Neural Network/images/cnn-input-grey-scale.png",
+    "Neural Network/images/cnn-input-image.jpg",
+    "Neural Network/images/layer-used-to-build-convnet.jpg",
+    "Neural Network/images/Pasted image 20241011011232.png",
+    "Neural Network/images/cnnn-patch.png",
+    "Neural Network/images/cnn-working.jpg",
+    "Neural Network/CNN/Untitled",
+    "Neural Network/Pre-Processing",
     "Jee/Chemistry/Solution",
     "Jee/Chemistry",
-    "Jee",
-    "DSA/Recursion",
-    "Hackathon/Eye Controlled Wheel Chair/Interfacing-L298N-Motor-Driver-Arduino-Uno-Circuit-Diagram-703x800.jpg",
-    "Components",
-    "Untitled",
-    "Hackathon/Eye Controlled Wheel Chair/ultrasonic-sensor-wiring-diagram.png",
-    "Hackathon/Eye Controlled Wheel Chair",
-    "DSA/Binary Tree/images/Full-binary-tree.png",
-    "DSA/Binary Tree/images/Terminologies-in-Binary-Tree-in-Data-Structure_1-1024.webp",
-    "DSA/Binary Tree/images/Binary-Tree-Representation.webp",
-    "DSA/LinkedList/Doubly Linked List/images/Deletion-at-a-Specific-Position-in-Doubly-Linked-List.webp",
-    "DSA/LinkedList/Doubly Linked List/images/Deletion-at-the-End-in-Doubly-Linked-List.webp",
-    "DSA/LinkedList/Doubly Linked List/images/Deletion-at-the-Beginning-of-Doubly-Linked-List.webp",
-    "DSA/LinkedList/Doubly Linked List/images/Insertion-at-a-Specific-Position-in-Doubly-Linked-List.webp",
-    "DSA/LinkedList/Doubly Linked List/images/Insertion-at-the-End-in-Doubly-Linked-List.webp",
-    "Machine Learning/Images",
-    "Machine Learning",
-    "DSA/Binary Tree/images",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

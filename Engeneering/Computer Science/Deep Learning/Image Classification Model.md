@@ -1,6 +1,7 @@
 ---
 tags:
   - Pytorch
+  - AI
 ---
 
 # Prerequisite:

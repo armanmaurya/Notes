@@ -1,1 +1,1 @@
-- Uniform circular motion is the motion with a constant [Angular Velocity](Jee/Physics/Circular%20Motion/Angular%20Variable/Angular%20Velocity.md).
+- Uniform circular motion is the motion with a constant [Angular Velocity](Angular%20Variable/Angular%20Velocity.md).

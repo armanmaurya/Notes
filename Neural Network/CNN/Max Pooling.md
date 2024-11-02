@@ -1,3 +1,7 @@
+---
+tags:
+  - AI
+---
 Max pooling is a [Pooling](Pooling%20Layer.md) operation that selects the maximum element from the region of the feature map covered by the filter. Thus, the output after max-pooling layer would be a feature map containing the most prominent features of the previous feature map.
 ![Max_pooling](../images/Max_pooling.png)
 This can be achieved using MaxPooling2D layer in keras as follows: 

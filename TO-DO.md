@@ -1,0 +1,7 @@
+- [ ] k-nearest neighbors
+- [ ] support vector machines
+- [ ] Absolute Maximum Scaling
+- [ ] ReLU
+- [ ] Tanh
+- [ ] Cros-Entropy loss
+- [ ] KL Divergencce

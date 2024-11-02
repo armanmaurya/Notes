@@ -1,6 +1,8 @@
 ---
 tags:
   - Pytorch
+  - AI
+database-plugin:
 ---
 
 # Prerequisite:

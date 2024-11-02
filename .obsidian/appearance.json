@@ -10,11 +10,11 @@
     "defaultimagesize",
     "image",
     "Minimal Cards",
-    "style",
-    "Invert Img"
+    "Invert Img",
+    "style"
   ],
-  "textFontFamily": "DejaVu Serif",
-  "interfaceFontFamily": "DejaVu Serif",
+  "textFontFamily": "DejaVu Serif,Sans Serif Collection,Microsoft Sans Serif",
+  "interfaceFontFamily": "Sans Serif Collection,DejaVu Serif,Microsoft Sans Serif",
   "baseFontSizeAction": false,
   "nativeMenus": false,
   "showViewHeader": true

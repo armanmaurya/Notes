@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "tag:#AI  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
@@ -49,10 +56,10 @@
   "nodeSizeMultiplier": 1.48694658845323,
   "lineSizeMultiplier": 1.29330657610374,
   "collapse-forces": false,
-  "centerStrength": 0.4411238036431,
-  "repelStrength": 12.3000926211794,
+  "centerStrength": 0.509807407407407,
+  "repelStrength": 13.837037037037,
   "linkStrength": 1,
   "linkDistance": 115,
-  "scale": 0.14623434258663512,
+  "scale": 0.9348634756301131,
   "close": true
 }

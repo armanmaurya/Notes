@@ -1,3 +1,7 @@
+---
+tags:
+  - AI
+---
 Average [Pooling](Pooling%20Layer.md) computes the average of the elements present in the region of feature map covered by the filter. Thus, while [Max Pooling](Max%20Pooling.md), give the most prominent feature in a particular patch of feature map, average pooling give the average of feature present in a patch.
 ![average_pooling](../images/average_pooling.png)
 **Performing Average Pooling using keras**

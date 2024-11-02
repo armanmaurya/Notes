@@ -3,10 +3,13 @@
   "hideExcluded": false,
   "downrankedFoldersFilters": [],
   "ignoreDiacritics": true,
+  "ignoreArabicDiacritics": false,
   "indexedFileTypes": [],
+  "displayTitle": "",
   "PDFIndexing": true,
   "officeIndexing": true,
   "imagesIndexing": true,
+  "aiImageIndexing": false,
   "unsupportedFilesIndexing": "yes",
   "splitCamelCase": false,
   "openInNewPane": false,
@@ -26,9 +29,12 @@
   "weightH2": 2.9,
   "weightH3": 2.3,
   "weightUnmarkedTags": 1.1,
+  "weightCustomProperties": [],
   "httpApiEnabled": false,
   "httpApiPort": "51361",
   "httpApiNotice": true,
   "welcomeMessage": "1.21.0",
-  "verboseLogging": false
+  "verboseLogging": false,
+  "DANGER_httpHost": null,
+  "DANGER_forceSaveCache": false
 }
