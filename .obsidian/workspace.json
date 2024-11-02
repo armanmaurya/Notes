@@ -39,7 +39,7 @@
               "state": {
                 "file": "Statistics/Euclidean Distance.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Euclidean Distance"
