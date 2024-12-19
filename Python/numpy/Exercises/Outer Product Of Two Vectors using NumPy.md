@@ -59,5 +59,5 @@ Finally print() prints the resulting 4x4 matrix.
 
 ---
 **Related Links**
-- [Matrices](../../../Science/Maths/Matrices/Matrices.md)
+- [Matrices](../../../Maths/Matrices/Matrices.md)
 

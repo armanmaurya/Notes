@@ -1,21 +1,21 @@
 {
   "is_obsidian_vault": true,
   "smart_blocks": {
+    "embed_blocks": false,
     "embed_model": {
       "model_key": "None",
       "None": {
         "min_chars": 50
       }
-    },
-    "embed_blocks": false
+    }
   },
   "smart_sources": {
     "embed_model": {
       "model_key": "TaylorAI/bge-micro-v2",
+      "legacy_transformers": true,
       "TaylorAI/bge-micro-v2": {
         "min_chars": 50
-      },
-      "legacy_transformers": false
+      }
     },
     "smart_change": {
       "active": "true"
@@ -32,5 +32,10 @@
     }
   },
   "legacy_transformers": true,
-  "excluded_headings": ""
+  "excluded_headings": "",
+  "smart_view_filter": {
+    "exclude_inlinks": "false",
+    "exclude_outlinks": "false"
+  },
+  "smart_chats_folder": "smart-chats"
 }

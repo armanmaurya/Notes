@@ -38,4 +38,4 @@ print(np.linalg.det(a)): This line calculates the determinant of the matrix a us
 
 ---
 **Related Links:**
-- [Matrices](../../../Science/Maths/Matrices/Matrices.md)
+- [Matrices](../../../Maths/Matrices/Matrices.md)

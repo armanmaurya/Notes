@@ -2,7 +2,7 @@
 tags:
   - DSA
 ---
-The [LinkedList](../../LinkedList/LinkedList.md) implementation of the [Queue Data Structure](../Queue%20Data%20Structure.md) is discussed and implemented. Print '-1' if the queue is empty.
+The [LinkedList](../../LinkedList/LinkedList.md) implementation of the [Queue](../Queue.md) is discussed and implemented. Print '-1' if the queue is empty.
 **Approach:** To solve the problem follow the below idea:
 
 > [!note] Note

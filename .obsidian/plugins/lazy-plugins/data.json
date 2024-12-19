@@ -42,7 +42,7 @@
         "startupType": "long"
       },
       "obsidian-excalidraw-plugin": {
-        "startupType": "disabled"
+        "startupType": "short"
       },
       "execute-code": {
         "startupType": "disabled"
@@ -166,6 +166,15 @@
       },
       "persistent-graph": {
         "startupType": "instant"
+      },
+      "obsidian-dictionary-plugin": {
+        "startupType": "disabled"
+      },
+      "obsidian-languagetool-plugin": {
+        "startupType": "instant"
+      },
+      "webpage-html-export": {
+        "startupType": "disabled"
       }
     }
   }

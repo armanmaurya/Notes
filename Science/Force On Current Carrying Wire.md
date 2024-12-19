@@ -1,4 +1,8 @@
-The force on a current-carrying wire in a [Magnetic Field](Physics/Magnetic%20Field.md) determined by the interaction between the [Magnetic Field](Physics/Magnetic%20Field.md) and the moving charges ([Electric Current](Physics/Current/Electric%20Current.md)) in the wire. The formula for the magnetic force (F⃗) on a straight current-carrying wire is given by the following expression:
+---
+tags:
+  - Physics
+---
+The force on a current-carrying wire in a [Magnetic Field](../Physics/Magnetic%20Field.md) determined by the interaction between the [Magnetic Field](../Physics/Magnetic%20Field.md) and the moving charges ([Electric Current](../Physics/Current/Electric%20Current.md)) in the wire. The formula for the magnetic force (F⃗) on a straight current-carrying wire is given by the following expression:
 $$
 \vec{F} = I.(\vec{L} \times \vec{B})
 $$

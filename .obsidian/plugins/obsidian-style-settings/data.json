@@ -6,7 +6,6 @@
   "minimal-style@@ribbon-style": "ribbon-hidden",
   "minimal-style@@tabs-style": "tabs-modern",
   "minimal-style@@tab-stacked-spine-orientation": "tab-stack-top",
-  "minimal-style@@sidebar-lines-off": false,
   "minimal-style@@sidebar-tabs-style": "sidebar-tabs-default",
   "minimal-style@@active-line-on": false,
   "minimal-style@@folding-offset": 32,

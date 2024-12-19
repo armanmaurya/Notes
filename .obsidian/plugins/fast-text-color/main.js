@@ -59,36 +59,36 @@ var TextColor = class {
     this.colorVariable = colorVariable;
     this.className = `${CSS_COLOR_PREFIX}${themeName}-${this.id}`;
   }
-  getCssClass() {
-    return `.${CSS_COLOR_PREFIX}${this.id} { 
-				color : ${this.useCssColorVariable ? `var(${this.colorVariable})` : this.color}
-;
-				${this.italic ? "font-style: italic;\n" : ""}
-				${this.bold ? "font-weight: bold;\n" : ""}
-				${this.line_mode.state != "none" ? `text-decoration: ${this.line_mode.state};
-` : ""}
-				${this.cap_mode.state == "all_caps" ? "text-transform: uppercase;\n" : this.cap_mode.state == "small_caps" ? "font-variant: small-caps;\n" : ""}
-				${VAR_COLOR_PREFIX}${this.id} : ${this.color};
-			    }`;
+  getColorValue() {
+    return this.useCssColorVariable ? `var(${this.colorVariable})` : this.color;
+  }
+  getCssDeclarations(settings) {
+    return [
+      `--ftc-color: ${this.getColorValue()};`,
+      "color: var(--ftc-color);",
+      this.italic ? "font-style: italic;" : "",
+      this.bold ? "font-weight: bold;" : "",
+      this.line_mode.state != "none" ? `text-decoration: ${this.line_mode.state};` : "",
+      this.cap_mode.state == "all_caps" ? "text-transform: uppercase;" : this.cap_mode.state == "small_caps" ? "font-variant: small-caps;" : "",
+      (settings == null ? void 0 : settings.colorCodeSection) ? "--code-normal: var(--ftc-color);" : ""
+    ].filter(Boolean);
+  }
+  getCssClass(settings) {
+    return `.${CSS_COLOR_PREFIX}${this.id} {
+  ` + this.getCssDeclarations(settings).join("\n  ") + `
+  ${VAR_COLOR_PREFIX}${this.id}: ${this.color};
+}`;
   }
   /**
    * get the inner css of the class for the color.
    *
    * @returns {string} the inner css.
    */
-  getInnerCss() {
-    return `color : ${this.useCssColorVariable ? `var(${this.colorVariable})` : this.color};
-${this.italic ? "font-style: italic;\n" : ""}${this.bold ? "font-weight: bold;\n" : ""}${this.line_mode.state != "none" ? `text-decoration: ${this.line_mode.state};
-` : ""}${this.cap_mode.state == "all_caps" ? "text-transform: uppercase;\n" : this.cap_mode.state == "small_caps" ? "font-variant: small-caps;\n" : ""}`;
+  getInnerCss(settings) {
+    return this.getCssDeclarations(settings).join("\n  ");
   }
-  getCssInlineStyle() {
-    return `color : ${this.useCssColorVariable ? `var(${this.colorVariable})` : this.color}
-;
-				${this.italic ? "font-style: italic;" : ""}
-				${this.bold ? "font-weight: bold;" : ""}
-				${this.line_mode.state != "none" ? `text-decoration: ${this.line_mode.state};` : ""}
-				${this.cap_mode.state == "all_caps" ? "text-transform: uppercase;" : this.cap_mode.state == "small_caps" ? "font-variant: small-caps;" : ""}
-				`;
+  getCssInlineStyle(settings) {
+    return this.getCssDeclarations(settings).join(" ");
   }
 };
 var CycleState = class {
@@ -277,7 +277,8 @@ var DEFAULT_SETTINGS = {
   version: SETTINGS_VERSION,
   interactiveDelimiters: true,
   useKeybindings: true,
-  useNodeRebuilding: false
+  useNodeRebuilding: false,
+  colorCodeSection: false
 };
 function getColors(settings, index = -1) {
   if (index == -1) {
@@ -319,7 +320,8 @@ function updateSettings(settings) {
         version: SETTINGS_VERSION,
         interactiveDelimiters: settings.interactiveDelimiters,
         useKeybindings: true,
-        useNodeRebuilding: false
+        useNodeRebuilding: false,
+        colorCodeSection: settings.colorCodeSection
       };
       return outSettings;
     default:
@@ -421,6 +423,13 @@ var FastTextColorPluginSettingTab = class extends import_obsidian4.PluginSetting
       tgl.setValue(settings.useKeybindings).onChange(async (value) => {
         settings.useKeybindings = value;
         await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian4.Setting(containerEl).setName("Color inline code").setDesc("Apply color to inline code.").addToggle((tgl) => {
+      tgl.setValue(settings.colorCodeSection).onChange(async (value) => {
+        settings.colorCodeSection = value;
+        await this.plugin.saveSettings();
+        this.plugin.setCssVariables();
       });
     });
   }
@@ -581,17 +590,17 @@ var import_state = require("@codemirror/state");
 var import_lr = require("@lezer/lr");
 var parser = import_lr.LRParser.deserialize({
   version: 14,
-  states: "%dQQOPOOOcOQO'#C_OqOPO'#C^O!SOPO'#CmOOOO'#Co'#CoQQOPOOOOOO'#Ca'#CaO!eOQO,59UOOOO,58y,58yOOOO,59U,59UO!pOQO'#C_OOOO'#Cp'#CpO!xOPO'#CeOOOO'#Cf'#CfO#ZOPO'#CqO#lOPO'#CdO#lOPO'#CdO#zOPO'#C^OOOO,58x,58xOOOO'#Cr'#CrO$SOPO,59XOOOO,59X,59XOOOO-E6m-E6mOOOO,58{,58{OOOO1G.p1G.pO$eOQO'#CaOOOO-E6n-E6nOOOO,59],59]OOOO-E6o-E6oOOOO,59O,59OO#lOPO,59OOOOO-E6p-E6pOOOO1G.s1G.sOOOO1G.j1G.j",
-  stateData: "$m~OSPOZSO[SObROhSO~OUVOVUO_XO`XO~OSYOZ]O[]O]]OhZO~OSPOZcO[cObeOhcO~OVgO_hO`hO~OUiOVUO~OhZOSXXZXX[XX]XX~OhZOSeXZeX[eX]eX~OSYOZ]O[]O]]O~OSYOhZO~OSPOZcO[cObpOhcO~OVgO~OSZ~",
-  goto: "#lgPPhwP!UPP!Y!^!ePPP!oPP!wP!{#R#Z#fSSOTY^Q_`anTcRdWQORTdZaQ_`anTWPYTbQaS`QaRk^QXQSm_`RqnSSOTTcRdTSOTQTORfTU[Q^aRj[S_QaSl_nRn`QdRRod",
-  nodeNames: "\u26A0 TextColor Expression TcLeft LMarker Description Color InnerMarker TcRight Text REnd RMarker ENDLN EOF Unfinished ColorEOF ColorWS CodeSection CODE",
-  maxTerm: 24,
+  states: "&YQQOPOOOcOQO'#C_OqOPO'#CiO!VOPO'#CgOOOO'#Cp'#CpQQOPOOOOOO'#Ca'#CaO!hOQO,59TOOOO,58y,58yOOOO,59T,59TO!sOQO'#C_OOOO'#Cq'#CqO!{OPO'#CfOOOO'#Cl'#ClO#aOPO'#CrO#uOPO'#CeO#uOPO'#CeO$WOPO'#CtO$lOPO'#CdO$lOPO'#CdO$zOPO'#C^OOOO,58x,58xOOOO'#Cs'#CsO%VOPO,59ROOOO,59R,59ROOOO-E6n-E6nOOOO,58{,58{OOOO1G.o1G.oO%hOQO'#CaOOOO-E6o-E6oOOOO,59^,59^OOOO-E6p-E6pO%mOPO,59POOOO,59`,59`OOOO-E6r-E6rOOOO,59O,59OO$lOPO,59OOOOO-E6q-E6qOOOO1G.m1G.mOOOO1G.j1G.j",
+  stateData: "&R~OSPO[ROaSObSOjSO~OUVOVUO^XO_XO~OSYO[ROa]Ob]Oc]OjZO~OSPO[hOafObfOjfO~OVjO^kO_kO~OUlOVUO~OjZOSYX[YXaYXbYXcYX~OjZOSfX[fXafXbfXcfX~O[ROSXXaXXbXXcXX~O[ROjZOShXahXbhXchX~OSYOa]Ob]Oc]O~OSYO[ROjZO~OSPO[vOafObfOjfO~OVjO~O[ROSXaaXabXacXa~OSa~",
+  goto: "$]iPPjyP!WPP![!`!g!oP!{PP#TPPP#_#e#n#z$QSSOTYaQbcdtTfRgWQORTgZdQbcdtTWPYTeQdScQdRqaU`QadRn^SSOT]^Q_`adpSSOTTfRgQXQSsbcRwtQTORiTW[Q^adRm[U_QadSo_pRp`QgRRugSbQdSrbtRtc",
+  nodeNames: "\u26A0 TextColor Expression TcLeft LMarker Description Color InnerMarker TcRight Text Word CodeSection CODE Unfinished ColorEOF ColorWS REnd RMarker ENDLN EOF",
+  maxTerm: 26,
   skippedNodes: [0],
-  repeatNodeCount: 4,
-  tokenData: "%f~RcXY!^YZ!c]^!^pq!^qr!^rs!^s!_!^!_!`!p!`#O!^#O#P!}#P#S!^#S#T$q#T#r!^#r#s$v#s;'S!^;'S;=`%Z<%l~!^~O!^~~%a~!cOh~~!hPh~YZ!k~!pO[~~!uPh~#r#s!x~!}OZ~~#SXh~rs!^!P!Q!^#O#P!^#U#V!^#Y#Z!^#b#c!^#f#g!^#h#i!^#i#j#o~#rR!Q![#{!c!i#{#T#Z#{~$OR!Q![$X!c!i$X#T#Z$X~$[R!Q![$e!c!i$e#T#Z$e~$hR!Q![!^!c!i!^#T#Z!^~$vOb~~${Ph~!_!`%O~%RP#o#p%U~%ZOS~~%^P;=`<%l!^~%fO]~",
-  tokenizers: [1, new import_lr.LocalTokenGroup("!X~R[X^wpqw#q#r|#y#zw$f$gw#BY#BZw$IS$I_w$I|$JOw$JT$JUw$KV$KWw&FU&FVw~~!R~|O`~~!ROV~~!WO_~~", 54, 6)],
+  repeatNodeCount: 5,
+  tokenData: "%f~RcXY!^YZ!c]^!^pq!^qr!^rs!^s!_!^!_!`!p!`#O!^#O#P!}#P#S!^#S#T$q#T#r!^#r#s$v#s;'S!^;'S;=`%Z<%l~!^~O!^~~%a~!cOj~~!hPj~YZ!k~!pOb~~!uPj~#r#s!x~!}Oa~~#SXj~rs!^!P!Q!^#O#P!^#U#V!^#Y#Z!^#b#c!^#f#g!^#h#i!^#i#j#o~#rR!Q![#{!c!i#{#T#Z#{~$OR!Q![$X!c!i$X#T#Z$X~$[R!Q![$e!c!i$e#T#Z$e~$hR!Q![!^!c!i!^#T#Z!^~$vO[~~${Pj~!_!`%O~%RP#o#p%U~%ZOS~~%^P;=`<%l!^~%fOc~",
+  tokenizers: [1, new import_lr.LocalTokenGroup("!X~R[X^wpqw#q#r|#y#zw$f$gw#BY#BZw$IS$I_w$I|$JOw$JT$JUw$KV$KWw&FU&FVw~~!R~|O_~~!ROV~~!WO^~~", 54, 6)],
   topRules: { "TextColor": [0, 1] },
-  tokenPrec: 164
+  tokenPrec: 230
 });
 
 // src/rendering/language/textColorLanguage.ts
@@ -788,7 +797,7 @@ function handleExpression(ExpressionNode, builder, state) {
   ExpressionNode.node.toTree().iterate({
     // toTree allocates a tree, this might be a point of optimization. TODO optimization
     enter(node) {
-      var _a, _b, _c, _d;
+      var _a, _b, _c;
       switch (node.type.name) {
         case "RMarker":
           let inside = (_a = colorStack.pop()) == null ? void 0 : _a.inside;
@@ -799,10 +808,10 @@ function handleExpression(ExpressionNode, builder, state) {
           return true;
         case "EOF":
         case "ENDLN":
-          (_b = colorStack.pop()) == null ? void 0 : _b.inside;
+          colorStack.pop();
           return true;
         case "TcLeft":
-          if ((_c = colorStack.last()) == null ? void 0 : _c.inside) {
+          if ((_b = colorStack.last()) == null ? void 0 : _b.inside) {
             return true;
           }
           builder.add(node.from + from, node.to + from, import_view3.Decoration.replace({ widget: new MarkerWidget(), block: false }));
@@ -810,7 +819,7 @@ function handleExpression(ExpressionNode, builder, state) {
         case "Color":
           let color = state.sliceDoc(from + node.from, from + node.to);
           colorStack[colorStack.length - 1].color = color;
-          if (((_d = colorStack.last()) == null ? void 0 : _d.inside) && settings.interactiveDelimiters) {
+          if (((_c = colorStack.last()) == null ? void 0 : _c.inside) && settings.interactiveDelimiters) {
             if (stateFrom <= from + node.to && stateTo >= from + node.from) {
               return true;
             }
@@ -818,7 +827,11 @@ function handleExpression(ExpressionNode, builder, state) {
             builder.add(node.from + from, node.to + from, import_view3.Decoration.replace({ widget, block: false }));
           }
           return true;
-        case "Text":
+        case "CodeSection":
+          if (settings.colorCodeSection == false) {
+            return false;
+          }
+        case "Word":
           builder.add(node.from + from, node.to + from, import_view3.Decoration.mark({ class: `${CSS_COLOR_PREFIX}${themeName}-${colorStack[colorStack.length - 1].color}` }));
           return false;
         case "Expression":
@@ -1035,9 +1048,6 @@ var FastTextColorPlugin = class extends import_obsidian8.Plugin {
     this.registerMarkdownPostProcessor((el, ctx) => {
       textColorPostProcessor(el, ctx, this.settings);
     }, -1e3);
-    this.registerMarkdownPostProcessor((el, ctx) => {
-      textColorPostProcessor(el, ctx, this.settings);
-    }, 1e3);
     this.settingsCompartment = new import_state4.Compartment();
     this.settingsExtension = this.settingsCompartment.of(settingsFacet.of(this.settings));
     this.registerEditorExtension(this.settingsExtension);
@@ -1247,15 +1257,25 @@ var FastTextColorPlugin = class extends import_obsidian8.Plugin {
       this.styleElement = root.createEl("style");
       this.styleElement.id = "fast-text-color-stylesheet";
     }
-    this.styleElement.innerText = "";
+    this.styleElement.textContent = "";
+    const formatCss = (css) => {
+      const lines = css.split("\n").map((l) => l.trim()).filter((l) => l.length);
+      if (lines.length <= 5) {
+        return lines.join(" ");
+      }
+      return lines.map((l) => /[{}]/.test(l) ? l : `  ${l}`).join("\n");
+    };
     for (let i = 0; i < this.settings.themes.length; i++) {
       getColors(this.settings, i).forEach((tColor) => {
         const theme = this.settings.themes[i];
         const className = `.${CSS_COLOR_PREFIX}${theme.name}-${tColor.id}`;
         let cssClass = `${className} {
-${tColor.getInnerCss()}}`;
-        this.styleElement.innerText += cssClass + "\n";
+${tColor.getInnerCss(this.settings)}
+}`;
+        this.styleElement.textContent += formatCss(cssClass) + "\n";
       });
     }
   }
 };
+
+/* nosourcemap */

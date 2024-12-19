@@ -1,0 +1,1 @@
+Electromagnetic (EM) waves are waves that are related to both electricity and magnetism. These waves travel over space and are made up of time-varying electric and magnetic fields.

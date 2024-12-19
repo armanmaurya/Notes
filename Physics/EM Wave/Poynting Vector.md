@@ -1,0 +1,1 @@
+Poynting Vector represents the power per unit area transported by an electromagnetic wave. It is denoted by letter ***S***.

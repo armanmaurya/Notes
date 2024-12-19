@@ -1,4 +1,4 @@
-It is an Unsupervised Machine Learning algorithm, which groups the unlabeled dataset into difference clusters.
+It is an **Unsupervised Machine Learning algorithm**, which groups the **unlabeled dataset** into difference clusters.
 'K' in the name of algorithm represents the number of groups/clusters we want to classify out items into.
 It starts by randomly assigning the clusters centroid in the space. Then each data point assign to one of the clusters based on its [Euclidean Distance](Euclidean%20Distance.md) from centroid of the cluster. After assigning each point to one of the cluster, new cluster centroid are assigned. This process runs iteratively until it finds good cluster. In the analysis we assume that number of cluster is given in advanced and we have to put points in one of the group (cluster).
 

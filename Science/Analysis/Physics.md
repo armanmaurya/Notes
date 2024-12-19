@@ -1,4 +1,0 @@
-- Thermodynamics 
-	- Calorimetary 
-		- Internal Inergy
-- Find induced magnetic field when removed form magnetic field

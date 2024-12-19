@@ -1,0 +1,1 @@
+Anode is that [Electrode](Electrode.md) where [Oxidation](Oxidation.md) take place.

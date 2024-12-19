@@ -1,9 +1,5 @@
-# PyTorch Linear Transformation
 
-We could apply linear transformation to the incoming data using the 
-**torch.nn.Linear()** module in PyTorch. This module is designed to create a
-Linear Layer in the neural networks. A linear layer computes the linear
-transformation as below- $$ y= xA^T + b $$ Where,
+We could apply [Linear Transformation](../Neural%20Network/CNN/Object%20Detection/Linear%20Transformation.md) to the incoming data using the **torch.nn.Linear()** module in PyTorch. This module is designed to create a Linear Layer in the neural networks. A linear layer computes the [Linear Transformation](../Neural%20Network/CNN/Object%20Detection/Linear%20Transformation.md) as below- $$ y= xA^T + b $$ Where,
 
 - $x$ is the incoming data. It must be a tensor of dtype float 32 and shape (*,
   in_features).

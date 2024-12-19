@@ -1,3 +1,8 @@
+---
+tags:
+  - DSA
+  - LinkedList
+---
 Given a singly linked list and an integer k, the task is to rotate the linked list to the left by **k** places.
 
 **Example:-**

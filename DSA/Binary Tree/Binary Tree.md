@@ -1,3 +1,8 @@
+---
+tags:
+  - DSA
+  - BinaryTree
+---
 **Binary Tree** is a **non-linear data structure** where each node has at most two children. In this article, we will cover all the basics of Binary Tree. Operations on Binary Tree, its implementation, advantages, disadvantages which will help you solve all the problems based on Binary Tree.
 ![Introduction-to-Binary-Tree|center](images/Introduction-to-Binary-Tree.webp)
 ## What is Binary Tree?

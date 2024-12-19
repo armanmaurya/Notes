@@ -1,0 +1,1 @@
+An electrode is a solid electrical conductor that carries [Electric Current](../../../Physics/Current/Electric%20Current.md) to non-metallic parts of a circuit. These parts can be liquids, gases, plasmas, or vacuums.

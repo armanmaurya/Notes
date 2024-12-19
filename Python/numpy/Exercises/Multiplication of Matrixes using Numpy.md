@@ -43,4 +43,4 @@ Result of the said matrix multiplication:
 ---
 - Related Links:-
 	- [numpy.dot](https://numpy.org/doc/stable/reference/generated/numpy.dot.html)
-	- [Matrices](../../../Science/Maths/Matrices/Matrices.md)
+	- [Matrices](../../../Maths/Matrices/Matrices.md)

@@ -14,7 +14,7 @@ A transformation $T$ is linear if it satisfies two key properties:
 2. Some prop
 
 ## Matrix representation of a Linear Transformation:
-In [Neural Network](../../Neural%20Network.md), linear Transformations are implemented through [Matrix Multiplication](../../../Science/Maths/Matrices/Matrix%20Multiplication.md). Suppose we have:
+In [Neural Network](../../Neural%20Network.md), linear Transformations are implemented through [Matrix Multiplication](../../../Maths/Matrices/Matrix%20Multiplication.md). Suppose we have:
 - An **input vector $x$** with size $n$.
 - A **weight matrix $W$** dimensions $m\times n$ (i.e., $m$ rows and $n$ columns), where $m$ is the size of the output vector.
 - A **bias vector $b$** with size $m$.

@@ -117,4 +117,4 @@ Message received: **PREPARE TO NEGOTIATE**
 
 ---
 **Related Links:**
-- [Matrices](../Science/Maths/Matrices/Matrices.md)
+- [Matrices](../Maths/Matrices/Matrices.md)

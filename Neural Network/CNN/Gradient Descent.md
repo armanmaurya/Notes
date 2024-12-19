@@ -1,10 +1,11 @@
 ---
 tags:
   - AI
+  - MachineLearning
 ---
 Gradient Descent is an iterative optimization algorithm that tries to find the optimum value (Minimum/Maximum) of an objective function. It is one of the most used optimization techniques in [Machine Learning](../../Machine%20Learning/Machine%20Learning.md) projects for updating the parameters of a model in order to minimize a cost function.
 
-The main aim off gradient descent is to find the best parameters of a model which gives the highest on training as well as testing datasets. In gradient descent, The gradient is a [Vector](../../Science/Maths/Vectors/Vector.md) that points in the direction of the steepest increase of the function at a specific point. Moving in the opposite direction of the gradient allows the algorithm to gradually descend towards lower values of the function, and eventually reaching to the minimum of the function.
+The main aim off gradient descent is to find the best parameters of a model which gives the highest on training as well as testing datasets. In gradient descent, The gradient is a [Vector](../../Maths/Vectors/Vector.md) that points in the direction of the steepest increase of the function at a specific point. Moving in the opposite direction of the gradient allows the algorithm to gradually descend towards lower values of the function, and eventually reaching to the minimum of the function.
 ### Steps Required
 - **Step-1**: We first initialize the parameters of the model randomly.
 - **Step-2**: Compute the gradient of the cost function with respect to each parameter. It involves making partial differentiation of the cost (loss) function with respect to the parameters.

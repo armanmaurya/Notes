@@ -1,9 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Things",
   "theme": "obsidian",
   "translucency": false,
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "enabledCssSnippets": [
     "Minimal Theme cards",
     "center img",
@@ -13,8 +13,8 @@
     "Invert Img",
     "style"
   ],
-  "textFontFamily": "DejaVu Serif,Sans Serif Collection,Microsoft Sans Serif",
-  "interfaceFontFamily": "Sans Serif Collection,DejaVu Serif,Microsoft Sans Serif",
+  "textFontFamily": "Avenir,Baskerville,Sans Serif Collection,Microsoft Sans Serif",
+  "interfaceFontFamily": "Microsoft Sans Serif",
   "baseFontSizeAction": false,
   "nativeMenus": false,
   "showViewHeader": true

@@ -87,7 +87,7 @@ class Node {
 ```
 ````
 In this example, the Node class contains an integer data field (***data***) to store the information and a pointer to another Node (***next***) to establish the link to the next node in the list.
-## Operations on Singly Linked List
+## Operations on Singly Linked Listenter
 - **Traversal**
 - **Searching**
 - **Length**

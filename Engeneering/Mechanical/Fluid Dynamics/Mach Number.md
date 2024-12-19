@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics
+---
 The mach number is ratio of the speed of a body to the speed of sound in the **same** surrounding medium.
 $$
 \text{Mach Number (M)} = \frac{\text{local velocity}}{\text{speed of sound}}

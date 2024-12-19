@@ -3,13 +3,12 @@
   "obsidian-git",
   "obsidian-style-settings",
   "tabs",
-  "lazy-plugins",
-  "custom-classes",
   "obsidian-icon-folder",
   "obsidian-image-toolkit",
-  "ink",
   "obsidian-kanban",
-  "smart-connections",
   "persistent-graph",
-  "omnisearch"
+  "obsidian-languagetool-plugin",
+  "smart-connections",
+  "lazy-plugins",
+  "ink"
 ]

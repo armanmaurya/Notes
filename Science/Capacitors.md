@@ -12,7 +12,7 @@ Where,
 1. Parallel Plate Capacitor
 
 ## 1. Parallel Plate Capacitor
-[Electric Field](../Jee/Physics/Electrostatics/Electric%20Field.md) by this capacitor is uniform and is given by 
+[Electric Field](../Physics/Electrostatics/Electric%20Field.md) by this capacitor is uniform and is given by 
 $$
 E = \frac{\sigma}{\epsilon_{o}} = \frac{Q}{2A\epsilon_{o}}
 $$

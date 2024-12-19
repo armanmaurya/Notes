@@ -30,4 +30,4 @@ See [Robotics System Toolbox](https://in.mathworks.com/products/robotics.html) a
 
 ---
 **Related List:**
-- [Matrices](../../../Science/Maths/Matrices/Matrices.md)
+- [Matrices](../../../Maths/Matrices/Matrices.md)
