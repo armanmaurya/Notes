@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"3de783425e4e8fee","x":60,"y":-300,"width":400,"height":940,"type":"file","file":"Python/Django/Django Create Custom User Model.md"},
-		{"id":"d8cf622ee0f3a3cf","x":-540,"y":-120,"width":400,"height":400,"type":"file","file":"Python/Django/Fix CORS Error in Django.md"}
-	],
-	"edges":[
-		{"id":"893f18514f24f0e5","fromNode":"d8cf622ee0f3a3cf","fromSide":"right","toNode":"3de783425e4e8fee","toSide":"left"}
-	]
-}

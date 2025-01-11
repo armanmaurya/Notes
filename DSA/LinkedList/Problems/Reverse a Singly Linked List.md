@@ -30,12 +30,17 @@ Given a linked list, the task is to reverse the linked list by changing the link
 > 
 > Starting from the first node, initialize **curr** with the head of linked list and **next** with the next node of **curr.** Update the next pointer of curr with **prev.** Finally, move the three pointer by updating **prev** with **curr** and **curr** and **next**.
 
-![Reverse-Linked-List-Using-Iterative-Method-1](images/Reverse-Linked-List-Using-Iterative-Method-1.webp)
-![Reverse-Linked-List-Using-Iterative-Method-2](images/Reverse-Linked-List-Using-Iterative-Method-2.webp) 
-![Reverse-Linked-List-Using-Iterative-Method-3](images/Reverse-Linked-List-Using-Iterative-Method-3.webp)
-![Reverse-Linked-List-Using-Iterative-Method-4](images/Reverse-Linked-List-Using-Iterative-Method-4.webp)
-![Reverse-Linked-List-Using-Iterative-Method-5](images/Reverse-Linked-List-Using-Iterative-Method-5.webp) 
-![Reverse-Linked-List-Using-Iterative-Method-6](images/Reverse-Linked-List-Using-Iterative-Method-6.webp)
+![Reverse-Linked-List-Using-Iterative-Method-1z|center](images/Reverse-Linked-List-Using-Iterative-Method-1.webp)
+
+![Reverse-Linked-List-Using-Iterative-Method-2|center](images/Reverse-Linked-List-Using-Iterative-Method-2.webp) 
+
+![Reverse-Linked-List-Using-Iterative-Method-3|center](images/Reverse-Linked-List-Using-Iterative-Method-3.webp)
+
+![Reverse-Linked-List-Using-Iterative-Method-4|center](images/Reverse-Linked-List-Using-Iterative-Method-4.webp)
+
+![Reverse-Linked-List-Using-Iterative-Method-5|center](images/Reverse-Linked-List-Using-Iterative-Method-5.webp) 
+
+![Reverse-Linked-List-Using-Iterative-Method-6|center](images/Reverse-Linked-List-Using-Iterative-Method-6.webp)
 Follow the steps below to solve the problem:
 - Initialize three pointers **prev** as *NULL*, **curr** as **head**, and **next** as *NULL*. 
 - Iterate through the linked list. In a loop, do the following:

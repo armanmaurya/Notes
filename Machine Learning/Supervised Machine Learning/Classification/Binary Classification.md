@@ -1,0 +1,1 @@
+In binary Classification, the goal is to classify the input into one of two classes or categories. Example - On the basis of the given health condition of a person, we have to determine whether the person has a certain disease or not.

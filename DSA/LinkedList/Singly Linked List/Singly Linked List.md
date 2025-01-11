@@ -5,7 +5,7 @@ tags:
 ---
 A **singly linked list** is a fundamental data structure in computer science and programming, it consists of ***nodes*** where each node contains a ***data*** field and a ***reference*** to the next node in the node. The last node points to ***null***, indicating the end of the list. This linear structure supports efficient insertion and deletion operations, making it widely used in various applications. In this tutorial, we’ll explore the node structure, understand the operations on singly linked lists (traversal, searching, length determination, insertion, and deletion), and provide detailed explanations and code examples to implement these operations effectively.
 ## What is Singly Linked List?
-A ***singly linked list*** is a fundamental data structure in computer science and programming. It is a collection of nodes where each node contains a ***data field*** and a ***reference*** (link) to the next node in the sequence. The last node in the list points to ***null***, indicating the end of the list. This linear data structure allows for efficient insertion and deletion operations, making it a popular choice for various applications.
+A ***singly linked list***  is a fundamental data structure in computer science and programming. It is a collection of nodes where each node contains a ***data field*** and a ***reference***  (link) to the next node in the sequence. The last node in the list points to ***null***, indicating the end of the list. This linear data structure allows for efficient insertion and deletion operations, making it a popular choice for various applications.
 ## Understanding Node Structure
 In a singly linked list, each node consists of two parts: data and a pointer to the next node. The data part stores the actual information, while the pointer (or reference) part stores the address of the next node in the sequence. This structure allows nodes to be dynamically linked together, forming a chain-like sequence.
 
@@ -88,10 +88,10 @@ class Node {
 ````
 In this example, the Node class contains an integer data field (***data***) to store the information and a pointer to another Node (***next***) to establish the link to the next node in the list.
 ## Operations on Singly Linked Listenter
-- **Traversal**
-- **Searching**
-- **Length**
-- **Insertion:**
+- [**Traversal** ](#**Traversal**%20in%20Singly%20Linked%20List)
+- [**Searching**](#**Searching**)
+- [**Finding Length**](#**Finding%20Length**)
+- [Insertion](#Insertion%20in%20Singly%20Linked%20List)
     - Insert at the beginning
     - Insert at the end
     - Insert at a specific position
@@ -101,7 +101,7 @@ In this example, the Node class contains an integer data field (***data***) to s
     - Delete a specific node
 
 Let’s go through each of the operations mentioned above, one by one.
-## ***Traversal*** in Singly Linked List
+## **Traversal**  
 Traversal involves visiting each node in the linked list and performing some operation on the data. A simple traversal function would print or process the data of each node.
 
 Step-by-step approach:
@@ -223,7 +223,7 @@ function traverseLinkedList(head) {
 }
 ```
 ````
-## Searching in Singly Linked List
+## **Searching**
 Searching in a Singly Linked List refers to the process of looking for a specific element or value within the elements of the linked list.
 
 Step-by-step approach:
@@ -346,7 +346,7 @@ function searchLinkedList(head, target) {
 
 ```
 ````
-## Finding Length in Singly Linked List
+## **Finding Length**
 Finding Length in Singly Linked List refers to the process of determining the total number of nodes in a singly linked list.
 
 Step-by-step approach:

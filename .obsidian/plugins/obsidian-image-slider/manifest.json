@@ -1,0 +1,10 @@
+{
+	"id": "image-slider",
+	"name": "Image Slider",
+	"version": "1.0.7",
+	"minAppVersion": "0.15.0",
+	"description": "Create image sliders in Obsidian.",
+	"author": "Arman Maurya",
+	"authorUrl": "https://github.com/armanmaurya",
+	"isDesktopOnly": false
+}

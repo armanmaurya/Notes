@@ -4,77 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5691ff1c48000354",
+        "id": "2d2e43aea24c87f9",
         "type": "tabs",
         "children": [
           {
-            "id": "5c68cf3a8d125632",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "6fd12c55c10242b9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e7adc2b339a091a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "1870fe0696a4460e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "a11445243dfbe314",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Microcontrollers/PIC Microcontroller/PIC Microcontrollers - Programming in C.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "PIC Microcontrollers - Programming in C"
-            }
-          },
-          {
-            "id": "df4d3c0967b5aff7",
+            "id": "7b8a0c1bdf0bda0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/EMI/Ampere's Circuital Law.md",
+                "file": "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Mean Absolute Error.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ampere's Circuital Law"
+              "title": "Mean Absolute Error"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "13142d84d2d3b245",
@@ -139,14 +87,15 @@
       {
         "id": "2a54a618c7f98b8d",
         "type": "tabs",
-        "dimension": 46.93627450980392,
+        "dimension": 75.49019607843137,
         "children": [
           {
-            "id": "aef4c67603b39791",
+            "id": "fa3830dbf7064985",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning/Unsupervised Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,47 +105,47 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Unsupervised Machine Learning"
             }
           },
           {
-            "id": "3a233f8784bee8d4",
+            "id": "9d6c29d0a5246fc7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Binary Tree/Threaded Binary Tree.md",
+                "file": "Machine Learning/Unsupervised Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Threaded Binary Tree"
+              "title": "Outgoing links from Unsupervised Machine Learning"
             }
           },
           {
-            "id": "59f3c795b7690d1e",
+            "id": "ef20c44f48fcff79",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microcontrollers/PIC Microcontroller/PIC Microcontrollers - Programming in C.pdf"
+                "file": "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Mean Absolute Error.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of PIC Microcontrollers - Programming in C"
+              "title": "Outline of Mean Absolute Error"
             }
           },
           {
-            "id": "67264bb909c41d40",
+            "id": "a6c5b2a1fe3932e6",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "smart-search-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "304ae735a23c66e8",
+            "id": "2f6a318091dab1d0",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -206,17 +155,7 @@
             }
           },
           {
-            "id": "7659ce90dfd411bd",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d747f71aa753859c",
+            "id": "c81ac66fab0d9e17",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -224,14 +163,24 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "23ec7d3e6d4cafb9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "7d90aea00fe5a964",
         "type": "tabs",
-        "dimension": 53.06372549019608,
+        "dimension": 24.50980392156863,
         "children": [
           {
             "id": "9ef5e4c3cf8bd343",
@@ -239,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microcontrollers/PIC Microcontroller/PIC Microcontrollers - Programming in C.pdf",
+                "file": "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Mean Absolute Error.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,30 +211,30 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.579769129346498,
+                  "scale": 0.6466235555056282,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of PIC Microcontrollers - Programming in C"
+              "title": "Graph of Mean Absolute Error"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 541.5
+    "width": 503.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
       "random-note:Open random note": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false,
       "obsidian-custom-frames:Open ChatGPT": false,
@@ -298,55 +247,56 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "67264bb909c41d40",
+  "active": "7b8a0c1bdf0bda0f",
   "lastOpenFiles": [
-    "Microcontrollers/Interrupt.md",
-    "Microcontrollers/PIC Microcontroller",
-    "Microcontrollers/PIC Microcontroller/PIC Microcontrollers - Programming in C.pdf",
+    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Mean Absolute Error.md",
+    "Machine Learning/Support Vector Machine.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Linear Regression.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Regression.md",
+    "Machine Learning/Regression in Machine Learning.md",
+    "Machine Learning/Regression.md",
+    "Machine Learning/Linear Regression/Regression in Machine Learning.md",
+    "Machine Learning/Linear Regression/Simple Linear Regression.md",
+    "Machine Learning/Supervised Machine Learning/Classification/Classification.md",
+    "Neural Network/CNN/Regression Losses.md",
+    "Neural Network/Binary Cross Entropy Loss.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Mean Squared Error.md",
+    "Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
+    "Neural Network/CNN/Gradient Descent.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Simple Linear Regression.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Mean.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Multiple Linear Regression.md",
+    "DSA/LinkedList/LinkedList.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression",
+    "Machine Learning/Supervised Machine Learning/Regression/Untitled.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Random Forest Regression.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Decision Tree Regression.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Support Vector Regression.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Polynomial Regression.md",
+    "Machine Learning/Supervised Machine Learning/Classification/Binary Classification.md",
+    "Machine Learning/Supervised Machine Learning/Regression",
+    "Machine Learning/Supervised Machine Learning/Classification",
+    "Machine Learning/Supervised Machine Learning/Binar.md",
+    "Machine Learning/Supervised Machine Learning",
+    "Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md",
+    "Machine Learning/Unsupervised Machine Learning/Dimensionality Reduction",
+    "Machine Learning/Unsupervised Machine Learning/Association Rule Learning",
+    "Machine Learning/Unsupervised Machine Learning/Clustering Alogrithms",
+    "Machine Learning/Unsupervised Machine Learning",
+    "Machine Learning/Images/Unsupervised Machine Learning Illustration.png",
+    "Machine Learning/Linear Regression",
+    "Eledtrical Notes.canvas",
+    "Python/Django/Django Canva.canvas",
+    "DSA/LinkedList/Problems/images/Rotate-a-Linked-List-by-6-places-6.webp",
+    "Arduino/Images/Program-nano-with-uno-connection.webp",
+    "Arduino/Images",
     "Pasted image 20241216183609.png",
     "Microcontrollers/Images/Oscillator.png",
-    "Microcontrollers/Oscillator.md",
-    "Microcontrollers/Serial Peripheral Interface Bus.md",
-    "Microcontrollers/Inter Integrated Circuit (I2C).md",
-    "Microcontrollers/Baud Rate.md",
     "Microcontrollers/Images/SPI.png",
-    "Microcontrollers/Bus.md",
-    "Microcontrollers/ELECTRICALLY ERASABLE PROGRAMMABLE ROM (EEPROM).md",
-    "Microcontrollers/Register.md",
-    "Maths/Matrices/Methods Of Finding Rank.md",
     "Microcontrollers/Images/Register.png",
-    "Microcontrollers/Images",
-    "Maths/Indefinite Integration/Integration by Parts.md",
-    "Microcontrollers",
-    "Maths/Indefinite Integration/Method Of Integration.md",
-    "Maths/Indefinite Integration/Integration by Substitution.md",
-    "Maths/Indefinite Integration/Theorems of Integration.md",
-    "Maths/Indefinite Integration/Indefinite Integration.md",
-    "Physics/EMI/Ampere's Circuital Law.md",
-    "Chemistry/Hydrogen Spectrum.md",
-    "Chemistry/Matter Wave.md",
-    "Physics/Momentum of EM Waves.md",
-    "Physics/Photoelectric Effect.md",
-    "Physics/Current/Electric Current.md",
-    "Neural Network/CNN/Semantic Segmentation.md",
-    "Maths/Matrices/Rank Of A Matrix.md",
-    "Physics/Electrostatics/Electric Charge.md",
-    "Physics/Electrostatics/Electric Field.md",
-    "Physics/EM Wave/Displacement Current.md",
-    "Electrical Exam Short Notes",
-    "smart-chats",
-    "Computer Vision",
-    "Untitled.canvas",
-    "Eledtrical Notes.canvas",
-    "Ink/Drawing/2024.9.16 - 10.24am.drawing",
-    "Ink/Drawing/2024.9.15 - 12.19pm.drawing",
     "Centroid.svg",
-    "Physics/EM Wave/ELECTROMAGNETIC NCERT.pdf",
     "Science/Maths/Vectors/Images/position_in_two_dimensions_definition.png",
     "Maths/Vectors/Images/position_in_two_dimensions_definition.jpg",
-    "DSA/Sorting Algorithms/Merge Sort/Images/Merge-Sort-4.webp",
-    "DSA/Sorting Algorithms/Merge Sort/Images/Merge-Sort-3.webp",
-    "DSA/Sorting Algorithms/Merge Sort/Images/Merge-Sort-2.webp",
     "Untitled 1.canvas"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Things",
+  "cssTheme": "Green Nightmare",
   "theme": "obsidian",
   "translucency": false,
   "baseFontSize": 18,
@@ -13,9 +13,10 @@
     "Invert Img",
     "style"
   ],
-  "textFontFamily": "Avenir,Baskerville,Sans Serif Collection,Microsoft Sans Serif",
-  "interfaceFontFamily": "Microsoft Sans Serif",
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
   "baseFontSizeAction": false,
   "nativeMenus": false,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "monospaceFontFamily": ""
 }

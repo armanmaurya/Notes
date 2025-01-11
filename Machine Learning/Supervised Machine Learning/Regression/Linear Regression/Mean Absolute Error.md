@@ -1,0 +1,1 @@
+- Calculates the **average difference between the calculated values and actual values.**

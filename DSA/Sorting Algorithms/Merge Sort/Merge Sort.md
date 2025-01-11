@@ -22,6 +22,10 @@ Here's a step-by-step explanation of how merge sort works:
 
 ## Illustration of Merge Sort:
 Let's sort the array or list **[38, 27, 43, 10]** using Merge Sort:
+```slider
+[Merge-Sort-1](Images/Merge-Sort-1.webp)
+[Merge-Sort-2](Images/Merge-Sort-2.webp)
+```
 ![center](Images/Merge-Sort-1.webp)
 ![center](Images/Merge-Sort-2.webp)
 ![center](Images/Merge-Sort-3.webp)

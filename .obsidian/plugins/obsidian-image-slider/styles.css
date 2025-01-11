@@ -1,0 +1,45 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+/* Hover - Cursor Change*/
+.hover\:cursor-pointer:hover { cursor: pointer; }
+.image-slider-container {
+    position: relative;
+    user-select: none;
+    overflow: hidden;
+}
+.image-slider-nav-buttons-container {
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    bottom: 0;
+    gap: 20px;
+    background-color: rgba(5, 5, 5, 0.5);
+}
+
+.image-slider-nav-button:hover {
+    cursor: pointer;
+}
+
+.image-slider-image-container {
+    display: flex;
+    flex-direction: row;
+    overflow-x: hidden;
+}
+
+.image-slider-nav-button-reverse {
+    transform: rotate(180deg);
+}
+.image-slider-image {
+    max-width: 100%;
+    transition: transform 0.5s ease-in-out;
+}
+

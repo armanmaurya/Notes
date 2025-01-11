@@ -107,7 +107,6 @@ Binary Cross-Entropy is widely used in the field of deep learning, especially in
 ## Advantages
 1. **Probabilistic Interpretation**: Binary Cross-Entropy loss provides a probabilistic interpretation. It allows the model to output the probabilities of each class, which could be useful in understanding the model’s confidence in its decisions.
 2. **Stability**: When used with a sigmoid activation function, Binary Cross-Entropy can be quite stable, as it’s less likely to reach extreme values.
-3. **Performance**: It often results in better performance in classification tasks compared to other loss functions like [Mean Squared Error](CNN/Mean%20Squared%20Error.md).
 
 ## Disadvantages
 1. **Binary Classification Only**: Binary Cross-Entropy is only suitable for binary classification problems. For multi-class classification problems, one would need to use Categorical Cross-Entropy.

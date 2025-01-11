@@ -16,7 +16,6 @@ The Interpreting MSE involves understanding the magnitude of the error and its i
 - A lower MSE indicates that the model’s predictions are closer to the actual values signifying better accuracy.
 - Conversely, a higher MSE suggests that the model’s predictions deviate further from true values indicating the poorer performance.
 ## Significance
-The Mean Squared Error is widely used in the various fields including the statistics, [Machine Learning](../../Machine%20Learning/Machine%20Learning.md) and econometrics due to its several important properties:
 - It provides the quantitative measure of the accuracy of the predictive models.
 - It penalizes large errors more heavily than small errors making it sensitive to the outliers.
 - It is mathematically convenient and easy to the interpret making it a preferred choice for the evaluating model performance.

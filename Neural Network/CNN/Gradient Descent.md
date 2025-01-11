@@ -56,7 +56,7 @@ function update_parameters(θ, gradient, learning_rate):
     θ = θ - learning_rate ⨉ gradient
 ```
 ## Behind Mathematics
-In the [Machine Learning](../../Machine%20Learning/Machine%20Learning.md) Regression problem, our model targets to get the best-fit regression line to predict the value $y$ based on the given input value $(x)$. While training the model, the model calculates the cost (loss) function like Root [Mean Squared Error](Mean%20Squared%20Error.md) between the predicted value (pred) and true value $(y)$. Our model targets to minimize this cost function.
+In the [Machine Learning](../../Machine%20Learning/Machine%20Learning.md) Regression problem, our model targets to get the best-fit regression line to predict the value $y$ based on the given input value $(x)$. While training the model, the model calculates the cost (loss) function like **Root Mean Squared Error**  between the predicted value (pred) and true value $(y)$. Our model targets to minimize this cost function.
 
 To minimize this cost function, the model needs to have the best value of $\theta_1$ and $\theta_{2}$ (for Univariate linear regression problem). Initially model selects $\theta_{1}$ and $\theta_{2}$ values randomly and then iteratively update these value in order to minimize the cost (loss) function until it reaches the minimum. By the time model achieves the minimum cost (loss) function. It will have the best $\theta_{1}$ and $\theta_{2}$ values. Using these updated values of $\theta_{1}$ and t $\theta_{2}$ in the hypothesis equation of linear equation, our model will predict the output value y.
 ### How Does Gradient Descent Work
