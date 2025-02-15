@@ -1,0 +1,1 @@
+Poynting's theorem states that **the rate of energy transfer per unit volume from a region of space equals the rate of work done on the charge distribution in the region, plug the energy flux leaving that region**.

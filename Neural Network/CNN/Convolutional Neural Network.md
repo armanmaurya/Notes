@@ -8,7 +8,7 @@ tags:
 # CNN
 Convolutional Neural Network (CNN) is the extended version of artificial neural networks (ANN) which is predominantly used to extract the feature from the grid-like matrix dataset. For example visual datasets like images or videos where data patterns play an extensive role.
 
-![center](images/1_jUP5jJMkJOYq-jCzsfXtow.webp)
+![center](../images/1_jUP5jJMkJOYq-jCzsfXtow.webp)
 
 The example above uses a robot as the input image and multiple feature maps for processing. You can see that the model produces an output via convolutions and subsampling.
 ## Architecture
@@ -44,7 +44,7 @@ Let’s take an example by running a covnets on of image of dimension $32 \times
 - **[Fully Connected Layers](Object%20Detection/Fully%20Connected%20Layer.md):** It takes the input from the previous layer and computes the final classification or regression task.
 
 ![layer-used-to-build-convnet](../images/layer-used-to-build-convnet.jpg)
-- **Output Layer:** The output from the fully connected layers is then fed into a logistic function for classification tasks like sigmoid or [Softmax](../../Engeneering/Computer%20Science/Deep%20Learning/Softmax%20Layer.md) which converts the output of each class into the probability score of each class.
+- **Output Layer:** The output from the fully connected layers is then fed into a logistic function for classification tasks like sigmoid or [Softmax](../../B.Tech/Computer%20Science/Deep%20Learning/Softmax%20Layer.md) which converts the output of each class into the probability score of each class.
 
 ## Example: Applying CNN to an Image
 Let’s consider an image and apply the convolution layer, activation layer, and pooling layer operation to extract the inside feature.

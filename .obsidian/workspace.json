@@ -4,24 +4,100 @@
     "type": "split",
     "children": [
       {
-        "id": "2d2e43aea24c87f9",
+        "id": "3e3252a30e2dbbd8",
         "type": "tabs",
+        "dimension": 55.714285714285715,
         "children": [
           {
-            "id": "7b8a0c1bdf0bda0f",
+            "id": "2e06d6604dd7ce38",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.geeksforgeeks.org/getting-started-with-classification/",
+                "title": "Getting started with Classification - GeeksforGeeks",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Getting started with Classification - GeeksforGeeks"
+            }
+          },
+          {
+            "id": "c3026d8478128dbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Mean Absolute Error.md",
+                "file": "B.Tech/Electronics and Communication/Engineering Mathematics/Leibnitz's Theorem.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mean Absolute Error"
+              "title": "Leibnitz's Theorem"
+            }
+          },
+          {
+            "id": "3500fffa5acfeba7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "574194579d024668",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.geeksforgeeks.org/understanding-logistic-regression/",
+                "title": "Logistic Regression in Machine Learning - GeeksforGeeks",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Logistic Regression in Machine Learning - GeeksforGeeks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f10e02f384b61344",
+        "type": "tabs",
+        "dimension": 44.285714285714285,
+        "children": [
+          {
+            "id": "f67c38727737307d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Supervised Machine Learning/Classification/Classification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classification"
+            }
+          },
+          {
+            "id": "832bca784660592b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B.Tech/Electronics and Communication/Engineering Mathematics/Leibnitz's Theorem.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leibnitz's Theorem"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +116,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "right": {
     "id": "13142d84d2d3b245",
@@ -87,7 +163,7 @@
       {
         "id": "2a54a618c7f98b8d",
         "type": "tabs",
-        "dimension": 75.49019607843137,
+        "dimension": 50.857843137254896,
         "children": [
           {
             "id": "fa3830dbf7064985",
@@ -128,20 +204,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Mean Absolute Error.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mean Absolute Error"
-            }
-          },
-          {
-            "id": "a6c5b2a1fe3932e6",
-            "type": "leaf",
-            "state": {
-              "type": "smart-search-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline"
             }
           },
           {
@@ -155,16 +223,6 @@
             }
           },
           {
-            "id": "c81ac66fab0d9e17",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "23ec7d3e6d4cafb9",
             "type": "leaf",
             "state": {
@@ -173,14 +231,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "abc367f3b00344a8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "7d90aea00fe5a964",
         "type": "tabs",
-        "dimension": 24.50980392156863,
+        "dimension": 49.1421568627451,
         "children": [
           {
             "id": "9ef5e4c3cf8bd343",
@@ -188,7 +256,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Mean Absolute Error.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,12 +278,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6466235555056282,
+                  "scale": 0.32676176645865584,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Mean Absolute Error"
+              "title": "Graph view"
             }
           }
         ]
@@ -238,65 +305,65 @@
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false,
       "obsidian-custom-frames:Open ChatGPT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "surfing:surfing-bookmark-manager": false,
       "vault-size-history:Vault size history": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-gallery:Gallery": false,
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "7b8a0c1bdf0bda0f",
+  "active": "3500fffa5acfeba7",
   "lastOpenFiles": [
-    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Mean Absolute Error.md",
-    "Machine Learning/Support Vector Machine.md",
-    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Linear Regression.md",
-    "Machine Learning/Supervised Machine Learning/Regression/Regression.md",
-    "Machine Learning/Regression in Machine Learning.md",
-    "Machine Learning/Regression.md",
-    "Machine Learning/Linear Regression/Regression in Machine Learning.md",
-    "Machine Learning/Linear Regression/Simple Linear Regression.md",
+    "Microcontrollers/Register.md",
+    "Electronics",
+    "Microcontrollers/Oscillator.md",
+    "Microcontrollers/Baud Rate.md",
+    "Linux/Core Tools/nmcli/nmcli.md",
+    "B.Tech/Electronics and Communication/Engineering Mathematics/Leibnitz's Theorem.md",
+    "Machine Learning/Supervised Machine Learning/Classification/Logistic Regression/Logistic Regression.md",
+    "Maths/Differential Calculus - I/Successive Differrentiation.md",
+    "B.Tech/Electronics and Communication/Engineering Mathematics/Successive Differentiation.md",
+    "Physics/Rotation/Angular Momentum.md",
     "Machine Learning/Supervised Machine Learning/Classification/Classification.md",
-    "Neural Network/CNN/Regression Losses.md",
-    "Neural Network/Binary Cross Entropy Loss.md",
-    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Mean Squared Error.md",
-    "Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
-    "Neural Network/CNN/Gradient Descent.md",
-    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Simple Linear Regression.md",
-    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Mean.md",
-    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Multiple Linear Regression.md",
-    "DSA/LinkedList/LinkedList.md",
-    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression",
-    "Machine Learning/Supervised Machine Learning/Regression/Untitled.md",
-    "Machine Learning/Supervised Machine Learning/Regression/Random Forest Regression.md",
-    "Machine Learning/Supervised Machine Learning/Regression/Decision Tree Regression.md",
-    "Machine Learning/Supervised Machine Learning/Regression/Support Vector Regression.md",
-    "Machine Learning/Supervised Machine Learning/Regression/Polynomial Regression.md",
+    "Physics/Electromagnetic Theory",
+    "Machine Learning/Supervised Machine Learning/Classification/Logistic Regression",
     "Machine Learning/Supervised Machine Learning/Classification/Binary Classification.md",
-    "Machine Learning/Supervised Machine Learning/Regression",
-    "Machine Learning/Supervised Machine Learning/Classification",
-    "Machine Learning/Supervised Machine Learning/Binar.md",
-    "Machine Learning/Supervised Machine Learning",
-    "Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md",
-    "Machine Learning/Unsupervised Machine Learning/Dimensionality Reduction",
-    "Machine Learning/Unsupervised Machine Learning/Association Rule Learning",
-    "Machine Learning/Unsupervised Machine Learning/Clustering Alogrithms",
-    "Machine Learning/Unsupervised Machine Learning",
+    "Machine Learning/Supervised Machine Learning/Regression/Regression.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Linear Regression.md",
+    "DSA/Sorting Algorithms/Insertion Sort/Insertion Sort.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Multiple Linear Regression.md",
+    "B.Tech/Aerospace/Propellers/Blade Angle.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Ridge Regression.md",
+    "What is Ridge Regression.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Linear Regression/Untitled",
+    "Understanding-Ridge-Regression-copy.webp",
+    "Machine Learning/Supervised Machine Learning/Regression/Decision Tree Regression.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Polynomial Regression.md",
+    "Machine Learning/Supervised Machine Learning/Regression/Random Forest Regression.md",
+    "DSA/Sorting Algorithms/Selection Sort/Selection Sort.md",
+    "DSA/Sorting Algorithms/Bubble Sort/Bubble Sort.md",
+    "DSA/Sorting Algorithms/Sorting Algorithms.md",
+    "DSA/Sorting Algorithms/Insertion Sort",
+    "Maths/Indefinite Integration/Integration by Substitution.md",
+    "Machine Learning/Unsupervised Machine Learning/Dimensionality Reduction/Principal Component Analysis.md",
+    "DSA/Sorting Algorithms/Selection Sort",
+    "B.Tech/Aerospace/Propellers/images/Thrust-and-torque-of-propeller.png",
+    "B.Tech/Aerospace/Propellers/images/Propeller-nomencalture.png",
+    "Maths/Differential Calculus - I",
+    "B.Tech/Physics/Unit 2-NOTES.pdf",
+    "B.Tech/Physics/NEWTON’S RING.pdf",
+    "Physics/EM Wave/Images/Electromagnetic-wave.png",
+    "Physics/EM Wave/Images",
     "Machine Learning/Images/Unsupervised Machine Learning Illustration.png",
-    "Machine Learning/Linear Regression",
     "Eledtrical Notes.canvas",
     "Python/Django/Django Canva.canvas",
     "DSA/LinkedList/Problems/images/Rotate-a-Linked-List-by-6-places-6.webp",
     "Arduino/Images/Program-nano-with-uno-connection.webp",
-    "Arduino/Images",
-    "Pasted image 20241216183609.png",
+    "Machine Learning/Images/Pasted image 20241216183609.png",
     "Microcontrollers/Images/Oscillator.png",
     "Microcontrollers/Images/SPI.png",
-    "Microcontrollers/Images/Register.png",
-    "Centroid.svg",
-    "Science/Maths/Vectors/Images/position_in_two_dimensions_definition.png",
-    "Maths/Vectors/Images/position_in_two_dimensions_definition.jpg",
     "Untitled 1.canvas"
   ]
 }

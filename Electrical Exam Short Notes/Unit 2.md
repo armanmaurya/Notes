@@ -1,2 +1,0 @@
-## Bandwidth ($\Delta f$)
- It is defined as the band of frequencies which lies on either side of resonating frequency where the circuit current reduces to 1/√2 times its value at resonance. Narrower is the bandwidth, higher the selectivity of the circuit and vice versa.

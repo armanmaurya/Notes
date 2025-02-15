@@ -272,11 +272,11 @@ var DEFAULT_COLORS = [
   new TextColor("#000000", `black`, "default", false, false, 0, 0, "K")
 ];
 var DEFAULT_SETTINGS = {
-  themes: [new TextColorTheme("default", DEFAULT_COLORS), new TextColorTheme("builtin", BUILTIN_COLORS)],
+  themes: [new TextColorTheme("builtin", BUILTIN_COLORS), new TextColorTheme("default", DEFAULT_COLORS)],
   themeIndex: 0,
   version: SETTINGS_VERSION,
   interactiveDelimiters: true,
-  useKeybindings: true,
+  useKeybindings: false,
   useNodeRebuilding: false,
   colorCodeSection: false
 };
@@ -342,7 +342,7 @@ var FastTextColorPluginSettingTab = class extends import_obsidian4.PluginSetting
     const { settings } = this.plugin;
     containerEl.empty();
     new import_obsidian4.Setting(containerEl).setName("Colors").setHeading();
-    new import_obsidian4.Setting(containerEl).setName("Set active theme").setDesc("Set global active theme.").addDropdown((dd) => {
+    new import_obsidian4.Setting(containerEl).setName("Set active theme").setDesc("Set the active theme that will be used to color text. \nCan be overwritten per note by setting the property ftcTheme to a valid theme name.").addDropdown((dd) => {
       let count2 = 0;
       settings.themes.forEach((theme) => {
         dd.addOption(count2.toString(), theme.name);
@@ -391,7 +391,7 @@ var FastTextColorPluginSettingTab = class extends import_obsidian4.PluginSetting
     themeColorsEl.addClass("ftc-theme-colors");
     let count = 1;
     getColors(settings, this.editThemeIndex).forEach((color) => {
-      this.createColorSetting(themeColorsEl, color, count);
+      this.createColorSetting(themeColorsEl, color, count, this.editThemeIndex);
       count++;
     });
     new import_obsidian4.Setting(containerEl).setName("Add new color to theme").setClass("ftc-settings-theme-footer").addText((txt) => {
@@ -405,6 +405,7 @@ var FastTextColorPluginSettingTab = class extends import_obsidian4.PluginSetting
           return tColor.id == this.newId;
         })) {
           new import_obsidian4.Notice(`color with id ${this.newId} already exists!`);
+          return;
         }
         let newColorName = this.newId == "" ? (colors.length + 1).toString() : this.newId;
         colors.push(new TextColor("#ffffff", newColorName, getCurrentTheme(settings, this.editThemeIndex).name));
@@ -440,7 +441,7 @@ var FastTextColorPluginSettingTab = class extends import_obsidian4.PluginSetting
    * @param {TextColor} tColor - the color to be used for display
    * @param {number} count - the index of the color
    */
-  createColorSetting(container, tColor, count) {
+  createColorSetting(container, tColor, count, themeindex) {
     let nameFragment = new DocumentFragment();
     let nameDiv = nameFragment.createDiv();
     nameDiv.addClass("ftc-name-div");
@@ -544,25 +545,25 @@ var FastTextColorPluginSettingTab = class extends import_obsidian4.PluginSetting
       });
       btn.buttonEl.toggleClass("ftc-format-item-enabled", tColor.useCssColorVariable);
     }).addButton((btn) => {
-      btn.setIcon("chevron-up").setTooltip("move item up").setClass("ftc-move-btn-left").onClick(async (evt) => {
-        moveColor(count - 1, -1, this.plugin.settings);
+      btn.setIcon("chevron-up").setTooltip("move item up").setClass("ftc-move-btn-left").onClick(async (_) => {
+        moveColor(count - 1, -1, this.plugin.settings, themeindex);
         await this.plugin.saveSettings();
         this.display();
       });
     }).addButton((btn) => {
-      btn.setIcon("chevron-down").setTooltip("move item down").setClass("ftc-move-btn-right").onClick(async (evt) => {
-        moveColor(count - 1, 1, this.plugin.settings);
+      btn.setIcon("chevron-down").setTooltip("move item down").setClass("ftc-move-btn-right").onClick(async (_) => {
+        moveColor(count - 1, 1, this.plugin.settings, themeindex);
         await this.plugin.saveSettings();
         this.display();
       });
     }).addButton((btn) => {
-      btn.setIcon("trash").setTooltip("delete color").setClass("ftc-move-btn-right").onClick(async (evt) => {
+      btn.setIcon("trash").setTooltip("delete color").setClass("ftc-move-btn-right").onClick(async (_) => {
         if (await confirmByModal(
           this.app,
           `Colored section whith the id "${tColor.id}" will no longer be colored until you add another color with that id.`,
           `Delete color: ${tColor.id}`
         )) {
-          getColors(this.plugin.settings).remove(tColor);
+          getColors(this.plugin.settings, themeindex).remove(tColor);
         }
         await this.plugin.saveSettings();
         this.display();
@@ -570,13 +571,14 @@ var FastTextColorPluginSettingTab = class extends import_obsidian4.PluginSetting
     });
   }
 };
-function moveColor(index, direction, settings) {
+function moveColor(index, direction, settings, themeindex) {
   if (direction < 0 && index == 0 || direction > 0 && index == getColors(settings).length - 1) {
     return;
   }
-  let temp = getColors(settings)[index + direction];
-  getColors(settings)[index + direction] = getColors(settings)[index];
-  getColors(settings)[index] = temp;
+  let colors = getColors(settings, themeindex);
+  let temp = colors[index + direction];
+  colors[index + direction] = colors[index];
+  colors[index] = temp;
 }
 
 // src/rendering/TextColorViewPlugin.ts
@@ -775,7 +777,11 @@ var TextColorViewPlugin = class {
           if (node.type.name != "Expression") {
             return false;
           }
-          handleExpression(node, builder, view.state);
+          try {
+            handleExpression(node, builder, view.state);
+          } catch (e) {
+            return true;
+          }
           return false;
         }
       });
@@ -788,6 +794,7 @@ function isLivePreview(state) {
 }
 function handleExpression(ExpressionNode, builder, state) {
   const from = ExpressionNode.from;
+  const to = ExpressionNode.to;
   let colorStack = [];
   const stateFrom = state.selection.main.from;
   const stateTo = state.selection.main.to;
@@ -814,7 +821,8 @@ function handleExpression(ExpressionNode, builder, state) {
           if ((_b = colorStack.last()) == null ? void 0 : _b.inside) {
             return true;
           }
-          builder.add(node.from + from, node.to + from, import_view3.Decoration.replace({ widget: new MarkerWidget(), block: false }));
+          let decoration = import_view3.Decoration.replace({ widget: new MarkerWidget(), block: false });
+          builder.add(node.from + from, node.to + from, decoration);
           return true;
         case "Color":
           let color = state.sliceDoc(from + node.from, from + node.to);
@@ -986,6 +994,13 @@ function applyColor(tColor, editor) {
   let selected = editor.getSelection();
   let coloredText = `${prefix}${selected}${suffix}`;
   editor.replaceSelection(coloredText);
+  try {
+    let pos = editor.getCursor();
+    pos.ch = pos.ch + 1;
+    editor.setCursor(pos);
+  } catch (e) {
+    return;
+  }
 }
 function removeColor(editor, view) {
   var _a, _b;
@@ -1039,7 +1054,6 @@ var ColorSuggestModal = class extends import_obsidian7.SuggestModal {
 };
 
 // main.ts
-var MAX_MENU_ITEMS = 10;
 var FastTextColorPlugin = class extends import_obsidian8.Plugin {
   async onload() {
     await this.loadSettings();
@@ -1158,8 +1172,9 @@ var FastTextColorPlugin = class extends import_obsidian8.Plugin {
     this.colorMenu.setAttribute("id", "fast-color-menu");
     this.colorMenu.addClass("fast-color-menu");
     (_a = document.body.querySelector(".mod-vertical.mod-root")) == null ? void 0 : _a.insertAdjacentElement("afterbegin", this.colorMenu);
-    for (let i = 0; i < Math.min(getColors(this.settings).length, MAX_MENU_ITEMS); i++) {
-      this.createColorItem(this.colorMenu, getColors(this.settings)[i], i + 1, editor);
+    let colors = getColors(this.settings);
+    for (let i = 0; i < colors.length; i++) {
+      this.createColorItem(this.colorMenu, colors[i], i + 1, editor);
     }
     this.colorMenu.setAttribute("style", `left: calc(50% - ${this.colorMenu.offsetWidth}px / 2); ${attributes}`);
     if (!this.settings.useKeybindings) {
@@ -1180,6 +1195,9 @@ var FastTextColorPlugin = class extends import_obsidian8.Plugin {
     let { scope } = this;
     for (let i = 0; i < getColors(this.settings).length; i++) {
       const tColor = getColors(this.settings)[i];
+      if (!tColor.keybind || tColor.keybind == "") {
+        continue;
+      }
       scope.register([], tColor.keybind, (event) => {
         if (event.isComposing) {
           return true;
@@ -1238,10 +1256,10 @@ var FastTextColorPlugin = class extends import_obsidian8.Plugin {
   createColorItem(menu, tColor, counter, editor) {
     new import_obsidian8.ButtonComponent(menu).setButtonText(`${tColor.keybind}`).setClass("fast-color-menu-item").onClick(() => {
       let n = new import_obsidian8.Notice("activated color");
-      n.noticeEl.setAttr("style", `background-color: ${tColor.color}`);
+      n.noticeEl.setAttr("style", `background-color: ${tColor.getColorValue()}`);
       applyColor(tColor, editor);
       this.closeColorMenu();
-    }).buttonEl.setAttr("style", `background-color: ${tColor.color}`);
+    }).buttonEl.setAttr("style", `background-color: ${tColor.getColorValue()}`);
   }
   /**
    * creates the stylesheet needed for the colors in the root of the document.

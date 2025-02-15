@@ -2,7 +2,7 @@
 tags:
   - AI
 ---
-The sigmoid function is one of the most commonly used [Activation Functions](Activation%20Functions.md) in [Neural Network](../../Neural%20Network.md), particularly in the early days of [Machine Learning](../../../Machine%20Learning/Machine%20Learning.md). It has a characteristic "S" shaped curve, also known as a **logistic curve**, and is defined mathematically as:
+The sigmoid function is one of the most commonly used [Activation Functions](Activation%20Functions.md) in [Neural Network](../../Neural%20Network.md). It has a characteristic "S" shaped curve, also known as a **logistic curve**, and is defined mathematically as:
 $$
 \sigma(x)=\frac{1}{1+e^{-x}}
 $$

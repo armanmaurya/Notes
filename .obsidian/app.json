@@ -20,5 +20,8 @@
   "showInlineTitle": true,
   "showLineNumber": false,
   "rightToLeft": false,
-  "showRibbon": true
+  "spellcheckDictionary": [
+    "Poynting",
+    "Multiclass"
+  ]
 }

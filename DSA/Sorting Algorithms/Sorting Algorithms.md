@@ -6,7 +6,7 @@ tags:
 A **Sorting Algorithm** is used to rearrange a given array or list of elements in an order. Sorting is provided in library implementation of most of the programming languages.
 ## Algorithms
 - Comparison Based
-	- Selection Sort
+	- [Selection Sort](Selection%20Sort/Selection%20Sort.md)
 	- [Bubble Sort](Bubble%20Sort/Bubble%20Sort.md)
 	- Insertion Sort
 	- [Merge Sort](Merge%20Sort/Merge%20Sort.md)

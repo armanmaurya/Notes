@@ -12,3 +12,5 @@ A variety of loss functions can be used to determine the strength of any linear 
 	- Calculates the average of the squared difference between the actual and predicted values for all the data points.
 2. [Mean Absolute Error](Mean%20Absolute%20Error.md)
 	- Calculates then average absolute difference between the predicted values and actual values.
+3. [Root Mean Squared Error](Root%20Mean%20Squared%20Error.md)
+	- The square root of the mean of the square of all the errors.

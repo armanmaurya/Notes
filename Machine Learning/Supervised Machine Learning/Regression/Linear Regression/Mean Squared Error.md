@@ -9,8 +9,8 @@ $$\text{Mean Squared Error} = \frac{1}{n}\sum_{i = 1}^{n}(Y_i – \hat Y_i)^2$$
 Where:
 
 - $n$ is the number of observations in the dataset.
-- $Y_{i}$ is the actual value of the observation.
-- $\hat Y_i$ is the predicted value of the $i^{th}$ observation.
+- $Y_{i}$ is the actual value of the $i-th$ data points.
+- $\hat Y_i = mX_{i}+c$ : is the predicted value of the $i^{th}$ observation.
 ## Interpretation
 The Interpreting MSE involves understanding the magnitude of the error and its implications for model’s performance.
 - A lower MSE indicates that the model’s predictions are closer to the actual values signifying better accuracy.

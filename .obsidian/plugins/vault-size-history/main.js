@@ -99542,11 +99542,12 @@ var GraphModal = class extends import_obsidian.Modal {
     return result;
   }
   async onOpen() {
-    let { contentEl, modalEl } = this;
+    let { titleEl, contentEl, modalEl } = this;
     modalEl.addClass("technerium-vshp-graph-modal");
     let graphContainer = document.createElement("div");
     graphContainer.classList.add("technerium-vshp-graph-container");
     contentEl.append(graphContainer);
+    titleEl.append("Vault size history");
     const backgroundColor2 = window.getComputedStyle(graphContainer, null).getPropertyValue("background-color");
     const fontColor = window.getComputedStyle(graphContainer, null).getPropertyValue("color");
     let myChart = init2(graphContainer);
@@ -99555,12 +99556,12 @@ var GraphModal = class extends import_obsidian.Modal {
     const keys2 = graphData.getXScaleItems();
     const graphSeries = graphData.getEChartSeries();
     let option = {
-      title: {
-        text: "Vault size history",
-        textStyle: {
-          color: fontColor
-        }
-      },
+      // title: {
+      // 	text: 'Vault size history 11',
+      // 	textStyle: {
+      // 		color: fontColor,
+      // 	}
+      // },
       textStyle: {
         color: fontColor
       },
@@ -99574,10 +99575,10 @@ var GraphModal = class extends import_obsidian.Modal {
         }
       },
       grid: {
-        left: "6%",
-        right: "4%",
-        bottom: "3%",
-        containLabel: false
+        left: "10px",
+        right: "10px",
+        bottom: "10px",
+        containLabel: true
       },
       xAxis: {
         type: "category",
@@ -99593,7 +99594,10 @@ var GraphModal = class extends import_obsidian.Modal {
             opacity: 0.3
           }
         },
-        splitNumber: 10
+        splitNumber: 10,
+        axisLabel: {
+          align: "right"
+        }
       },
       series: graphSeries
     };
@@ -103887,7 +103891,13 @@ var SettingsForm = (props) => {
         listId: multiMatchListId
       }
     ),
-    /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("br", {}),
+    /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("div", { className: "technerium-vshp-settings-setting", children: /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("div", { className: "technerium-vshp-settings-setting-info", children: [
+      /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("div", { className: "technerium-vshp-settings-setting-info-name", children: "\xA0" }),
+      /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("div", { className: "technerium-vshp-settings-setting-info-desc", children: [
+        "Documentation and examples are available on our GitHub page: ",
+        /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("a", { href: "https://github.com/technerium/obsidian-vault-size-history", children: "Vault Size History for Obsidian" })
+      ] })
+    ] }) }),
     /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("div", { className: "technerium-vshp-settings-setting", children: [
       /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("div", { className: "technerium-vshp-settings-setting-info", children: [
         /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("div", { className: "technerium-vshp-settings-setting-info-name", children: "Graph Start" }),

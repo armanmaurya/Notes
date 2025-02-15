@@ -1,7 +1,7 @@
 {
-  "hideStatus": true,
-  "hideTabs": true,
-  "hideScroll": false,
+  "hideStatus": false,
+  "hideTabs": false,
+  "hideScroll": true,
   "hideSidebarButtons": false,
   "hideTooltips": false,
   "hideFileNavButtons": false,

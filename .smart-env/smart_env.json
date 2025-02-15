@@ -7,10 +7,17 @@
       "None": {
         "min_chars": 50
       }
-    }
+    },
+    "min_chars": "300"
   },
   "smart_sources": {
+    "single_file_data_path": ".smart-env/smart_sources.json",
     "embed_model": {
+      "adapter": "transformers",
+      "transformers": {
+        "legacy_transformers": false,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
       "model_key": "TaylorAI/bge-micro-v2",
       "legacy_transformers": true,
       "TaylorAI/bge-micro-v2": {
@@ -19,10 +26,17 @@
     },
     "smart_change": {
       "active": "true"
-    }
+    },
+    "min_chars": "300"
   },
   "file_exclusions": "Untitled",
   "folder_exclusions": "smart-chats",
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": false,
+    "exclude_inlinks": "false",
+    "exclude_outlinks": "false"
+  },
   "smart_notices": {
     "muted": {
       "done initial scan": true,
@@ -33,9 +47,5 @@
   },
   "legacy_transformers": true,
   "excluded_headings": "",
-  "smart_view_filter": {
-    "exclude_inlinks": "false",
-    "exclude_outlinks": "false"
-  },
   "smart_chats_folder": "smart-chats"
 }
