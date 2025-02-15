@@ -37,16 +37,6 @@
             }
           },
           {
-            "id": "3500fffa5acfeba7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "574194579d024668",
             "type": "leaf",
             "state": {
@@ -61,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f10e02f384b61344",
@@ -256,6 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "B.Tech/Electronics and Communication/Engineering Mathematics/Leibnitz's Theorem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +274,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Leibnitz's Theorem"
             }
           }
         ]
@@ -314,7 +305,7 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "3500fffa5acfeba7",
+  "active": "c3026d8478128dbe",
   "lastOpenFiles": [
     "Microcontrollers/Register.md",
     "Electronics",
